@@ -19,20 +19,20 @@ OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "feed.xml")
 FEED_TITLE = "AI & IT News Digest"
 FEED_DESC  = "AI / Web / バックエンド / セキュリティの最新ニュース要約（自動生成）"
 
-# 収集元RSSフィード（ジャンルごと）
+# 収集元RSSフィード（ジャンルごと・日本語ソース）
 SOURCE_FEEDS = [
     # AI / 機械学習
-    {"url": "https://feeds.feedburner.com/venturebeat/SZYF", "genre": "AI"},
-    {"url": "https://www.artificialintelligence-news.com/feed/", "genre": "AI"},
+    {"url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml", "genre": "AI"},
+    {"url": "https://gigazine.net/news/rss_2.0/", "genre": "AI"},
     # Web / フロントエンド
-    {"url": "https://css-tricks.com/feed/", "genre": "Web"},
-    {"url": "https://feeds.feedburner.com/smashingmagazine", "genre": "Web"},
+    {"url": "https://zenn.dev/feed", "genre": "Web"},
+    {"url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml", "genre": "Web"},
     # バックエンド / インフラ
-    {"url": "https://devops.com/feed/", "genre": "バックエンド"},
-    {"url": "https://www.infoq.com/feed/", "genre": "バックエンド"},
+    {"url": "https://developers.srad.jp/index.rss", "genre": "バックエンド"},
+    {"url": "https://codezine.jp/rss/new/20/index.xml", "genre": "バックエンド"},
     # セキュリティ
-    {"url": "https://feeds.feedburner.com/TheHackersNews", "genre": "セキュリティ"},
-    {"url": "https://www.bleepingcomputer.com/feed/", "genre": "セキュリティ"},
+    {"url": "https://www.security-next.com/feed", "genre": "セキュリティ"},
+    {"url": "https://rss.itmedia.co.jp/rss/2.0/security.xml", "genre": "セキュリティ"},
 ]
 
 MAX_ITEMS = 5          # 最終的に含める記事数
