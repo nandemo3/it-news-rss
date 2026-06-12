@@ -5,48 +5,48 @@
     <link>https://nandemo3.github.io/it-news-rss/feed.xml</link>
     <description>AI / Web / バックエンド / セキュリティの最新ニュース要約（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 03:25:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 03:40:34 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights</title>
-      <link>https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights</link>
-      <description>Agent skills have become an important part of real-world AI applications, providing a mechanism — a set of instructions saved in a folder of text-base…</description>
-      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
-      <guid isPermaLink="true">https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights</guid>
+      <title>「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略”　日本市場をどう開拓？</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/</link>
+      <description>近年激化する人型ロボットの開発競争の中で、注目を集める中国Unitree Robotics。事業戦略や日本市場での展望を担当者に聞いた。</description>
+      <pubDate>Fri, 12 Jun 2026 03:40:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/</guid>
       <category>AI</category>
     </item>
     <item>
-      <title>Creating Memorable Web Experiences: A Modern CSS Toolkit</title>
-      <link>https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/</link>
-      <description>There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing te…</description>
-      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
-      <guid isPermaLink="true">https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/</guid>
+      <title>ゲーム事業部設立して、終了したお話</title>
+      <link>https://zenn.dev/91works/articles/b535a86336cf42</link>
+      <description>はじめに 会社からゲーム事業部作ってみない？と言われたのがきっかけで事業部を作ってみることになり、その経過と終了までをまとめたものになります。 これから事業を始めていく人や、事業を始めるってどういうことなんだろう？という方に少しでも参考になれば幸いです。 事業計画書 まずは事業として設立するには事業…</description>
+      <pubDate>Fri, 12 Jun 2026 03:40:34 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/91works/articles/b535a86336cf42</guid>
       <category>Web</category>
     </item>
     <item>
-      <title>Why Your Observability Stack Is Costing You More Than Your Cloud Bill</title>
-      <link>https://devops.com/why-your-observability-stack-is-costing-you-more-than-your-cloud-bill/</link>
-      <description>There&amp;#8217;s a pattern playing out across engineering teams right now that nobody talks about openly: the tool meant to reduce operational complexity…</description>
-      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
-      <guid isPermaLink="true">https://devops.com/why-your-observability-stack-is-costing-you-more-than-your-cloud-bill/</guid>
+      <title>CTC×慶應義塾大学で開発したOSSとは【デブサミ2026夏 注目セッション】</title>
+      <link>https://codezine.jp/article/detail/24445</link>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2026 03:40:34 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24445</guid>
       <category>バックエンド</category>
     </item>
     <item>
-      <title>ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities</title>
-      <link>https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html</link>
-      <description>The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to k…</description>
-      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
-      <guid isPermaLink="true">https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html</guid>
+      <title>Oracle「PeopleSoft」に深刻なRCE脆弱性 - ただちに対応を</title>
+      <link>https://www.security-next.com/185796</link>
+      <description>「PeopleSoft」向けの基盤ソフトウェア「PeopleSoft Enterprise PeopleTools」に深刻な脆弱性が判明した。利用者に対策を呼びかけている。</description>
+      <pubDate>Fri, 12 Jun 2026 03:40:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/185796</guid>
       <category>セキュリティ</category>
     </item>
     <item>
-      <title>Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks</title>
-      <link>https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks</link>
-      <description>Xiaomi&amp;#x27;s MiMo AI team has open-sourced MiMo Code V0.1.0, a terminal-native AI coding assistant that the Chinese electronics giant says outperform…</description>
-      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
-      <guid isPermaLink="true">https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks</guid>
+      <title>データセンター建設に足りないのは「発電」ではなく「送電」　AI需要で電力消費26％増、Gartner予想</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/</link>
+      <description>Gartnerは世界のデータセンターの電力消費が2026年に26％増の565TWhに達すると予測。日本では発電能力の不足ではなく、送電設備の整備遅れがデータセンター建設の足かせになっていると指摘した。</description>
+      <pubDate>Fri, 12 Jun 2026 03:40:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/</guid>
       <category>AI</category>
     </item>
   </channel>
