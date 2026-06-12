@@ -3,11 +3,11 @@ name: Daily RSS Feed Update
 on:
   schedule:
     # 毎朝8時JST（= UTC 23時、前日）
-    - cron: '0 23 * * *'
-  workflow_dispatch:  # 手動実行ボタンも有効化
+    - cron: "0 23 * * *"
+  workflow_dispatch: # 手動実行ボタンも有効化
 
 permissions:
-  contents: write  # git pushに必要
+  contents: write # git pushに必要
 
 jobs:
   update-rss:
@@ -20,14 +20,10 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.12'
-
-      - name: Install dependencies
-        run: pip install anthropic
+          python-version: "3.12"
 
       - name: Generate RSS feed
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
           # GitHub PagesのURL（例: https://yourname.github.io/it-news-rss/feed.xml）
           FEED_URL: ${{ secrets.FEED_URL }}
         run: python scripts/generate_rss.py
