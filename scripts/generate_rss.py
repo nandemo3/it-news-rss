@@ -14,29 +14,54 @@ from datetime import datetime, timezone
 from email.utils import formatdate, parsedate_to_datetime
 import xml.etree.ElementTree as ET
 
-OUTPUT_PATH = os.path.join(os.path.dirname(__file__), "..", "feed.xml")
+OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "..")
 
-FEED_TITLE = "AI & IT News Digest"
-FEED_DESC  = "AI / Web / バックエンド / セキュリティの最新ニュース要約（自動生成）"
-
-# 収集元RSSフィード（ジャンルごと・日本語ソース）
-SOURCE_FEEDS = [
-    # AI / 機械学習
-    {"url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml", "genre": "AI"},
-    {"url": "https://gigazine.net/news/rss_2.0/", "genre": "AI"},
-    # Web / フロントエンド
-    {"url": "https://zenn.dev/feed", "genre": "Web"},
-    {"url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml", "genre": "Web"},
-    # バックエンド / インフラ
-    {"url": "https://developers.srad.jp/index.rss", "genre": "バックエンド"},
-    {"url": "https://codezine.jp/rss/new/20/index.xml", "genre": "バックエンド"},
-    # セキュリティ
-    {"url": "https://www.security-next.com/feed", "genre": "セキュリティ"},
-    {"url": "https://rss.itmedia.co.jp/rss/2.0/security.xml", "genre": "セキュリティ"},
+# ジャンル定義：(ジャンル名, ファイル名, タイトル, 収集元RSS)
+GENRES = [
+    {
+        "genre":    "AI",
+        "filename": "feed_ai.xml",
+        "title":    "AI・機械学習 News Digest",
+        "desc":     "AI・機械学習の最新ニュース（自動生成）",
+        "sources":  [
+            "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+            "https://gigazine.net/news/rss_2.0/",
+        ],
+    },
+    {
+        "genre":    "Web",
+        "filename": "feed_web.xml",
+        "title":    "Web・フロントエンド News Digest",
+        "desc":     "Web・フロントエンド開発の最新ニュース（自動生成）",
+        "sources":  [
+            "https://zenn.dev/feed",
+            "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+        ],
+    },
+    {
+        "genre":    "バックエンド",
+        "filename": "feed_backend.xml",
+        "title":    "バックエンド・インフラ News Digest",
+        "desc":     "バックエンド・インフラの最新ニュース（自動生成）",
+        "sources":  [
+            "https://developers.srad.jp/index.rss",
+            "https://codezine.jp/rss/new/20/index.xml",
+        ],
+    },
+    {
+        "genre":    "セキュリティ",
+        "filename": "feed_security.xml",
+        "title":    "セキュリティ News Digest",
+        "desc":     "セキュリティの最新ニュース（自動生成）",
+        "sources":  [
+            "https://www.security-next.com/feed",
+            "https://rss.itmedia.co.jp/rss/2.0/security.xml",
+        ],
+    },
 ]
 
-MAX_ITEMS = 5          # 最終的に含める記事数
-MAX_PER_FEED = 2       # 1フィードから取得する最大記事数
+MAX_ITEMS = 5      # 1フィードファイルに含める記事数
+MAX_PER_FEED = 3   # 1収集元から取得する最大記事数
 
 
 def fetch_feed(url: str) -> list[dict]:
@@ -91,38 +116,24 @@ def _clean(html: str) -> str:
     return text[:150] + "…" if len(text) > 150 else text
 
 
-def collect_news() -> list[dict]:
-    """各フィードから記事を収集し、ジャンルバランスを保ちつつMAX_ITEMS件返す。"""
-    by_genre: dict[str, list[dict]] = {}
-
-    for source in SOURCE_FEEDS:
-        genre = source["genre"]
-        print(f"  取得中: [{genre}] {source['url']}")
-        articles = fetch_feed(source["url"])
-        by_genre.setdefault(genre, []).extend(articles)
-
-    # ジャンルを均等にサンプリング
-    result, seen_urls = [], set()
-    genres = list(by_genre.keys())
-    idx = 0
-    while len(result) < MAX_ITEMS:
-        genre = genres[idx % len(genres)]
-        candidates = [a for a in by_genre.get(genre, []) if a["url"] not in seen_urls]
-        if candidates:
-            article = candidates[0]
-            by_genre[genre].remove(article)
-            seen_urls.add(article["url"])
-            article["genre"] = genre
-            result.append(article)
-        idx += 1
-        # 全ジャンル枯渇したら終了
-        if all(not [a for a in v if a["url"] not in seen_urls] for v in by_genre.values()):
+def collect_news_for_genre(genre_def: dict) -> list[dict]:
+    """1ジャンル分の記事をソースRSSから収集してMAX_ITEMS件返す。"""
+    articles, seen_urls = [], set()
+    for url in genre_def["sources"]:
+        print(f"  取得中: [{genre_def['genre']}] {url}")
+        for item in fetch_feed(url):
+            if item["url"] not in seen_urls:
+                seen_urls.add(item["url"])
+                item["genre"] = genre_def["genre"]
+                articles.append(item)
+            if len(articles) >= MAX_ITEMS:
+                break
+        if len(articles) >= MAX_ITEMS:
             break
+    return articles[:MAX_ITEMS]
 
-    return result
 
-
-def build_feed_xml(items: list[dict], feed_url: str = "") -> str:
+def build_feed_xml(items: list[dict], title: str, desc: str, feed_url: str = "") -> str:
     """アイテムリストからRSS 2.0 XMLを生成する。"""
     now_rfc = formatdate(usegmt=True)
 
@@ -146,9 +157,9 @@ def build_feed_xml(items: list[dict], feed_url: str = "") -> str:
     return f"""<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{esc(FEED_TITLE)}</title>
+    <title>{esc(title)}</title>
     <link>{esc(feed_url or 'https://github.com')}</link>
-    <description>{esc(FEED_DESC)}</description>
+    <description>{esc(desc)}</description>
     <language>ja</language>
     <lastBuildDate>{now_rfc}</lastBuildDate>
     <ttl>720</ttl>
@@ -160,26 +171,36 @@ def build_feed_xml(items: list[dict], feed_url: str = "") -> str:
 
 
 def main():
-    feed_url = os.environ.get("FEED_URL", "")
+    base_url = os.environ.get("FEED_URL", "").rstrip("/")
+    # FEED_URLがfeed.xmlで終わっている場合はディレクトリ部分だけ使う
+    if base_url.endswith(".xml"):
+        base_url = base_url.rsplit("/", 1)[0]
 
-    print("ニュース収集中...")
-    items = collect_news()
+    output_dir = os.path.abspath(OUTPUT_DIR)
+    os.makedirs(output_dir, exist_ok=True)
 
-    if not items:
-        raise SystemExit("❌ 記事が1件も取得できませんでした。")
+    print("ニュース収集中...\n")
+    total = 0
+    for genre_def in GENRES:
+        items = collect_news_for_genre(genre_def)
+        if not items:
+            print(f"  ⚠️  [{genre_def['genre']}] 記事が取得できませんでした。スキップします。\n")
+            continue
 
-    print(f"\n{len(items)}件取得:")
-    for item in items:
-        print(f"  [{item.get('genre', '')}] {item['title'][:60]}")
+        feed_url = f"{base_url}/{genre_def['filename']}" if base_url else ""
+        xml_content = build_feed_xml(items, genre_def["title"], genre_def["desc"], feed_url)
 
-    xml_content = build_feed_xml(items, feed_url)
+        output_path = os.path.join(output_dir, genre_def["filename"])
+        with open(output_path, "w", encoding="utf-8") as f:
+            f.write(xml_content)
 
-    output_path = os.path.abspath(OUTPUT_PATH)
-    os.makedirs(os.path.dirname(output_path), exist_ok=True)
-    with open(output_path, "w", encoding="utf-8") as f:
-        f.write(xml_content)
+        print(f"  ✅ [{genre_def['genre']}] {len(items)}件 → {genre_def['filename']}")
+        total += len(items)
 
-    print(f"\n✅ feed.xml を保存しました: {output_path}")
+    if total == 0:
+        raise SystemExit("❌ 全ジャンルで記事が取得できませんでした。")
+
+    print(f"\n合計{total}件のニュースを保存しました。")
 
 
 if __name__ == "__main__":

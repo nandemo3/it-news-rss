@@ -32,7 +32,7 @@ jobs:
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add feed.xml
+          git add feed_ai.xml feed_web.xml feed_backend.xml feed_security.xml
           # 変更がない場合はスキップ
           git diff --cached --quiet || git commit -m "chore: daily RSS update $(date -u '+%Y-%m-%d')"
           git push
