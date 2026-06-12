@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 07:42:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:49:47 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,40 +13,8 @@
       <title>QAエンジニアが「自分でテストやりきる」のをやめようとしている話</title>
       <link>https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</link>
       <description>こんにちは、株式会社ダイニーでQAエンジニアをしているかわさきです。 ダイニーのQA teamでいま試していることについて書こうと思います。「Claude Codeで開発の生産性が上がっている」という話は最近よく聞きます。同じことが、いまダイニーのQA teamでも起きています。テスト設計して実行す…</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:23 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 07:49:47 GMT</pubDate>
       <guid isPermaLink="true">https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</guid>
-      <category>Web</category>
-    </item>
-    <item>
-      <title>ゲーム事業部設立して、終了したお話</title>
-      <link>https://zenn.dev/91works/articles/b535a86336cf42</link>
-      <description>はじめに 会社からゲーム事業部作ってみない？と言われたのがきっかけで事業部を作ってみることになり、その経過と終了までをまとめたものになります。 これから事業を始めていく人や、事業を始めるってどういうことなんだろう？という方に少しでも参考になれば幸いです。 事業計画書 まずは事業として設立するには事業…</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:23 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/91works/articles/b535a86336cf42</guid>
-      <category>Web</category>
-    </item>
-    <item>
-      <title>iPhone17カメラ横向き問題</title>
-      <link>https://zenn.dev/jambo_dev/articles/4e47b995acb832</link>
-      <description>はじめに iPhone 17系の端末でだけ「アプリ内のカメラ映像が90度横向きになる」という問題に遭遇しました。調べてみると、SignalやMicrosoftのSDKでも同じ報告が上がっている、なかなか根の深い問題でした。 原因は iPhone 17のフロントカメラで videoRotationAn…</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:23 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/jambo_dev/articles/4e47b995acb832</guid>
-      <category>Web</category>
-    </item>
-    <item>
-      <title>「スマホ買取10％UP」実は終了後も同条件　ゲオストアで景品表示法違反　消費者庁</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/12/news112.html</link>
-      <description>消費者庁は6月11日、スマートフォンとタブレットの買取サービスを巡り、期間限定キャンペーンをうたいながら実際には期限後も同等以上の条件で買い取っていたとして、ゲオストアに措置命令を出した。</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/12/news112.html</guid>
-      <category>Web</category>
-    </item>
-    <item>
-      <title>ニッチなのに累計55万個のヒット　「手のひらネットワーク機器」第4弾を見てきた　今回のテーマは？</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/12/news061.html</link>
-      <description>Tインフラ機器を12分の1で再現したカプセルトイ「手のひらネットワーク機器」の第4弾が6月11日に発売された。テーマはInteropの「ShowNet」。会場では想定以上の売れ行きで、シリーズ累計出荷は55万個を超える。賛同、色、社名の縁と毎回変わる機種選定の裏側や、1人で何十個も買うファンの実態を…</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/12/news061.html</guid>
       <category>Web</category>
     </item>
   </channel>

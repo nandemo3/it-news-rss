@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 07:42:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 12 Jun 2026 07:50:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,40 +13,8 @@
       <title>5月下旬以降、「PeopleSoft」にゼロデイ攻撃 - 対策と侵害有無の調査を</title>
       <link>https://www.security-next.com/185824</link>
       <description>「PeopleSoft Enterprise PeopleTools」にリモートよりコードを実行される深刻な脆弱性が見つかった問題で、5月末よりゼロデイ攻撃が展開されていたことがわかった。システム環境を保護するとともに、侵害の有無を確認するよう呼びかけられている。</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:41 GMT</pubDate>
+      <pubDate>Fri, 12 Jun 2026 07:50:04 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/185824</guid>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>Oracle「PeopleSoft」に深刻なRCE脆弱性 - ただちに対応を</title>
-      <link>https://www.security-next.com/185796</link>
-      <description>「PeopleSoft」向けの基盤ソフトウェア「PeopleSoft Enterprise PeopleTools」に深刻な脆弱性が判明した。利用者に対策を呼びかけている。</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/185796</guid>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>「Chrome」に今週2度目のセキュ更新 - 脆弱性28件を修正</title>
-      <link>https://www.security-next.com/185791</link>
-      <description>Googleは現地時間2026年6月11日、デスクトップ向け「Chrome」のセキュリティアップデートをリリースした。同月8日のアップデートに続く今週2度目の更新で、深刻な脆弱性にも対処している。</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/185791</guid>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>OpenSSLに高危険度の脆弱性　発見にはClaudeが関与</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news055.html</link>
-      <description>OpenSSLプロジェクトは、PKCS#7署名検証機能に高危険度の解放後使用欠陥があると公表した。細工済みメッセージで異常動作が生じ、クラッシュやメモリ破壊、遠隔コード実行の恐れがあり、修正版公開で更新を呼びかけた。</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:41 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news055.html</guid>
-      <category>セキュリティ</category>
-    </item>
-    <item>
-      <title>漏えい・脆弱なパスワードを1タップで自動更新　Appleが新機能を発表</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news057.html</link>
-      <description>Appleは、Apple Intelligenceを活用し、漏えいや脆弱性が判明したパスワードをPasswordsアプリとSafariから自動更新できる機能を発表した。従来、ユーザーには警告のみが表示されていたが、変更作業自体は利用者自身が実施する必要があった。</description>
-      <pubDate>Fri, 12 Jun 2026 07:42:41 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/12/news057.html</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
