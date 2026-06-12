@@ -1,1 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"><channel><title>AI &amp; IT News Digest</title></channel></rss>
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI &amp; IT News Digest</title>
+    <link>https://nandemo3.github.io/it-news-rss/feed.xml</link>
+    <description>AI / Web / バックエンド / セキュリティの最新ニュース要約（自動生成）</description>
+    <language>ja</language>
+    <lastBuildDate>Fri, 12 Jun 2026 03:25:49 GMT</lastBuildDate>
+    <ttl>720</ttl>
+    <atom:link href="https://nandemo3.github.io/it-news-rss/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>Microsoft’s open-source SkillOpt automatically upgrades AI agent skills without touching model weights</title>
+      <link>https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights</link>
+      <description>Agent skills have become an important part of real-world AI applications, providing a mechanism — a set of instructions saved in a folder of text-base…</description>
+      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
+      <guid isPermaLink="true">https://venturebeat.com/orchestration/microsofts-open-source-skillopt-automatically-upgrades-ai-agent-skills-without-touching-model-weights</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>Creating Memorable Web Experiences: A Modern CSS Toolkit</title>
+      <link>https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/</link>
+      <description>There are many ways to create memorable experiences. Sometimes it's as simple as a form that completes smoothly. But here I'm interested in sharing te…</description>
+      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
+      <guid isPermaLink="true">https://css-tricks.com/creating-memorable-web-experiences-a-modern-css-toolkit/</guid>
+      <category>Web</category>
+    </item>
+    <item>
+      <title>Why Your Observability Stack Is Costing You More Than Your Cloud Bill</title>
+      <link>https://devops.com/why-your-observability-stack-is-costing-you-more-than-your-cloud-bill/</link>
+      <description>There&amp;#8217;s a pattern playing out across engineering teams right now that nobody talks about openly: the tool meant to reduce operational complexity…</description>
+      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
+      <guid isPermaLink="true">https://devops.com/why-your-observability-stack-is-costing-you-more-than-your-cloud-bill/</guid>
+      <category>バックエンド</category>
+    </item>
+    <item>
+      <title>ShinyHunters Exploits Oracle PeopleSoft Zero-Day (CVE-2026-35273) to Breach Universities</title>
+      <link>https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html</link>
+      <description>The ShinyHunters extortion crew exploited an unpatched flaw in Oracle PeopleSoft to break into enterprise systems, steal data, and demand payment to k…</description>
+      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
+      <guid isPermaLink="true">https://thehackernews.com/2026/06/shinyhunters-exploits-oracle-peoplesoft.html</guid>
+      <category>セキュリティ</category>
+    </item>
+    <item>
+      <title>Xiaomi's new open source, agentic AI coding harness MiMo Code beats Claude Code at ultra-long, 200+ step tasks</title>
+      <link>https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks</link>
+      <description>Xiaomi&amp;#x27;s MiMo AI team has open-sourced MiMo Code V0.1.0, a terminal-native AI coding assistant that the Chinese electronics giant says outperform…</description>
+      <pubDate>Fri, 12 Jun 2026 03:25:49 GMT</pubDate>
+      <guid isPermaLink="true">https://venturebeat.com/technology/xiaomis-new-open-source-agentic-ai-coding-harness-mimo-code-beats-claude-code-at-ultra-long-200-step-tasks</guid>
+      <category>AI</category>
+    </item>
+  </channel>
+</rss>
