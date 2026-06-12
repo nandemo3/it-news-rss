@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AI・機械学習 News Digest</title>
+    <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
+    <description>AI・機械学習の最新ニュース（自動生成）</description>
+    <language>ja</language>
+    <lastBuildDate>Fri, 12 Jun 2026 07:42:22 GMT</lastBuildDate>
+    <ttl>720</ttl>
+    <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>「今、Codexのレート制限を解除したい」を解決？　“付与したリセット権の貯蓄”可能に　有料ユーザー向け</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/</link>
+      <description>米OpenAIは、AIコーディング支援ツール「Codex」で、付与したレート制限のリセット権をユーザーの望むタイミングで使える機能を追加すると発表した。</description>
+      <pubDate>Fri, 12 Jun 2026 07:42:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>「人型ロボ世界シェア1位」中国Unitreeに聞く“普及戦略”　日本市場をどう開拓？</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/</link>
+      <description>近年激化する人型ロボットの開発競争の中で、注目を集める中国Unitree Robotics。事業戦略や日本市場での展望を担当者に聞いた。</description>
+      <pubDate>Fri, 12 Jun 2026 07:42:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/12/2000000080/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>データセンター建設に足りないのは「発電」ではなく「送電」　AI需要で電力消費26％増、Gartner予想</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/</link>
+      <description>Gartnerは世界のデータセンターの電力消費が2026年に26％増の565TWhに達すると予測。日本では発電能力の不足ではなく、送電設備の整備遅れがデータセンター建設の足かせになっていると指摘した。</description>
+      <pubDate>Fri, 12 Jun 2026 07:42:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/12/2000000083/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>科学的根拠が一切ない「占星術」が古代から現代まで愛され続けている理由とは？</title>
+      <link>https://gigazine.net/news/20260612-astrology-analysis/</link>
+      <description>天体の位置や動きなどを社会や個人の性質などと結び付けて占う「占星術」は古代バビロニア発祥とされ、現代でも根強く愛されています。科学的研究によると占星術と社会の出来事や人間の性格を結び付ける証拠は一切見つかっていないにもかかわらず、古代から現代にわたって占星術が求められ続けている理由について、アメリカ…</description>
+      <pubDate>Fri, 12 Jun 2026 07:42:22 GMT</pubDate>
+      <guid isPermaLink="true">https://gigazine.net/news/20260612-astrology-analysis/</guid>
+      <category>AI</category>
+    </item>
+    <item>
+      <title>空気中から1リットル近い飲料水を取り出せるジャケットが開発される</title>
+      <link>https://gigazine.net/news/20260612-jacket-pulls-drinking-water-from-air/</link>
+      <description>テキサス大学オースティン校の研究チームが、空気中の水分を集めて飲料水を取り出せるジャケット型デバイスを開発しました。この技術は繊維そのものに水分回収機能を持たせることで、ハイキングやキャンプ、農作業、災害対応、軍事活動など、飲料水を確保しにくい環境での利用を想定しています。続きを読む...</description>
+      <pubDate>Fri, 12 Jun 2026 07:42:22 GMT</pubDate>
+      <guid isPermaLink="true">https://gigazine.net/news/20260612-jacket-pulls-drinking-water-from-air/</guid>
+      <category>AI</category>
+    </item>
+  </channel>
+</rss>

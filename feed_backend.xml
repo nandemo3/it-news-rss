@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>バックエンド・インフラ News Digest</title>
+    <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
+    <description>バックエンド・インフラの最新ニュース（自動生成）</description>
+    <language>ja</language>
+    <lastBuildDate>Fri, 12 Jun 2026 07:42:39 GMT</lastBuildDate>
+    <ttl>720</ttl>
+    <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
+
+    <item>
+      <title>「PyCon JP 2026」が早割チケットを販売中、広島で8月21日～23日に開催</title>
+      <link>https://codezine.jp/article/detail/24534</link>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2026 07:42:39 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24534</guid>
+      <category>バックエンド</category>
+    </item>
+    <item>
+      <title>CTC×慶應義塾大学で開発したOSSとは【デブサミ2026夏 注目セッション】</title>
+      <link>https://codezine.jp/article/detail/24445</link>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2026 07:42:39 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24445</guid>
+      <category>バックエンド</category>
+    </item>
+    <item>
+      <title>GitHub Copilot CLI、セキュリティレビュー用コマンドを公開プレビュー</title>
+      <link>https://codezine.jp/article/detail/24529</link>
+      <description></description>
+      <pubDate>Fri, 12 Jun 2026 07:42:39 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24529</guid>
+      <category>バックエンド</category>
+    </item>
+  </channel>
+</rss>
