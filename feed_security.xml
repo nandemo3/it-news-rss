@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 07:50:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:23:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>5月下旬以降、「PeopleSoft」にゼロデイ攻撃 - 対策と侵害有無の調査を</title>
       <link>https://www.security-next.com/185824</link>
       <description>「PeopleSoft Enterprise PeopleTools」にリモートよりコードを実行される深刻な脆弱性が見つかった問題で、5月末よりゼロデイ攻撃が展開されていたことがわかった。システム環境を保護するとともに、侵害の有無を確認するよう呼びかけられている。</description>
-      <pubDate>Fri, 12 Jun 2026 07:50:04 GMT</pubDate>
+      <pubDate>Sat, 13 Jun 2026 00:23:05 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/185824</guid>
       <category>セキュリティ</category>
     </item>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 07:49:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:22:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「今、Codexのレート制限を解除したい」を解決？　“付与したリセット権の貯蓄”可能に　有料ユーザー向け</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/</link>
-      <description>米OpenAIは、AIコーディング支援ツール「Codex」で、付与したレート制限のリセット権をユーザーの望むタイミングで使える機能を追加すると発表した。</description>
-      <pubDate>Fri, 12 Jun 2026 07:49:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/12/2000000084/</guid>
+      <title>トヨタが抜かれる日――キオクシア首位奪取、2005年「時価総額トップ10」を振り返る</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2606/13/news019.html</link>
+      <description>2026年6月8日～12日に公開された記事の中から、MONOist編集部が厳選した今週の注目ニュースをお届けします。</description>
+      <pubDate>Sat, 13 Jun 2026 00:22:48 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2606/13/news019.html</guid>
       <category>AI</category>
     </item>
   </channel>

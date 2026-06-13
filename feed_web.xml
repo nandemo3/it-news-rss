@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 12 Jun 2026 07:49:47 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2026 00:22:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>QAエンジニアが「自分でテストやりきる」のをやめようとしている話</title>
-      <link>https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</link>
-      <description>こんにちは、株式会社ダイニーでQAエンジニアをしているかわさきです。 ダイニーのQA teamでいま試していることについて書こうと思います。「Claude Codeで開発の生産性が上がっている」という話は最近よく聞きます。同じことが、いまダイニーのQA teamでも起きています。テスト設計して実行す…</description>
-      <pubDate>Fri, 12 Jun 2026 07:49:47 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/yasuhiro_test/articles/65eba13298c9c2</guid>
+      <title>別モデルによるクロスレビューは有効なのか？同一モデルの継続セッション・別セッションと比較する（React習熟度スコア基準）</title>
+      <link>https://zenn.dev/imaimai17468/articles/c5440b98a6e766</link>
+      <description>先日、クロスレビューについて、効果があるのかないのか、両者とも根拠がない印象の感想合戦になりかけたので、実際にベンチマークを行うことにしました。 実施内容 うひょ氏のReact習熟度のベンチマークが一番扱いやすそうだったので、こちらを使わせていただきました。 https://zenn.dev/uhy…</description>
+      <pubDate>Sat, 13 Jun 2026 00:22:48 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/c5440b98a6e766</guid>
       <category>Web</category>
     </item>
   </channel>
