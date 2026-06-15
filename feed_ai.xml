@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:18:30 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropic、「Mythos 5」「Fable 5」の提供を一時停止　米政府指示を受け</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/13/2000000087/</link>
-      <description></description>
-      <pubDate>Sun, 14 Jun 2026 00:14:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/13/2000000087/</guid>
+      <title>ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？　8日間の実験で検証した研究</title>
+      <link>https://www.itmedia.co.jp/news/articles/2606/15/news028.html</link>
+      <description>米ジョージア工科大学やミシガン大学などに所属する研究者らが発表した論文「Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning」は、AIチャットbotと検索…</description>
+      <pubDate>Mon, 15 Jun 2026 00:18:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/15/news028.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:14:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:18:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilot CLI、多様な設定を一元管理できる「/settings」追加</title>
-      <link>https://codezine.jp/article/detail/24540</link>
-      <description></description>
-      <pubDate>Sun, 14 Jun 2026 00:14:17 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24540</guid>
+      <title>証券システムをゼロから作るには？ RubyとGoで「複雑性」を切り分けるブルーモ証券のアーキテクチャ</title>
+      <link>https://codezine.jp/article/detail/24322</link>
+      <description>金融業は厳しい規制産業であり、証券システムの開発には膨大な法令やルールへの対応が求められる。そのため、既存のベンダーパッケージを導入するのが一般的な方法とされてきた。しかし「Developers Summit 2026」において、ブルーモ証券株式会社の取締役CTOである小林悟史氏は、制約条件を正しく…</description>
+      <pubDate>Mon, 15 Jun 2026 00:18:46 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24322</guid>
       <category>バックエンド</category>
     </item>
   </channel>

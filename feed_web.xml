@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 14 Jun 2026 00:14:01 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 15 Jun 2026 00:18:30 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>半年でNext.jsアプリを10本作って見えた設計の「判断基準」-- Next.js 15 を作るガイドライン解説 ── 10本の実践アプリ</title>
-      <link>https://zenn.dev/yun_bow/articles/87d781437d1ddf</link>
-      <description>! 本記事は書籍のダイジェスト記事です 本記事で取り上げる内容は、「Next.js 15 を作るガイドライン解説 ── 10本の実践アプリで学ぶ App Router 時代の設計指針」のエッセンスを抜粋・再構成したものです。本の目的は「写経して終わり」ではなく、「読者自身が判断できるようになること」…</description>
-      <pubDate>Sun, 14 Jun 2026 00:14:01 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/yun_bow/articles/87d781437d1ddf</guid>
+      <title>従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う</title>
+      <link>https://zenn.dev/kusuke/articles/82129236caa5f8</link>
+      <description>Github Copilotが2026年6月より、クレジット制というか従量課金モデルに移行してしまいました。企業の経営のためには仕方がないのですが、個人としてはできれば安く定額で使いたい。 定額制で安くといえばOpenCode Goが有名ですが、こちらはVSCodeのチャットインテグレーションが公式…</description>
+      <pubDate>Mon, 15 Jun 2026 00:18:30 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/82129236caa5f8</guid>
       <category>Web</category>
     </item>
   </channel>
