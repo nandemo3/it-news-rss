@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:43:11 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ChatGPT vs. Google検索──どっちで調べるのが学習効果が高い？　8日間の実験で検証した研究</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/15/news028.html</link>
-      <description>米ジョージア工科大学やミシガン大学などに所属する研究者らが発表した論文「Learning by Chatting? Investigating the Impact of Generative AI on Information Seeking and Learning」は、AIチャットbotと検索…</description>
-      <pubDate>Mon, 15 Jun 2026 00:18:30 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/15/news028.html</guid>
+      <title>急拡大するAIインフラの電力需要……光明は「ワットビット連携」に？　さくら田中社長と東電が対談</title>
+      <link>https://www.itmedia.co.jp/news/articles/2606/15/news082.html</link>
+      <description>AIインフラの拡大で急増する電力需要に、データセンターと電力網はどう向き合うべきか──6月10～12日に幕張メッセで開催された「Interop Tokyo 2026」の基調講演では、東京電力ホールディングスの岡本浩氏（上席フェロー）と、さくらインターネットの田中邦裕代表取締役社長が議論を交わした。</description>
+      <pubDate>Tue, 16 Jun 2026 01:43:11 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/15/news082.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 15 Jun 2026 00:18:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 16 Jun 2026 01:43:11 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>従量制になったGithub Copilotの代わりにOpenCode GoをCopilot Chatのカスタムプロバイダとして使う</title>
-      <link>https://zenn.dev/kusuke/articles/82129236caa5f8</link>
-      <description>Github Copilotが2026年6月より、クレジット制というか従量課金モデルに移行してしまいました。企業の経営のためには仕方がないのですが、個人としてはできれば安く定額で使いたい。 定額制で安くといえばOpenCode Goが有名ですが、こちらはVSCodeのチャットインテグレーションが公式…</description>
-      <pubDate>Mon, 15 Jun 2026 00:18:30 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/kusuke/articles/82129236caa5f8</guid>
+      <title>ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？</title>
+      <link>https://zenn.dev/aldagram_tech/articles/124d14d59bc595</link>
+      <description>ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？ どうも。「エクセルファイル読んでますか？」でおなじみの（？）アルダグラム テクニカルフェローの蓬莱です。お元気ですか？ え？そんなことより気になる事がある？あ、このタイトルの事ですか。 「四則演算ぐらいできるわ！バ…</description>
+      <pubDate>Tue, 16 Jun 2026 01:43:11 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/124d14d59bc595</guid>
       <category>Web</category>
     </item>
   </channel>
