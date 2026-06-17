@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:43:27 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:22:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AnthropicとTCSが提携、Claudeを規制業界向けに提供開始</title>
-      <link>https://codezine.jp/article/detail/24553</link>
+      <title>Moonshot AI、コーディング向けのAIモデル「Kimi K2.7 Code」を公開</title>
+      <link>https://codezine.jp/article/detail/24564</link>
       <description></description>
-      <pubDate>Tue, 16 Jun 2026 01:43:27 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24553</guid>
+      <pubDate>Wed, 17 Jun 2026 00:22:40 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24564</guid>
       <category>バックエンド</category>
     </item>
   </channel>

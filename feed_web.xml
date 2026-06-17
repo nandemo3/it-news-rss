@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:22:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？</title>
-      <link>https://zenn.dev/aldagram_tech/articles/124d14d59bc595</link>
-      <description>ねえパパ、ほとんどのエンジニアは四則演算を計算するプログラムすら書けないってホント？ どうも。「エクセルファイル読んでますか？」でおなじみの（？）アルダグラム テクニカルフェローの蓬莱です。お元気ですか？ え？そんなことより気になる事がある？あ、このタイトルの事ですか。 「四則演算ぐらいできるわ！バ…</description>
-      <pubDate>Tue, 16 Jun 2026 01:43:11 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/aldagram_tech/articles/124d14d59bc595</guid>
+      <title>`cp`はディスク上ではデータをコピーしないことがある</title>
+      <link>https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86</link>
+      <description>誰もが使うLinuxのコマンドの一つにcpがあります。cp &amp;lt;src&amp;gt; &amp;lt;dest&amp;gt;のように引数を与えると&amp;lt;src&amp;gt;というファイルを&amp;lt;dest&amp;gt;にコピーします。この処理は以下の図のように(1)&amp;lt;dest&amp;gt;のinode(ファイルサイズ、作成時…</description>
+      <pubDate>Wed, 17 Jun 2026 00:22:24 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86</guid>
       <category>Web</category>
     </item>
   </channel>

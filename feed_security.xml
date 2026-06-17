@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:43:28 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:22:41 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「LiteSpeed cPanel Plugin」に権限昇格の脆弱性 - すでに悪用も</title>
-      <link>https://www.security-next.com/185914</link>
-      <description>「LiteSpeed Web Server」利用者向けのプラグイン「LiteSpeed cPanel Plugin」にあらたな脆弱性が明らかとなった。5月に判明した脆弱性とは異なる脆弱性で、悪用も確認されている。</description>
-      <pubDate>Tue, 16 Jun 2026 01:43:28 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/185914</guid>
+      <title>「Firefox」にアップデート  - 脆弱性40件を修正</title>
+      <link>https://www.security-next.com/185975</link>
+      <description>Mozilla Foundationは現地時間2026年6月16日、ブラウザ「Firefox」のセキュリティアップデートをリリースした。</description>
+      <pubDate>Wed, 17 Jun 2026 00:22:41 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/185975</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

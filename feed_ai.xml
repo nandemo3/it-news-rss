@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 16 Jun 2026 01:43:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 17 Jun 2026 00:22:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>急拡大するAIインフラの電力需要……光明は「ワットビット連携」に？　さくら田中社長と東電が対談</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/15/news082.html</link>
-      <description>AIインフラの拡大で急増する電力需要に、データセンターと電力網はどう向き合うべきか──6月10～12日に幕張メッセで開催された「Interop Tokyo 2026」の基調講演では、東京電力ホールディングスの岡本浩氏（上席フェロー）と、さくらインターネットの田中邦裕代表取締役社長が議論を交わした。</description>
-      <pubDate>Tue, 16 Jun 2026 01:43:11 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/15/news082.html</guid>
+      <title>「生成AIは大手なら安心」とは限らない？　突然の提供停止が招くリスク顕在化</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news041.html</link>
+      <description>米政府の輸出管理指令によるAnthropicの最新AIモデル提供停止を受け、生成AIが事前の通知なしに突然使えなくなるリスクが顕在化した。Forresterは、単一のAIモデル依存の危うさを指摘し、ポータビリティ確保をはじめとする4つの対策を推奨している。</description>
+      <pubDate>Wed, 17 Jun 2026 00:22:24 GMT</pubDate>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news041.html</guid>
       <category>AI</category>
     </item>
   </channel>
