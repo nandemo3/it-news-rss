@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:19:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「生成AIは大手なら安心」とは限らない？　突然の提供停止が招くリスク顕在化</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news041.html</link>
-      <description>米政府の輸出管理指令によるAnthropicの最新AIモデル提供停止を受け、生成AIが事前の通知なしに突然使えなくなるリスクが顕在化した。Forresterは、単一のAIモデル依存の危うさを指摘し、ポータビリティ確保をはじめとする4つの対策を推奨している。</description>
-      <pubDate>Wed, 17 Jun 2026 00:22:24 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/17/news041.html</guid>
+      <title>「AIコーディング」がたった5年で急進化したワケ　NTT「tsuzumi 2」開発者が分析</title>
+      <link>https://www.itmedia.co.jp/news/articles/2606/18/news038.html</link>
+      <description>コーディングに長けた大規模言語モデル（LLM）が登場したのは2021年ごろだ。それから5年で、競技プログラミングの問題を解けるレベルにまで成長した。なぜAIはコーディングがこれほど得意になったのか──「Interop Tokyo 2026」（幕張メッセ）で、LLM「tsuzumi」のコーディング能力…</description>
+      <pubDate>Thu, 18 Jun 2026 00:19:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/18/news038.html</guid>
       <category>AI</category>
     </item>
   </channel>

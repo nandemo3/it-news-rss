@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:22:41 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:19:34 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Firefox」にアップデート  - 脆弱性40件を修正</title>
-      <link>https://www.security-next.com/185975</link>
-      <description>Mozilla Foundationは現地時間2026年6月16日、ブラウザ「Firefox」のセキュリティアップデートをリリースした。</description>
-      <pubDate>Wed, 17 Jun 2026 00:22:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/185975</guid>
+      <title>「Chrome」が脆弱性33件を修正 - 「クリティカル」7件</title>
+      <link>https://www.security-next.com/186042</link>
+      <description>Googleは現地時間2026年6月16日、「Chrome」のセキュリティアップデートをリリースした。重要度「クリティカル（Critical）」の脆弱性を複数解消している。</description>
+      <pubDate>Thu, 18 Jun 2026 00:19:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186042</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

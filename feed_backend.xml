@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:22:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:19:33 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Moonshot AI、コーディング向けのAIモデル「Kimi K2.7 Code」を公開</title>
-      <link>https://codezine.jp/article/detail/24564</link>
+      <title>みのるん氏と「AIエージェントの最新動向とエンジニアのキャリア」を学ぶ！【デブサミスピンオフ】オンラインイベント開催</title>
+      <link>https://codezine.jp/article/detail/24584</link>
       <description></description>
-      <pubDate>Wed, 17 Jun 2026 00:22:40 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24564</guid>
+      <pubDate>Thu, 18 Jun 2026 00:19:33 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24584</guid>
       <category>バックエンド</category>
     </item>
   </channel>

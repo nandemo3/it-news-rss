@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 17 Jun 2026 00:22:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 18 Jun 2026 00:19:17 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>`cp`はディスク上ではデータをコピーしないことがある</title>
-      <link>https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86</link>
-      <description>誰もが使うLinuxのコマンドの一つにcpがあります。cp &amp;lt;src&amp;gt; &amp;lt;dest&amp;gt;のように引数を与えると&amp;lt;src&amp;gt;というファイルを&amp;lt;dest&amp;gt;にコピーします。この処理は以下の図のように(1)&amp;lt;dest&amp;gt;のinode(ファイルサイズ、作成時…</description>
-      <pubDate>Wed, 17 Jun 2026 00:22:24 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/satoru_takeuchi/articles/4bab372c6dae86</guid>
+      <title>Databricks発OSSのメタハーネス『Omnigent』を触ってみた！🪸⭐</title>
+      <link>https://zenn.dev/nttdata_tech/articles/2fe14c8819557c</link>
+      <description>はじめに こんにちは、Databricksビジネス推進室の澁谷です。 Databricksのブログで紹介されていたOSS「Omnigent」が気になったので、実際にローカル環境で触ってみました。 https://www.databricks.com/jp/blog/introducing-omnig…</description>
+      <pubDate>Thu, 18 Jun 2026 00:19:17 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/2fe14c8819557c</guid>
       <category>Web</category>
     </item>
   </channel>
