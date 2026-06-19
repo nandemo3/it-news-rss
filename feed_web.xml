@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:19:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:46:35 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Databricks発OSSのメタハーネス『Omnigent』を触ってみた！🪸⭐</title>
-      <link>https://zenn.dev/nttdata_tech/articles/2fe14c8819557c</link>
-      <description>はじめに こんにちは、Databricksビジネス推進室の澁谷です。 Databricksのブログで紹介されていたOSS「Omnigent」が気になったので、実際にローカル環境で触ってみました。 https://www.databricks.com/jp/blog/introducing-omnig…</description>
-      <pubDate>Thu, 18 Jun 2026 00:19:17 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/2fe14c8819557c</guid>
+      <title>ProgateのレッスンにChromeの開発者ツールを丸ごと埋め込んだ話</title>
+      <link>https://zenn.dev/progate/articles/progate-embed-devtools</link>
+      <description>はじめに HTML・CSSを学んでいると、「marginがなんで効かないんだろう？」「この要素ってどういう構造になってるんだろう？」と気になる場面がよくあります。普段の開発ならChromeのデベロッパーツールをパッと開いて要素を検証すればいいのですが、学習サービスのプレビューはiframeの中にある…</description>
+      <pubDate>Fri, 19 Jun 2026 01:46:35 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/progate/articles/progate-embed-devtools</guid>
       <category>Web</category>
     </item>
   </channel>

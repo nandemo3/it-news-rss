@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 18 Jun 2026 00:19:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 19 Jun 2026 01:46:35 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「AIコーディング」がたった5年で急進化したワケ　NTT「tsuzumi 2」開発者が分析</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/18/news038.html</link>
-      <description>コーディングに長けた大規模言語モデル（LLM）が登場したのは2021年ごろだ。それから5年で、競技プログラミングの問題を解けるレベルにまで成長した。なぜAIはコーディングがこれほど得意になったのか──「Interop Tokyo 2026」（幕張メッセ）で、LLM「tsuzumi」のコーディング能力…</description>
-      <pubDate>Thu, 18 Jun 2026 00:19:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/18/news038.html</guid>
+      <title>「ChatGPT広告」日本上陸　無料版と「Go」で表示、電通・博報堂など支援</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/</link>
+      <description>OpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。</description>
+      <pubDate>Fri, 19 Jun 2026 01:46:35 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/</guid>
       <category>AI</category>
     </item>
   </channel>
