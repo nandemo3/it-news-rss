@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 01:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:14:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ChatGPT広告」日本上陸　無料版と「Go」で表示、電通・博報堂など支援</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/</link>
-      <description>OpenAIは2月に米国でテスト運用を開始。5月には日本など5カ国への拡大を予告していた。</description>
-      <pubDate>Fri, 19 Jun 2026 01:46:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/19/2000000107/</guid>
+      <title>理研、AI for Science向けスパコンの名前を「理究」（りきゅう）に決定　由来は？</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/</link>
+      <description>理化学研究所は、AIを活用した科学研究「AI for Science」向けのスーパーコンピュータの名前を「理究」（りきゅう）に決定したと発表した。</description>
+      <pubDate>Sat, 20 Jun 2026 00:14:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/19/2000000110/</guid>
       <category>AI</category>
     </item>
   </channel>

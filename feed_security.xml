@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 01:46:56 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:15:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>6月公表の「Splunk Enterprise」脆弱性、悪用を確認</title>
-      <link>https://www.security-next.com/186126</link>
-      <description>2026年6月10日に公表された「Splunk Enterprise」の脆弱性が悪用されていることがわかった。同社や米当局では注意を呼びかけている。</description>
-      <pubDate>Fri, 19 Jun 2026 01:46:56 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186126</guid>
+      <title>FWやVPNの認証情報を攻撃者が大量保有 - 「FortiBleed」に要警戒</title>
+      <link>https://www.security-next.com/186120</link>
+      <description>ファイアウォールやVPNなど、Fortinet機器に関する大量の認証情報を攻撃者がデータベース化しており、攻撃に悪用されているとして米当局やセキュリティベンダーが警戒を強めている。</description>
+      <pubDate>Sat, 20 Jun 2026 00:15:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186120</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 19 Jun 2026 01:46:35 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2026 00:14:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ProgateのレッスンにChromeの開発者ツールを丸ごと埋め込んだ話</title>
-      <link>https://zenn.dev/progate/articles/progate-embed-devtools</link>
-      <description>はじめに HTML・CSSを学んでいると、「marginがなんで効かないんだろう？」「この要素ってどういう構造になってるんだろう？」と気になる場面がよくあります。普段の開発ならChromeのデベロッパーツールをパッと開いて要素を検証すればいいのですが、学習サービスのプレビューはiframeの中にある…</description>
-      <pubDate>Fri, 19 Jun 2026 01:46:35 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/progate/articles/progate-embed-devtools</guid>
+      <title>Claude Code に、自分が考えていそうなことを言語化してもらった</title>
+      <link>https://zenn.dev/estie/articles/f90d498d21a798</link>
+      <description>普段から Claude Code を開発でフルに活用していますが、僕はコードを読んで細かめにフィードバックする方で、ふと「Claude Code へのフィードバックに、自分のソフトウェアエンジニアとしての考え方がにじみ出ているのでは？」と思いました。 他の人のエンジニアリング哲学みたいなのを聞くのが…</description>
+      <pubDate>Sat, 20 Jun 2026 00:14:49 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/f90d498d21a798</guid>
       <category>Web</category>
     </item>
   </channel>
