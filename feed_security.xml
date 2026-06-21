@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:15:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:14:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>FWやVPNの認証情報を攻撃者が大量保有 - 「FortiBleed」に要警戒</title>
       <link>https://www.security-next.com/186120</link>
       <description>ファイアウォールやVPNなど、Fortinet機器に関する大量の認証情報を攻撃者がデータベース化しており、攻撃に悪用されているとして米当局やセキュリティベンダーが警戒を強めている。</description>
-      <pubDate>Sat, 20 Jun 2026 00:15:06 GMT</pubDate>
+      <pubDate>Sun, 21 Jun 2026 00:14:14 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/186120</guid>
       <category>セキュリティ</category>
     </item>

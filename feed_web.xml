@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 20 Jun 2026 00:14:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 21 Jun 2026 00:13:56 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Claude Code に、自分が考えていそうなことを言語化してもらった</title>
-      <link>https://zenn.dev/estie/articles/f90d498d21a798</link>
-      <description>普段から Claude Code を開発でフルに活用していますが、僕はコードを読んで細かめにフィードバックする方で、ふと「Claude Code へのフィードバックに、自分のソフトウェアエンジニアとしての考え方がにじみ出ているのでは？」と思いました。 他の人のエンジニアリング哲学みたいなのを聞くのが…</description>
-      <pubDate>Sat, 20 Jun 2026 00:14:49 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/estie/articles/f90d498d21a798</guid>
+      <title>AI以後の受託システム開発はどうなっていくのか（2026年6月版）</title>
+      <link>https://zenn.dev/terurou/articles/eb9e7a4ca7b364</link>
+      <description>筆者について どういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。 零細システム開発会社（デンキヤギ）の社長 自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい 受託の内訳は事業会社とのアジャイル・準委任契約がほとんどで、請負…</description>
+      <pubDate>Sun, 21 Jun 2026 00:13:56 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/terurou/articles/eb9e7a4ca7b364</guid>
       <category>Web</category>
     </item>
   </channel>
