@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:17:19 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>FWやVPNの認証情報を攻撃者が大量保有 - 「FortiBleed」に要警戒</title>
-      <link>https://www.security-next.com/186120</link>
-      <description>ファイアウォールやVPNなど、Fortinet機器に関する大量の認証情報を攻撃者がデータベース化しており、攻撃に悪用されているとして米当局やセキュリティベンダーが警戒を強めている。</description>
-      <pubDate>Sun, 21 Jun 2026 00:14:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186120</guid>
+      <title>「Node.js」に12件の脆弱性 - 修正版を公開</title>
+      <link>https://www.security-next.com/186198</link>
+      <description>「Node.js」に複数の脆弱性が判明し、開発チームは現地時間2026年6月18日にセキュリティアップデート「Node.js 26.3.1」「同24.17.0」「同22.23.0」をリリースした。</description>
+      <pubDate>Mon, 22 Jun 2026 00:17:19 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186198</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

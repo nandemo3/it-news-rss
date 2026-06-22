@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:13:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:17:01 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI以後の受託システム開発はどうなっていくのか（2026年6月版）</title>
-      <link>https://zenn.dev/terurou/articles/eb9e7a4ca7b364</link>
-      <description>筆者について どういうポジショントークなのかがわかるように、筆者の属性を先に書いておきます。 零細システム開発会社（デンキヤギ）の社長 自社製品（yagisan-reports）の開発・販売もやっているが、売上比率は受託のほうが大きい 受託の内訳は事業会社とのアジャイル・準委任契約がほとんどで、請負…</description>
-      <pubDate>Sun, 21 Jun 2026 00:13:56 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/terurou/articles/eb9e7a4ca7b364</guid>
+      <title>GPUDirect RDMA 入門: NIC が GPU メモリに直接読み書き</title>
+      <link>https://zenn.dev/tosshi/articles/42f0ee03b328a4</link>
+      <description>はじめに ! この記事のゴール: 「GPU 同士がネットワーク越しに、CPU をほとんど介さず直接データをやり取りする」仕組みである GPUDirect RDMA を、初学者向けに解説します。 そもそも RDMA とは何か（Buffer → NIC → NIC → Buffer） TCP/IP と何…</description>
+      <pubDate>Mon, 22 Jun 2026 00:17:01 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tosshi/articles/42f0ee03b328a4</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 21 Jun 2026 00:14:13 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jun 2026 00:17:18 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Vids、Veoで長尺動画作成と複数同時生成に対応</title>
-      <link>https://codezine.jp/article/detail/24608</link>
-      <description></description>
-      <pubDate>Sun, 21 Jun 2026 00:14:13 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24608</guid>
+      <title>「AI作りもOpsが本質？」データサイエンティスト協会委員・アイシア=ソリッド氏が語るAI開発の未来</title>
+      <link>https://codezine.jp/article/detail/24462</link>
+      <description>ChatGPTの登場やRAGの普及によって技術的ボトルネックが次々と突破される現代のAIシステム開発において、プロトタイプから実運用の移行時に立ちはだかる「評価」のプロセスは、多くのエンジニアを悩ませる極めて厄介な問題だ。特に入力も出力も自然言語という曖昧なAIの挙動を、エンジニアの「勘」だけで修正…</description>
+      <pubDate>Mon, 22 Jun 2026 00:17:18 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24462</guid>
       <category>バックエンド</category>
     </item>
   </channel>
