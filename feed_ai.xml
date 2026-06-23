@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:12:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropicへの500万ドル間接出資を解消、広告事業のイオレ　軸足移すAIデータセンター事業に資金投入</title>
-      <link>https://www.itmedia.co.jp/news/articles/2606/19/news138.html</link>
-      <description>イオレは6月19日、3月に決めた米Anthropicへの間接出資を解消し、出資金500万ドル（約7億9355万円）全額の返還を受けると発表した。返還資金は自社で開発を進めるAIDCへの投資に充てる。</description>
-      <pubDate>Mon, 22 Jun 2026 00:17:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2606/19/news138.html</guid>
+      <title>Copilotの“元”は取れるのか問題、ついに決着？　住友商事、京都市が掴んだ「AI活用の勝ち筋」</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html</link>
+      <description>生成AIの導入効果が問われる時期に入っている。Microsoftが試算した削減見込み額を独自検証した住友商事が出した結論とは。住友商事と京都市の生成AI活用例を紹介し、生成AI投資の勝ち筋に迫る。</description>
+      <pubDate>Tue, 23 Jun 2026 00:12:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html</guid>
       <category>AI</category>
     </item>
   </channel>

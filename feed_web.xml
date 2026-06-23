@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:17:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:12:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GPUDirect RDMA 入門: NIC が GPU メモリに直接読み書き</title>
-      <link>https://zenn.dev/tosshi/articles/42f0ee03b328a4</link>
-      <description>はじめに ! この記事のゴール: 「GPU 同士がネットワーク越しに、CPU をほとんど介さず直接データをやり取りする」仕組みである GPUDirect RDMA を、初学者向けに解説します。 そもそも RDMA とは何か（Buffer → NIC → NIC → Buffer） TCP/IP と何…</description>
-      <pubDate>Mon, 22 Jun 2026 00:17:01 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/tosshi/articles/42f0ee03b328a4</guid>
+      <title>Databricksが発表したOLAP×OLTP両刀⚔️の次世代DBアーキテクチャ「LTAP」を深堀る！</title>
+      <link>https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20</link>
+      <description>はじめに 株式会社NTTデータ所属、Databricksビジネス推進室の井能です。 Databricks Solutions Architect Championとしても活動しています。 現在サンフランシスコで開催され、私も現地参加している『Data+AI Summit 2026』にて、従来の常識を…</description>
+      <pubDate>Tue, 23 Jun 2026 00:12:46 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20</guid>
       <category>Web</category>
     </item>
   </channel>

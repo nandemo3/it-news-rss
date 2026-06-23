@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 22 Jun 2026 00:17:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 00:13:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Node.js」に12件の脆弱性 - 修正版を公開</title>
-      <link>https://www.security-next.com/186198</link>
-      <description>「Node.js」に複数の脆弱性が判明し、開発チームは現地時間2026年6月18日にセキュリティアップデート「Node.js 26.3.1」「同24.17.0」「同22.23.0」をリリースした。</description>
-      <pubDate>Mon, 22 Jun 2026 00:17:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186198</guid>
+      <title>ID管理基盤「OpenAM」にアップデート - 多数の脆弱性を修正</title>
+      <link>https://www.security-next.com/186246</link>
+      <description>アイデンティティ管理基盤「OpenAM」の開発チームは現地時間2026年6月17日にセキュリティアップデートとなる「同16.1.1」を公開した。</description>
+      <pubDate>Tue, 23 Jun 2026 00:13:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186246</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
