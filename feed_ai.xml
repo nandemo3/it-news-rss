@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 00:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 00:03:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Copilotの“元”は取れるのか問題、ついに決着？　住友商事、京都市が掴んだ「AI活用の勝ち筋」</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html</link>
-      <description>生成AIの導入効果が問われる時期に入っている。Microsoftが試算した削減見込み額を独自検証した住友商事が出した結論とは。住友商事と京都市の生成AI活用例を紹介し、生成AI投資の勝ち筋に迫る。</description>
-      <pubDate>Tue, 23 Jun 2026 00:12:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2606/23/news034.html</guid>
+      <title>再生師、テクスチャー翻訳家……オカムラがAIで導く2045年“未来の職業”</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2606/24/news041.html</link>
+      <description>オカムラは、自社の保有特許とAIを掛け合わせて導き出した「まだ存在しない未来の職業展 2045」を開催。手の動きで環境音を奏でる「ジェスチャーオーケストラ」や、対話から人生を再仕立てする「エンディングエディター」といった体験型展示を披露した。</description>
+      <pubDate>Wed, 24 Jun 2026 00:03:05 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2606/24/news041.html</guid>
       <category>AI</category>
     </item>
   </channel>

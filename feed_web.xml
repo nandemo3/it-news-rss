@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 00:12:46 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 00:03:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Databricksが発表したOLAP×OLTP両刀⚔️の次世代DBアーキテクチャ「LTAP」を深堀る！</title>
-      <link>https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20</link>
-      <description>はじめに 株式会社NTTデータ所属、Databricksビジネス推進室の井能です。 Databricks Solutions Architect Championとしても活動しています。 現在サンフランシスコで開催され、私も現地参加している『Data+AI Summit 2026』にて、従来の常識を…</description>
-      <pubDate>Tue, 23 Jun 2026 00:12:46 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/e1e7bc7aeb9b20</guid>
+      <title>スクフェス金沢に「初参加でいきなり登壇」という無茶をした結果、想像以上に世界が広がった【スクラムフェス金沢2026】</title>
+      <link>https://zenn.dev/sompojapan_dx/articles/bc3931a2e58ab5</link>
+      <description>! この記事は 2026/6/19-20 に金沢で開催されたコミュニティイベント「スクラムフェス金沢2026」の参加レポートです。ネットワーキングやセッション中の会話は個人の見解・体感ベースの内容であり、ご本人を特定しない形で要旨として再構成しています。 はじめに 2026年6月19日〜20日に金沢…</description>
+      <pubDate>Wed, 24 Jun 2026 00:03:05 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/sompojapan_dx/articles/bc3931a2e58ab5</guid>
       <category>Web</category>
     </item>
   </channel>
