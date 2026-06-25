@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 23 Jun 2026 00:13:03 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:18:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Workspaceで6月15日週に発表された新機能をまとめて紹介</title>
-      <link>https://codezine.jp/article/detail/24636</link>
-      <description></description>
-      <pubDate>Tue, 23 Jun 2026 00:13:03 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24636</guid>
+      <title>「動く」だけで満足しないための視覚的UI設計。AIの出力を激変させる5つの改善ポイントと開発プロンプト例</title>
+      <link>https://codezine.jp/article/detail/24586</link>
+      <description>最近では、エンジニアがデザインをAIで生成してそのまま実装に落とし込むケースが増えています。しかし、その際に直面するのは、見た目は整っているのにUI/UXが機能せず、サイトが想定通りに使われないという問題です。本連載ではそんなエンジニアのために、UXを改善するヒントを株式会社Faciloのフロントエ…</description>
+      <pubDate>Thu, 25 Jun 2026 00:18:14 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24586</guid>
       <category>バックエンド</category>
     </item>
   </channel>

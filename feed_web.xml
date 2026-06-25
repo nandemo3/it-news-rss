@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:17:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>スクフェス金沢に「初参加でいきなり登壇」という無茶をした結果、想像以上に世界が広がった【スクラムフェス金沢2026】</title>
-      <link>https://zenn.dev/sompojapan_dx/articles/bc3931a2e58ab5</link>
-      <description>! この記事は 2026/6/19-20 に金沢で開催されたコミュニティイベント「スクラムフェス金沢2026」の参加レポートです。ネットワーキングやセッション中の会話は個人の見解・体感ベースの内容であり、ご本人を特定しない形で要旨として再構成しています。 はじめに 2026年6月19日〜20日に金沢…</description>
-      <pubDate>Wed, 24 Jun 2026 00:03:05 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/sompojapan_dx/articles/bc3931a2e58ab5</guid>
+      <title>学生のためのCodex 〜Codexを学習に使う 入門編〜</title>
+      <link>https://zenn.dev/sora_lnv/articles/b67a03b8339278</link>
+      <description>1. はじめに Codexというと、プログラミングが得意な人やエンジニア向けのツールに見えるかもしれません。もしくは、Codexって何？と思う方もいると思います。 Codexはコードを書いたり、修正したり、エラーを調べたりするために強いAIエージェントです。 ですが、この記事ではCodexを「プログ…</description>
+      <pubDate>Thu, 25 Jun 2026 00:17:58 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/sora_lnv/articles/b67a03b8339278</guid>
       <category>Web</category>
     </item>
   </channel>

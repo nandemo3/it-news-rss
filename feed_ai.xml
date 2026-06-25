@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 24 Jun 2026 00:03:05 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jun 2026 00:17:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>再生師、テクスチャー翻訳家……オカムラがAIで導く2045年“未来の職業”</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2606/24/news041.html</link>
-      <description>オカムラは、自社の保有特許とAIを掛け合わせて導き出した「まだ存在しない未来の職業展 2045」を開催。手の動きで環境音を奏でる「ジェスチャーオーケストラ」や、対話から人生を再仕立てする「エンディングエディター」といった体験型展示を披露した。</description>
-      <pubDate>Wed, 24 Jun 2026 00:03:05 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2606/24/news041.html</guid>
+      <title>富士通と日本IBMの協業、ついに始動　COBOL刷新における「役割分担」は？</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2606/25/news026.html</link>
+      <description>レガシーシステムをどうモダナイズするかは、多くの企業における課題だ。富士通と日本IBMがこの領域での協業を発表した。ついに始動する、両社の協業における役割分担とは。</description>
+      <pubDate>Thu, 25 Jun 2026 00:17:58 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2606/25/news026.html</guid>
       <category>AI</category>
     </item>
   </channel>
