@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:17:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:15:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>富士通と日本IBMの協業、ついに始動　COBOL刷新における「役割分担」は？</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2606/25/news026.html</link>
-      <description>レガシーシステムをどうモダナイズするかは、多くの企業における課題だ。富士通と日本IBMがこの領域での協業を発表した。ついに始動する、両社の協業における役割分担とは。</description>
-      <pubDate>Thu, 25 Jun 2026 00:17:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2606/25/news026.html</guid>
+      <title>ITインフラの要件に“大変化”　なぜ「電力」と「冷却」にAI活用が縛られるのか？</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2606/26/news023.html</link>
+      <description>AI時代の到来により、ITインフラの要件に大きな変化が訪れています。データセンターを「どこに置くか」「どうやって冷やすか」が、AI活用の制約になるのはなぜか。新しいITインフラの要件に、IT部門がどのように対応すべきでしょうか。</description>
+      <pubDate>Fri, 26 Jun 2026 00:15:07 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2606/26/news023.html</guid>
       <category>AI</category>
     </item>
   </channel>

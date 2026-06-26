@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 25 Jun 2026 00:18:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2026 00:15:23 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「動く」だけで満足しないための視覚的UI設計。AIの出力を激変させる5つの改善ポイントと開発プロンプト例</title>
-      <link>https://codezine.jp/article/detail/24586</link>
-      <description>最近では、エンジニアがデザインをAIで生成してそのまま実装に落とし込むケースが増えています。しかし、その際に直面するのは、見た目は整っているのにUI/UXが機能せず、サイトが想定通りに使われないという問題です。本連載ではそんなエンジニアのために、UXを改善するヒントを株式会社Faciloのフロントエ…</description>
-      <pubDate>Thu, 25 Jun 2026 00:18:14 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24586</guid>
+      <title>AIが全プロセスを担う今、何を変え何を変えないか──日本CTO協会理事が語る、AI時代のプロダクトと開発戦略</title>
+      <link>https://codezine.jp/article/detail/24003</link>
+      <description>AIをプロダクトに組み込む企業が急増する一方、単なる機能追加にとどまり差別化につながらないケースも多い。「Developers Summit 2026」の初日「Dev x PM Day」で行われたパネルディスカッション「AI時代のプロダクトと開発」では、日本CTO協会 代表理事の今村雅幸氏と、日本C…</description>
+      <pubDate>Fri, 26 Jun 2026 00:15:23 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24003</guid>
       <category>バックエンド</category>
     </item>
   </channel>
