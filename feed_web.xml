@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:15:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:13:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Gemini を Claude の「サブエージェント」に —— 大規模開発でコストを実測</title>
-      <link>https://zenn.dev/google_cloud_jp/articles/63205d90345627</link>
-      <description>! Google Cloud Japan シリーズ続編です。 Claude on Vertex AI 完全ガイド（導入） Claude × Gemini マルチモデルゲートウェイを Cloud Run で構築（ランタイムのコスト追跡） 本記事 ← 開発時(dev-time) のハイブリッド構成。実測…</description>
-      <pubDate>Fri, 26 Jun 2026 00:15:07 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/google_cloud_jp/articles/63205d90345627</guid>
+      <title>ViteのresolveIdで特定環境のビルドだけ不要モジュールをstub化してバンドル軽量化</title>
+      <link>https://zenn.dev/dress_code/articles/78667afa7c4fd9</link>
+      <description>はじめに こんにちは、Dress Code株式会社でプロダクトエンジニアをしているもず（@mozu1206）です。 以前、フロントだけで動くCRUDプロトタイプをDexie.jsで作り、-api層だけ差し替える設計を紹介しました。 デモDBの初期化は動的import + モードガードで止めていたつも…</description>
+      <pubDate>Sat, 27 Jun 2026 00:13:51 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/78667afa7c4fd9</guid>
       <category>Web</category>
     </item>
   </channel>

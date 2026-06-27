@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 26 Jun 2026 00:15:23 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 27 Jun 2026 00:14:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIが全プロセスを担う今、何を変え何を変えないか──日本CTO協会理事が語る、AI時代のプロダクトと開発戦略</title>
-      <link>https://codezine.jp/article/detail/24003</link>
-      <description>AIをプロダクトに組み込む企業が急増する一方、単なる機能追加にとどまり差別化につながらないケースも多い。「Developers Summit 2026」の初日「Dev x PM Day」で行われたパネルディスカッション「AI時代のプロダクトと開発」では、日本CTO協会 代表理事の今村雅幸氏と、日本C…</description>
-      <pubDate>Fri, 26 Jun 2026 00:15:23 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24003</guid>
+      <title>Visual Studio Code 1.126が公開、コスト管理やセキュリティ強化など追加</title>
+      <link>https://codezine.jp/article/detail/24668</link>
+      <description></description>
+      <pubDate>Sat, 27 Jun 2026 00:14:07 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24668</guid>
       <category>バックエンド</category>
     </item>
   </channel>
