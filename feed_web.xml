@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:07:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ViteのresolveIdで特定環境のビルドだけ不要モジュールをstub化してバンドル軽量化</title>
-      <link>https://zenn.dev/dress_code/articles/78667afa7c4fd9</link>
-      <description>はじめに こんにちは、Dress Code株式会社でプロダクトエンジニアをしているもず（@mozu1206）です。 以前、フロントだけで動くCRUDプロトタイプをDexie.jsで作り、-api層だけ差し替える設計を紹介しました。 デモDBの初期化は動的import + モードガードで止めていたつも…</description>
-      <pubDate>Sat, 27 Jun 2026 00:13:51 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/78667afa7c4fd9</guid>
+      <title>Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する</title>
+      <link>https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability</link>
+      <description>この記事について 対象読者：Spring Boot から Claude API を呼んでいて、そのレイテンシ・トークン・コスト・失敗を可視化したい人／LLM 呼び出しに OpenTelemetry を入れる最小の型を知りたい人 得られること：Spring Boot 3 標準の Micrometer …</description>
+      <pubDate>Sun, 28 Jun 2026 00:07:24 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability</guid>
       <category>Web</category>
     </item>
   </channel>

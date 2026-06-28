@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 27 Jun 2026 00:13:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 28 Jun 2026 00:07:23 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>東電出資に意欲　孫正義氏が「国内データセンター誘致」で狙うインフラ戦略</title>
-      <link>https://www.itmedia.co.jp/business/articles/2606/27/news024.html</link>
-      <description>ソフトバンクグループ株主総会で、会長兼社長の孫正義氏が、将来的な目標として「純資産価値1000兆円」の展望を語った。AIインフラの最大のボトルネックである「電力確保」を巡り、子会社のソフトバンクが東京電力の次期オーナー候補に名乗りを上げている事実にも言及した。最先端データセンターを日本へ呼び戻そうと…</description>
-      <pubDate>Sat, 27 Jun 2026 00:13:51 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2606/27/news024.html</guid>
+      <title>AIモデル「ミュトス」、米国の一部組織に再提供へ　米政府が許可</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/</link>
+      <description>米Anthropicは6月26日（現地時間）、12日から提供を一時停止していたAIモデル「Claude Mythos 5」について、米国の一部組織に限定して再提供を始めると発表した。米政府から許可を得たという。</description>
+      <pubDate>Sun, 28 Jun 2026 00:07:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/27/2000000135/</guid>
       <category>AI</category>
     </item>
   </channel>
