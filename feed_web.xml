@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:13:11 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Spring Boot で Claude API 呼び出しを OpenTelemetry で計測する</title>
-      <link>https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability</link>
-      <description>この記事について 対象読者：Spring Boot から Claude API を呼んでいて、そのレイテンシ・トークン・コスト・失敗を可視化したい人／LLM 呼び出しに OpenTelemetry を入れる最小の型を知りたい人 得られること：Spring Boot 3 標準の Micrometer …</description>
-      <pubDate>Sun, 28 Jun 2026 00:07:24 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/propagandist/articles/0004-spring-boot-otel-claude-observability</guid>
+      <title>ループエンジニアリングを takt exec で気軽に始めよう</title>
+      <link>https://zenn.dev/nrs/articles/e4a2ae8a9fb785</link>
+      <description>はじめに 「ループエンジニアリング」という言葉が話題になっています。 ざっくり言うと「自分がエージェントに指示を出す役割を、システムに置き換える」という考え方です。 人間がプロンプトを書いてはエージェントの出力を確認して、またプロンプトを書いて、という往復をやめる。 代わりに作業→レビュー→修正のル…</description>
+      <pubDate>Mon, 29 Jun 2026 00:13:11 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/e4a2ae8a9fb785</guid>
       <category>Web</category>
     </item>
   </channel>

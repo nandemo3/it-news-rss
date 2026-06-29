@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 28 Jun 2026 00:07:50 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jun 2026 00:13:28 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome」が脆弱性を修正 - 前回アップデートから2日</title>
-      <link>https://www.security-next.com/186427</link>
-      <description>Googleは現地時間2026年6月25日、同社ブラウザ「Chrome」のセキュリティアップデートをリリースした。</description>
-      <pubDate>Sun, 28 Jun 2026 00:07:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186427</guid>
+      <title>ログ収集ツール「Fluentd」に深刻な脆弱性 - 修正版を公開</title>
+      <link>https://www.security-next.com/186512</link>
+      <description>クラウド環境などのログ収集に活用されている「Fluentd」に深刻な脆弱性が明らかとなった。アップデートが提供されている。</description>
+      <pubDate>Mon, 29 Jun 2026 00:13:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186512</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
