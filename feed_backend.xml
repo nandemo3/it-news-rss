@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:13:27 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:11:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「動くコード」は「安全なコード」ではない！ バイブコーディングの5つのセキュリティ急所と反脆弱な開発者・チームになるための実践</title>
-      <link>https://codezine.jp/article/detail/24632</link>
-      <description>AIが生成するコードで開発速度が飛躍的に向上した今、セキュリティリスクは静かに蓄積されている。「5人に1人が組織で生成AIのコードが深刻なインシデントを引き起こしている」1万件超の個人情報漏洩を自ら発見したKyohei氏は、Developers Summit 2026で「バイブコーディングの罠」を語…</description>
-      <pubDate>Mon, 29 Jun 2026 00:13:27 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24632</guid>
+      <title>「ジェネリクス」　～マンガでプログラミング用語解説</title>
+      <link>https://codezine.jp/article/detail/23686</link>
+      <description>この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、静的型…</description>
+      <pubDate>Tue, 30 Jun 2026 00:11:14 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/23686</guid>
       <category>バックエンド</category>
     </item>
   </channel>

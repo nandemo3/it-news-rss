@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 29 Jun 2026 00:13:11 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 00:10:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>製造現場のトラブル解消を「AI工場長」が支援？　「エージェント型工場」とは</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news055.html</link>
-      <description>AccentureとAvanadeはMicrosoftと協働し、製造業向け工場インテリジェンスシステム「エージェント型工場」を開発したと発表した。</description>
-      <pubDate>Mon, 29 Jun 2026 00:13:11 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2606/29/news055.html</guid>
+      <title>「Fable 5を全タスクに使う必要はない」　Anthropic開発者直伝のトークンコスト節約術</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2606/30/2000000137/</link>
+      <description>Anthropicの開発者がトークンコストを抑えるための戦略を語った。タスクに応じてモデルを使い分けると共に、適切な入力方式を選ぶことが重要だ。</description>
+      <pubDate>Tue, 30 Jun 2026 00:10:58 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/30/2000000137/</guid>
       <category>AI</category>
     </item>
   </channel>
