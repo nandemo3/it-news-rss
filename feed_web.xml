@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 00:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:13:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ECS のデプロイを ecspresso へ移行して自動化した話</title>
-      <link>https://zenn.dev/lincwell_inc/articles/c60c337017aa49</link>
-      <description>はじめに こんにちは。Linc'well R&amp;amp;S（Reliability &amp;amp; Security）チームのくのです！ 弊社では複数のサービスを ECS（Fargate）上で運用しているのですが、今回はそのうちの一つを対象に、デプロイの自動化に取り組みました。 これまでこのサービスのデプ…</description>
-      <pubDate>Tue, 30 Jun 2026 00:10:58 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/lincwell_inc/articles/c60c337017aa49</guid>
+      <title>ようこそ、ドメイン駆動設計へ</title>
+      <link>https://zenn.dev/k_ing/books/ddd-first-book</link>
+      <description>前半=解説編でドメイン駆動設計を『なぜ』から理解し、後半=実装編で勉強会アプリを1から作る、初学者のための1冊。￥500はチップ代です。本文は無料で読めます。</description>
+      <pubDate>Wed, 01 Jul 2026 00:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/k_ing/books/ddd-first-book</guid>
       <category>Web</category>
     </item>
   </channel>

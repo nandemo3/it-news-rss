@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 00:10:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:13:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Fable 5を全タスクに使う必要はない」　Anthropic開発者直伝のトークンコスト節約術</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2606/30/2000000137/</link>
-      <description>Anthropicの開発者がトークンコストを抑えるための戦略を語った。タスクに応じてモデルを使い分けると共に、適切な入力方式を選ぶことが重要だ。</description>
-      <pubDate>Tue, 30 Jun 2026 00:10:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2606/30/2000000137/</guid>
+      <title>AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/01/news027.html</link>
+      <description>米ワシントン大学などに所属する研究者らが発表した論文「AI Fiction in the Wild」は、AIチャットとの会話データを分析し、ユーザーがAIを使ってどれだけフィクションを生成しているのかを調べた研究報告だ。</description>
+      <pubDate>Wed, 01 Jul 2026 00:13:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/01/news027.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 30 Jun 2026 00:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jul 2026 00:13:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ジェネリクス」　～マンガでプログラミング用語解説</title>
-      <link>https://codezine.jp/article/detail/23686</link>
-      <description>この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、静的型…</description>
-      <pubDate>Tue, 30 Jun 2026 00:11:14 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/23686</guid>
+      <title>AWSが6月22日週に発表した新機能をまとめて紹介</title>
+      <link>https://codezine.jp/article/detail/24724</link>
+      <description></description>
+      <pubDate>Wed, 01 Jul 2026 00:13:16 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24724</guid>
       <category>バックエンド</category>
     </item>
   </channel>
