@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:14:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ようこそ、ドメイン駆動設計へ</title>
-      <link>https://zenn.dev/k_ing/books/ddd-first-book</link>
-      <description>前半=解説編でドメイン駆動設計を『なぜ』から理解し、後半=実装編で勉強会アプリを1から作る、初学者のための1冊。￥500はチップ代です。本文は無料で読めます。</description>
-      <pubDate>Wed, 01 Jul 2026 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/k_ing/books/ddd-first-book</guid>
+      <title>10 か月 CLI で使ってきた Claude Code を、Desktop メインに移行した 12 の理由</title>
+      <link>https://zenn.dev/canly/articles/428767121d7dc2</link>
+      <description>本記事は、カンリー社内で実施している AI 共有会で話した内容を記事化したものです(2026 年 6 月時点の macOS 版 Claude Desktop アプリの実機運用に基づく感想記事)。 はじめに 皆さんは Claude Code をどう起動して使っていますか？ ターミナルで claude …</description>
+      <pubDate>Thu, 02 Jul 2026 00:14:04 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/canly/articles/428767121d7dc2</guid>
       <category>Web</category>
     </item>
   </channel>

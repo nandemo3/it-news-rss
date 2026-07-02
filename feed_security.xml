@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:13:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:14:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Adobe ColdFusion」に複数の深刻な脆弱性 - 早急に対応を</title>
-      <link>https://www.security-next.com/186615</link>
-      <description>Adobeは、アプリケーションサーバ「Adobe ColdFusion」に深刻な脆弱性が判明したとして、定例外のアップデートを公開した。悪用されるリスクが高いとし、できるだけ早急に対処するよう求めている。</description>
-      <pubDate>Wed, 01 Jul 2026 00:13:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186615</guid>
+      <title>米当局、「SharePoint Server」の脆弱性悪用に注意喚起</title>
+      <link>https://www.security-next.com/186688</link>
+      <description>2026年5月の月例セキュリティ更新で修正された「Microsoft SharePoint Server」の脆弱性が悪用されている。アップデートのリリース当初は情報提供がなく、その後アドバイザリが公開されるなど変則的な対応となった脆弱性で、注意が必要だ。</description>
+      <pubDate>Thu, 02 Jul 2026 00:14:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186688</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

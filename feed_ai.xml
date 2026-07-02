@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 01 Jul 2026 00:13:00 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 02 Jul 2026 00:14:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIで“ゲームキャラの出産二次創作”を何千回と生成する人も……ChatGPTの会話57万件から見えたヘビーな利用実態</title>
-      <link>https://www.itmedia.co.jp/news/articles/2607/01/news027.html</link>
-      <description>米ワシントン大学などに所属する研究者らが発表した論文「AI Fiction in the Wild」は、AIチャットとの会話データを分析し、ユーザーがAIを使ってどれだけフィクションを生成しているのかを調べた研究報告だ。</description>
-      <pubDate>Wed, 01 Jul 2026 00:13:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/01/news027.html</guid>
+      <title>日立、ミッションクリティカル領域におけるAI活用を支援　「Hitachi iQ Studio」の3つの特徴</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2607/02/news026.html</link>
+      <description>日立製作所のグループ会社が、企業の基幹業務へのAI適用を支援する新プラットフォーム「Hitachi iQ Studio」の国内販売を開始した。ミッションクリティカル領域での展開を狙うこのソフトウェアの3つの特徴とは。</description>
+      <pubDate>Thu, 02 Jul 2026 00:14:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/02/news026.html</guid>
       <category>AI</category>
     </item>
   </channel>
