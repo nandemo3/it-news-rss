@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:14:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:11:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>米当局、「SharePoint Server」の脆弱性悪用に注意喚起</title>
-      <link>https://www.security-next.com/186688</link>
-      <description>2026年5月の月例セキュリティ更新で修正された「Microsoft SharePoint Server」の脆弱性が悪用されている。アップデートのリリース当初は情報提供がなく、その後アドバイザリが公開されるなど変則的な対応となった脆弱性で、注意が必要だ。</description>
-      <pubDate>Thu, 02 Jul 2026 00:14:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186688</guid>
+      <title>コンテナ管理ツール「Rancher」に脆弱性 - アップデートを公開</title>
+      <link>https://www.security-next.com/186734</link>
+      <description>コンテナ管理プラットフォーム「Rancher」に複数の脆弱性が明らかになったとして、SUSEはセキュリティアップデートをリリースした。</description>
+      <pubDate>Fri, 03 Jul 2026 00:11:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186734</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

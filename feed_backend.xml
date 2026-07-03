@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:14:20 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:11:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>インシデント発生時の「誰の責任？」論争に終止符を！ PMとエンジニアの対立を解消する意思決定プロセス</title>
-      <link>https://codezine.jp/article/detail/24533</link>
-      <description>障害が起きるたびに繰り返される原因究明という名の犯人探し、リリース期限と品質の狭間で衝突するプロダクトマネージャー（PM）とエンジニア。目的は同じはずのエンジニアリングの現場で、なぜこのような「誰の責任か？」を巡る不毛な対立が生まれてしまうのだろうか。サイバーセキュリティクラウド（登壇当時はココナラ…</description>
-      <pubDate>Thu, 02 Jul 2026 00:14:20 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24533</guid>
+      <title>「Notion 3.6」公開、外部エージェント連携やHTMLブロック機能を強化</title>
+      <link>https://codezine.jp/article/detail/28835</link>
+      <description></description>
+      <pubDate>Fri, 03 Jul 2026 00:11:48 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/28835</guid>
       <category>バックエンド</category>
     </item>
   </channel>

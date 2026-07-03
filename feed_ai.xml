@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 02 Jul 2026 00:14:04 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 03 Jul 2026 00:11:31 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>日立、ミッションクリティカル領域におけるAI活用を支援　「Hitachi iQ Studio」の3つの特徴</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2607/02/news026.html</link>
-      <description>日立製作所のグループ会社が、企業の基幹業務へのAI適用を支援する新プラットフォーム「Hitachi iQ Studio」の国内販売を開始した。ミッションクリティカル領域での展開を狙うこのソフトウェアの3つの特徴とは。</description>
-      <pubDate>Thu, 02 Jul 2026 00:14:04 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/02/news026.html</guid>
+      <title>「Mythosがないと守れない」は本当か??AIセキュリティの勝負を分ける「ハーネス」とは</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2607/03/2000000154/</link>
+      <description>「Mythos級のAIにアクセスできない企業は、もう守れない」??。Mythosのアクセスが一部の組織に限られていた2026年春、そんな脅威論が広がった。だが、AIによる初期侵入の自動化を世界で初めて実現したと公表する当事者は、そうは見ていない。勝負を分けるのは、アクセスの有無ではない。</description>
+      <pubDate>Fri, 03 Jul 2026 00:11:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/03/2000000154/</guid>
       <category>AI</category>
     </item>
   </channel>
