@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 00:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 00:10:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Mythosがないと守れない」は本当か??AIセキュリティの勝負を分ける「ハーネス」とは</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2607/03/2000000154/</link>
-      <description>「Mythos級のAIにアクセスできない企業は、もう守れない」??。Mythosのアクセスが一部の組織に限られていた2026年春、そんな脅威論が広がった。だが、AIによる初期侵入の自動化を世界で初めて実現したと公表する当事者は、そうは見ていない。勝負を分けるのは、アクセスの有無ではない。</description>
-      <pubDate>Fri, 03 Jul 2026 00:11:31 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/03/2000000154/</guid>
+      <title>米トランプ大統領、AI規制は「できるだけ介入少なく」　中国に対して開発競争「大幅リード」を強調</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/</link>
+      <description>トランプ米大統領がCNBCのインタビューで、AI規制について「ガードレールは必要だが、介入はできるだけ少なくしたい」と述べ、規制最小限の路線を改めて示した。</description>
+      <pubDate>Sat, 04 Jul 2026 00:10:08 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/</guid>
       <category>AI</category>
     </item>
   </channel>

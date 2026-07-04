@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 03 Jul 2026 00:11:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 04 Jul 2026 00:10:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Claude Fable 5が帰ってきたので情報を整理した</title>
-      <link>https://zenn.dev/acntechjp/articles/498c1dc866af19</link>
-      <description>6月に公開からわずか3日で使えなくなった Claude Fable 5 が、7月1日に戻ってきました。 自分も停止期間中は進行中の作業を Opus 4.8 に切り戻して過ごしていたので、Claude Code のモデル一覧に Fable 5 が再び現れたときは少しほっとしました。 ただ、今回の復活は…</description>
-      <pubDate>Fri, 03 Jul 2026 00:11:31 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/acntechjp/articles/498c1dc866af19</guid>
+      <title>Snowflakeの開発にCoCo(旧Cortex Code)をおすすめする理由</title>
+      <link>https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev</link>
+      <description>この記事について CoCo（旧Cortex Code）は使えば便利なのに、汎用のコーディングエージェントと何が違うのかがあまり知られていないと感じています。もったいないので、実際に使っている立場から整理してみます。特に以下の疑問を持っている人に向けて書いています。 使い慣れたコーディングエージェント…</description>
+      <pubDate>Sat, 04 Jul 2026 00:10:08 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/dataheroes/articles/why-coco-for-snowflake-dev</guid>
       <category>Web</category>
     </item>
   </channel>
