@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:10:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:05:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilot Visionが一般提供開始、画像やPDFの添付が可能に</title>
-      <link>https://codezine.jp/article/detail/28840</link>
+      <title>GitHub Copilot CLIとSDKでAIクレジットのセッション上限設定が可能に</title>
+      <link>https://codezine.jp/article/detail/28844</link>
       <description></description>
-      <pubDate>Sat, 04 Jul 2026 00:10:24 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28840</guid>
+      <pubDate>Sun, 05 Jul 2026 00:05:22 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/28844</guid>
       <category>バックエンド</category>
     </item>
   </channel>

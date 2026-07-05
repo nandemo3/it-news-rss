@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 04 Jul 2026 00:10:25 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 05 Jul 2026 00:05:23 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「WatchGuard Firebox」のVPN機能に深刻なRCE脆弱性</title>
       <link>https://www.security-next.com/186797</link>
       <description>WatchGuard Technologiesは、同社ファイアウォール製品「WatchGuard Firebox」のVPN機能に脆弱性が存在することが明らかになったとし、セキュリティアップデートをリリースした。</description>
-      <pubDate>Sat, 04 Jul 2026 00:10:25 GMT</pubDate>
+      <pubDate>Sun, 05 Jul 2026 00:05:23 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/186797</guid>
       <category>セキュリティ</category>
     </item>
