@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:12:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>米トランプ大統領、AI規制は「できるだけ介入少なく」　中国に対して開発競争「大幅リード」を強調</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/</link>
-      <description>トランプ米大統領がCNBCのインタビューで、AI規制について「ガードレールは必要だが、介入はできるだけ少なくしたい」と述べ、規制最小限の路線を改めて示した。</description>
-      <pubDate>Sun, 05 Jul 2026 00:05:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/04/2000000159/</guid>
+      <title>カクヤス「30年物の泥沼システム」をAIでどう解読？　現場が思いついた“ある考え”</title>
+      <link>https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html</link>
+      <description>動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。</description>
+      <pubDate>Mon, 06 Jul 2026 00:12:15 GMT</pubDate>
+      <guid isPermaLink="true">https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html</guid>
       <category>AI</category>
     </item>
   </channel>

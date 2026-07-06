@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:05:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:12:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Next.jsのpreloadが生成するHTTPヘッダーに日本語ファイル名が紛れて本番だけエラーが出た話</title>
-      <link>https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring</link>
-      <description>はじめに この記事は、Next.js の本番環境でだけ延々と出続けた Cannot convert argument to a ByteString ... というエラーを、原因究明して倒すまでの備忘録です。 きっかけは拍子抜けするくらい地味なもの（日本語ファイル名の画像）だったのですが、追いかけて…</description>
-      <pubDate>Sun, 05 Jul 2026 00:05:06 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/hidechannu/articles/20260703-japanese-filename-bytestring</guid>
+      <title>AIに外部脳を持たせて1ヶ月運用した全記録</title>
+      <link>https://zenn.dev/nobu666/articles/ai-external-brain-digest</link>
+      <description>AIにコードや文章を書かせている人なら、一度は感じたことがあると思う。セッションが変わると、前回の続きが話せない。前に指摘したことも、決めた前提も、好みも、全部リセットされて最初から説明し直しになる。優秀なのに、毎回初対面の担当者に電話しているような感覚だ。 公式のメモリ機能もあるにはあるが、使って…</description>
+      <pubDate>Mon, 06 Jul 2026 00:12:16 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nobu666/articles/ai-external-brain-digest</guid>
       <category>Web</category>
     </item>
   </channel>

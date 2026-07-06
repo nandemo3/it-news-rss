@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 05 Jul 2026 00:05:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 06 Jul 2026 00:12:32 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilot CLIとSDKでAIクレジットのセッション上限設定が可能に</title>
-      <link>https://codezine.jp/article/detail/28844</link>
-      <description></description>
-      <pubDate>Sun, 05 Jul 2026 00:05:22 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28844</guid>
+      <title>Excel分析の常識が変わる「Pythonネイティブ統合」――VBAとの使い分け</title>
+      <link>https://codezine.jp/article/detail/24693</link>
+      <description>「Microsoft 365」のExcelに、プログラミング言語Pythonがネイティブ統合されました。本連載「Python in Excel実務入門：Excelデータ分析の新パラダイム」は、Excelを業務で日常的に活用している分析担当者を対象に、Excelの中だけでデータ分析を完結させる方法を解…</description>
+      <pubDate>Mon, 06 Jul 2026 00:12:32 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24693</guid>
       <category>バックエンド</category>
     </item>
   </channel>
