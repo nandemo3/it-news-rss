@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:12:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:14:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ウェブメール「Roundcube」、アップデートで複数脆弱性を修正</title>
-      <link>https://www.security-next.com/186824</link>
-      <description>ウェブメールクライアント「Roundcube Webmail」の開発チームは、複数の脆弱性を解消したセキュリティアップデートを公開した。</description>
-      <pubDate>Mon, 06 Jul 2026 00:12:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186824</guid>
+      <title>「IBM WebSphere Application Server」の管理画面に複数脆弱性</title>
+      <link>https://www.security-next.com/186863</link>
+      <description>「IBM WebSphere Application Server」に複数の脆弱性が明らかとなった。暫定的な修正プログラムが提供されており、早急に対処するよう呼びかけられている。</description>
+      <pubDate>Tue, 07 Jul 2026 00:14:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/186863</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:12:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:13:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>カクヤス「30年物の泥沼システム」をAIでどう解読？　現場が思いついた“ある考え”</title>
-      <link>https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html</link>
-      <description>動いてはいるものの、誰もその中身を把握できない。多くの企業が直面する基幹システムの“老い”に、カクヤスは生成AIを使った。鍵となったのは、AIによる解析と現場の業務知見を組み合わせ、「AIを制御する技術」を確立したことだ。</description>
-      <pubDate>Mon, 06 Jul 2026 00:12:15 GMT</pubDate>
-      <guid isPermaLink="true">https://kn.itmedia.co.jp/kn/articles/2607/06/news040.html</guid>
+      <title>AI誤決裁の責任は誰が取る？　自動化していい業務／ダメな業務の境界線</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html</link>
+      <description>エイトレッドが「ワークフローのAI代替可能性に関する実態調査」の結果を公表。7割超の担当者が「ワークフローの承認・決裁をAIに任せるべきではない」と回答したことが明らかとなった。</description>
+      <pubDate>Tue, 07 Jul 2026 00:13:58 GMT</pubDate>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html</guid>
       <category>AI</category>
     </item>
   </channel>

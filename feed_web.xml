@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 06 Jul 2026 00:12:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 07 Jul 2026 00:13:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIに外部脳を持たせて1ヶ月運用した全記録</title>
-      <link>https://zenn.dev/nobu666/articles/ai-external-brain-digest</link>
-      <description>AIにコードや文章を書かせている人なら、一度は感じたことがあると思う。セッションが変わると、前回の続きが話せない。前に指摘したことも、決めた前提も、好みも、全部リセットされて最初から説明し直しになる。優秀なのに、毎回初対面の担当者に電話しているような感覚だ。 公式のメモリ機能もあるにはあるが、使って…</description>
-      <pubDate>Mon, 06 Jul 2026 00:12:16 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nobu666/articles/ai-external-brain-digest</guid>
+      <title>AI Agentに自由な開発環境を渡す、Proxmox+LXCで。</title>
+      <link>https://zenn.dev/uzulla/articles/91272997a7c668</link>
+      <description>こんにちは uzullaです。もはやAIエージェントに作業をさせることがお仕事みたいな時代になりましたね。 Agentに作業をさせるのだから「Enterをおすだけのかんたんなおしごと」は減らして、できるだけロングランしてほしい。 そうなると「エージェントが好き勝手できる」かどうかは重要なポイントです…</description>
+      <pubDate>Tue, 07 Jul 2026 00:13:58 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/uzulla/articles/91272997a7c668</guid>
       <category>Web</category>
     </item>
   </channel>
