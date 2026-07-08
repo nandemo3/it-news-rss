@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:02:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI誤決裁の責任は誰が取る？　自動化していい業務／ダメな業務の境界線</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html</link>
-      <description>エイトレッドが「ワークフローのAI代替可能性に関する実態調査」の結果を公表。7割超の担当者が「ワークフローの承認・決裁をAIに任せるべきではない」と回答したことが明らかとなった。</description>
-      <pubDate>Tue, 07 Jul 2026 00:13:58 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2607/07/news056.html</guid>
+      <title>Meta、初のエージェント型画像生成AI「Muse Image」公開　動画生成AI「Muse Video」もプレビュー</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/</link>
+      <description>Metaは、Meta Superintelligence Labs（MSL）初のメディア生成モデルとなる画像生成AI「Muse Image」を公開した。検索やコーディングなどのツールを自律的に呼び出し、生成した画像を自己修正するエージェント型だ。「Meta AI」アプリやInstagramなどで利用…</description>
+      <pubDate>Wed, 08 Jul 2026 00:02:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/</guid>
       <category>AI</category>
     </item>
   </channel>

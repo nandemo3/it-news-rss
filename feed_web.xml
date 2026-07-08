@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 07 Jul 2026 00:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 08 Jul 2026 00:02:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI Agentに自由な開発環境を渡す、Proxmox+LXCで。</title>
-      <link>https://zenn.dev/uzulla/articles/91272997a7c668</link>
-      <description>こんにちは uzullaです。もはやAIエージェントに作業をさせることがお仕事みたいな時代になりましたね。 Agentに作業をさせるのだから「Enterをおすだけのかんたんなおしごと」は減らして、できるだけロングランしてほしい。 そうなると「エージェントが好き勝手できる」かどうかは重要なポイントです…</description>
-      <pubDate>Tue, 07 Jul 2026 00:13:58 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/uzulla/articles/91272997a7c668</guid>
+      <title>Fable時代のAI活用法を、Anthropicの開発者が公開</title>
+      <link>https://zenn.dev/knowledgesense/articles/283244af941a2d</link>
+      <description>本記事では、最新のAIエージェントを使いこなすためのテクニックについて、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「FableレベルのAIを使いこなすため」のガイド記事[…</description>
+      <pubDate>Wed, 08 Jul 2026 00:02:40 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/283244af941a2d</guid>
       <category>Web</category>
     </item>
   </channel>
