@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:02:56 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:16:45 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS、6月29日週に発表した新機能をまとめて紹介</title>
-      <link>https://codezine.jp/article/detail/28876</link>
+      <title>AWS、リージョン別機能をVPCにデプロイできる「Capability Insights」提供開始</title>
+      <link>https://codezine.jp/article/detail/28886</link>
       <description></description>
-      <pubDate>Wed, 08 Jul 2026 00:02:56 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28876</guid>
+      <pubDate>Thu, 09 Jul 2026 00:16:45 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/28886</guid>
       <category>バックエンド</category>
     </item>
   </channel>

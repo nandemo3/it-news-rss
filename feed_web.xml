@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:16:28 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Fable時代のAI活用法を、Anthropicの開発者が公開</title>
-      <link>https://zenn.dev/knowledgesense/articles/283244af941a2d</link>
-      <description>本記事では、最新のAIエージェントを使いこなすためのテクニックについて、ざっくり理解します。 株式会社ナレッジセンスは、生成AIやRAGを使ったプロダクトを、エンタープライズ企業向けに開発しているスタートアップです。 この記事は何 この記事は、「FableレベルのAIを使いこなすため」のガイド記事[…</description>
-      <pubDate>Wed, 08 Jul 2026 00:02:40 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/283244af941a2d</guid>
+      <title>Claude codeと論文書いたら良い論文“は”できた</title>
+      <link>https://zenn.dev/mkj/articles/cco-paper_20260531</link>
+      <description>こんにちは，松尾研究所の尾崎です．25卒でデータサイエンティストをやっています． 皆さん，CLI Agent使いこなせてますか？ 自分はClaude CodeをオーケストレーターとしてCodex CLI・Gemini CLI・Opusサブエージェントを協調させる開発環境Claude Code Orc…</description>
+      <pubDate>Thu, 09 Jul 2026 00:16:28 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/mkj/articles/cco-paper_20260531</guid>
       <category>Web</category>
     </item>
   </channel>

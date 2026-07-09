@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:02:40 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:16:28 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Meta、初のエージェント型画像生成AI「Muse Image」公開　動画生成AI「Muse Video」もプレビュー</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/</link>
-      <description>Metaは、Meta Superintelligence Labs（MSL）初のメディア生成モデルとなる画像生成AI「Muse Image」を公開した。検索やコーディングなどのツールを自律的に呼び出し、生成した画像を自己修正するエージェント型だ。「Meta AI」アプリやInstagramなどで利用…</description>
-      <pubDate>Wed, 08 Jul 2026 00:02:40 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/08/2000000169/</guid>
+      <title>「万年3位」から脱却なるか？　Google Cloudに吹く"追い風"の正体を考察</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2607/10/news015.html</link>
+      <description>エンタープライズ市場でAWSやMicrosoftに水をあけられてきたGoogle Cloudに、追い風が吹いている。国内SIer大手4社が同社との協業に動く理由と、これまでの経緯、AIエージェントでの連携戦略を読み解く。</description>
+      <pubDate>Thu, 09 Jul 2026 00:16:28 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/10/news015.html</guid>
       <category>AI</category>
     </item>
   </channel>

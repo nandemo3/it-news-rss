@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 08 Jul 2026 00:02:58 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 09 Jul 2026 00:16:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ColdFusion」や「Langflow」の脆弱性悪用に注意喚起 - 米当局</title>
-      <link>https://www.security-next.com/186957</link>
-      <description>米当局は、「Adobe ColdFusion」「Langflow」や「Joomla」向け拡張機能の脆弱性が悪用されているとし、早急な対応を呼びかけた。</description>
-      <pubDate>Wed, 08 Jul 2026 00:02:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/186957</guid>
+      <title>ブラウザ「Chrome」にアップデート - 脆弱性27件を修正</title>
+      <link>https://www.security-next.com/187045</link>
+      <description>Googleは現地時間2026年7月8日、ブラウザ「Chrome」のセキュリティアップデートをリリースした。「クリティカル」とされるものを含め、多数の脆弱性を修正している。</description>
+      <pubDate>Thu, 09 Jul 2026 00:16:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/187045</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
