@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:16:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:10:29 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ブラウザ「Chrome」にアップデート - 脆弱性27件を修正</title>
-      <link>https://www.security-next.com/187045</link>
-      <description>Googleは現地時間2026年7月8日、ブラウザ「Chrome」のセキュリティアップデートをリリースした。「クリティカル」とされるものを含め、多数の脆弱性を修正している。</description>
-      <pubDate>Thu, 09 Jul 2026 00:16:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/187045</guid>
+      <title>「Cisco ISE」や「RoomOS」に脆弱性 - 7月15日に修正予定</title>
+      <link>https://www.security-next.com/187111</link>
+      <description>Cisco Systemsは、「Cisco Identity Services Engine（ISE）」および「RoomOS」に脆弱性が確認され、現地時間2026年7月15日にアップデートを提供する計画であることを明らかにした。</description>
+      <pubDate>Fri, 10 Jul 2026 00:10:29 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/187111</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

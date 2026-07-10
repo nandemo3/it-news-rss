@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:10:12 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Claude codeと論文書いたら良い論文“は”できた</title>
-      <link>https://zenn.dev/mkj/articles/cco-paper_20260531</link>
-      <description>こんにちは，松尾研究所の尾崎です．25卒でデータサイエンティストをやっています． 皆さん，CLI Agent使いこなせてますか？ 自分はClaude CodeをオーケストレーターとしてCodex CLI・Gemini CLI・Opusサブエージェントを協調させる開発環境Claude Code Orc…</description>
-      <pubDate>Thu, 09 Jul 2026 00:16:28 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/mkj/articles/cco-paper_20260531</guid>
+      <title>HTML即公開！Cloudflare Drop が面白そう</title>
+      <link>https://zenn.dev/trans/articles/cc1c398e1f770c</link>
+      <description>! まだまだ新しいサービスなので色々変更があるかもしれません！あと調査が割と甘いかもしれない。あくまで参考程度！ TRANs(生徒会情報機構)のKombumori/FRLPです！ すっごいZennさぼってた(n回目)。 Cloudflare Dropとは？ Cloudflareが現地時間7月8日に公…</description>
+      <pubDate>Fri, 10 Jul 2026 00:10:12 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/trans/articles/cc1c398e1f770c</guid>
       <category>Web</category>
     </item>
   </channel>

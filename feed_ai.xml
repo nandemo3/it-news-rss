@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 09 Jul 2026 00:16:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 10 Jul 2026 00:10:11 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「万年3位」から脱却なるか？　Google Cloudに吹く"追い風"の正体を考察</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2607/10/news015.html</link>
-      <description>エンタープライズ市場でAWSやMicrosoftに水をあけられてきたGoogle Cloudに、追い風が吹いている。国内SIer大手4社が同社との協業に動く理由と、これまでの経緯、AIエージェントでの連携戦略を読み解く。</description>
-      <pubDate>Thu, 09 Jul 2026 00:16:28 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/10/news015.html</guid>
+      <title>NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html</link>
+      <description>NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。</description>
+      <pubDate>Fri, 10 Jul 2026 00:10:11 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html</guid>
       <category>AI</category>
     </item>
   </channel>
