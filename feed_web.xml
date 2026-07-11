@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:10:12 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:03:21 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>HTML即公開！Cloudflare Drop が面白そう</title>
-      <link>https://zenn.dev/trans/articles/cc1c398e1f770c</link>
-      <description>! まだまだ新しいサービスなので色々変更があるかもしれません！あと調査が割と甘いかもしれない。あくまで参考程度！ TRANs(生徒会情報機構)のKombumori/FRLPです！ すっごいZennさぼってた(n回目)。 Cloudflare Dropとは？ Cloudflareが現地時間7月8日に公…</description>
-      <pubDate>Fri, 10 Jul 2026 00:10:12 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/trans/articles/cc1c398e1f770c</guid>
+      <title>3Dプリンターを買って4ヶ月、208回印刷して分かった「使いみち」と「続く理由」(実例つき)</title>
+      <link>https://zenn.dev/optimisuke/articles/6d5119908cc14a</link>
+      <description>4ヶ月で印刷したものの一部。この記事ではこういうものをカテゴリー別に紹介します はじめに 3Dプリンター(Bambu Lab A1 mini)を買って、4ヶ月経ちました。今使っているのは2台目の3Dプリンターで、1台目は5年くらい前に買って使っていて印刷の失敗が多くて、いつの間にか使わなくなってしま…</description>
+      <pubDate>Sat, 11 Jul 2026 00:03:21 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/optimisuke/articles/6d5119908cc14a</guid>
       <category>Web</category>
     </item>
   </channel>

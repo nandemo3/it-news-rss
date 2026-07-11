@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:10:28 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:03:37 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Notion、エージェントを活用できるiOSアプリをリリース</title>
-      <link>https://codezine.jp/article/detail/28901</link>
+      <title>AWS Config、新たに8種類のリソースタイプのサポートを開始</title>
+      <link>https://codezine.jp/article/detail/28909</link>
       <description></description>
-      <pubDate>Fri, 10 Jul 2026 00:10:28 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28901</guid>
+      <pubDate>Sat, 11 Jul 2026 00:03:37 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/28909</guid>
       <category>バックエンド</category>
     </item>
   </channel>

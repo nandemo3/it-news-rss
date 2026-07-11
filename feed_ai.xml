@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 10 Jul 2026 00:10:11 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jul 2026 00:03:21 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>NECが3年で100億円狙うAnthropic協業の初ソリューション、AIが販売戦略立案</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html</link>
-      <description>NECは、Anthropicとの協業第1弾として、購買データからの商品企画や販促プラン作成を完全自動化する新サービスを開始した。専門人材なしで迅速な施策立案を可能にし、3年間で100億円の売上を目指す。</description>
-      <pubDate>Fri, 10 Jul 2026 00:10:11 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2607/10/news052.html</guid>
+      <title>テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/10/news157.html</link>
+      <description>対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。</description>
+      <pubDate>Sat, 11 Jul 2026 00:03:21 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/10/news157.html</guid>
       <category>AI</category>
     </item>
   </channel>
