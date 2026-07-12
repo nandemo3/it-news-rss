@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:03:21 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:02:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>3Dプリンターを買って4ヶ月、208回印刷して分かった「使いみち」と「続く理由」(実例つき)</title>
-      <link>https://zenn.dev/optimisuke/articles/6d5119908cc14a</link>
-      <description>4ヶ月で印刷したものの一部。この記事ではこういうものをカテゴリー別に紹介します はじめに 3Dプリンター(Bambu Lab A1 mini)を買って、4ヶ月経ちました。今使っているのは2台目の3Dプリンターで、1台目は5年くらい前に買って使っていて印刷の失敗が多くて、いつの間にか使わなくなってしま…</description>
-      <pubDate>Sat, 11 Jul 2026 00:03:21 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/optimisuke/articles/6d5119908cc14a</guid>
+      <title>ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ</title>
+      <link>https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types</link>
+      <description>! 本シリーズ 第1部（全3部）: AI エージェント文脈のグラフを Node / Edge の意味で 5 種類に分類します。特殊化は 第2部、レイヤー連携と本番構成は第3部（執筆予定）で扱います。 前提: ナレッジグラフの基礎（エンティティ・関係・GraphRAG との区別）は「ナレッジグラフ入門…</description>
+      <pubDate>Sun, 12 Jul 2026 00:02:14 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types</guid>
       <category>Web</category>
     </item>
   </channel>

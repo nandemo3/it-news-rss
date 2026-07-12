@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 11 Jul 2026 00:03:38 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 00:02:31 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>SnowflakeのPython向け開発フレームワークに脆弱性</title>
       <link>https://www.security-next.com/187109</link>
       <description>Snowflakeが提供する開発フレームワーク「Snowflake Snowpark Python SDK」に脆弱性が明らかとなった。</description>
-      <pubDate>Sat, 11 Jul 2026 00:03:38 GMT</pubDate>
+      <pubDate>Sun, 12 Jul 2026 00:02:31 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/187109</guid>
       <category>セキュリティ</category>
     </item>
