@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 23:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:57:43 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する</title>
-      <link>https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</link>
-      <description>はじめに 最近aidlc-workflowsを利用しています。 導入前は、人間が「関連コードを調べて」「実装して」「ビルドして」「エラーを直して」と、工程ごとに細かく指示を出していました。 kitを使い始めると、AIが最初に計画を作り、既存コードを調査し、実装後にはビルドやテストまで実行してくれるよ…</description>
-      <pubDate>Sun, 12 Jul 2026 23:59:57 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</guid>
+      <title>AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測</title>
+      <link>https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</link>
+      <description>これはなに？ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾…</description>
+      <pubDate>Mon, 13 Jul 2026 23:57:43 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</guid>
       <category>Web</category>
     </item>
   </channel>

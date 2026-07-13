@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 00:00:14 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:58:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>BeyondTrustのリモートアクセス製品に複数の脆弱性</title>
-      <link>https://www.security-next.com/187180</link>
-      <description>BeyondTrustのリモートサポートツール「Remote Support（RS）」「Privileged Remote Access（PRA）」に複数の脆弱性が明らかとなった。</description>
-      <pubDate>Mon, 13 Jul 2026 00:00:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/187180</guid>
+      <title>「ServiceNow AI Platform」にRCE脆弱性 - 修正版を提供</title>
+      <link>https://www.security-next.com/187274</link>
+      <description>ServiceNowは、同社サービス「ServiceNow AI Platform」に深刻な脆弱性が判明し、セキュリティアップデートにて対処したことを明らかにした。</description>
+      <pubDate>Mon, 13 Jul 2026 23:58:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/187274</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

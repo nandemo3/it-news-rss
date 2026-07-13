@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 23:59:57 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 23:57:43 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「足りないのはCOBOL人材じゃない」　日立が語る、AI時代のシステム刷新における“人”の役割</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2607/13/news001.html</link>
-      <description>従来は人海戦術に頼っていた領域にAIが入り込み、さまざまな課題が解消しつつある。レガシーシステムの刷新もそのうちの一つだ。しかし、AIをシステム刷新プロジェクトで積極的に活用している日立製作所（以下、日立）は、「人間の力がこれまで以上に重要になる」と語る。AI時代のシステム刷新で人間が果たす役割を探…</description>
-      <pubDate>Sun, 12 Jul 2026 23:59:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/13/news001.html</guid>
+      <title>日本企業の“鬼門”、アクセンチュアは突破できるか？　OpenAIとの協業で狙う「業務効率化超え」</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2607/13/news017.html</link>
+      <description>AIを実証実験や一部業務の効率化で止めず、全社の変革へ――。多くの企業が向き合うこの課題に、アクセンチュアはOpenAIとどう取り組むのか。これまで“鬼門”だった、部門をまたいだ業務プロセス改革の突破方法とは。</description>
+      <pubDate>Mon, 13 Jul 2026 23:57:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/13/news017.html</guid>
       <category>AI</category>
     </item>
   </channel>
