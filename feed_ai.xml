@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:59:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>テスラ車内で「Grok」と会話、日本でも展開へ　ナビ設定やルート確認を音声で</title>
-      <link>https://www.itmedia.co.jp/news/articles/2607/10/news157.html</link>
-      <description>対話型AI「Grok」を日本のテスラ車で利用できるようになった。Tesla Japanが7月10日、X公式アカウントで発表した。利用には、ソフトウェアバージョン2026.20以降、「プレミアムコネクティビティ」（有料の車内通信プラン）の契約が必要になる。</description>
-      <pubDate>Sun, 12 Jul 2026 00:02:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/10/news157.html</guid>
+      <title>「足りないのはCOBOL人材じゃない」　日立が語る、AI時代のシステム刷新における“人”の役割</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2607/13/news001.html</link>
+      <description>従来は人海戦術に頼っていた領域にAIが入り込み、さまざまな課題が解消しつつある。レガシーシステムの刷新もそのうちの一つだ。しかし、AIをシステム刷新プロジェクトで積極的に活用している日立製作所（以下、日立）は、「人間の力がこれまで以上に重要になる」と語る。AI時代のシステム刷新で人間が果たす役割を探…</description>
+      <pubDate>Sun, 12 Jul 2026 23:59:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/13/news001.html</guid>
       <category>AI</category>
     </item>
   </channel>

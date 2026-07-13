@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:02:30 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 13 Jul 2026 00:00:13 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropic、Claudeの利用状況を可視化する新機能「Reflect」をベータ公開</title>
-      <link>https://codezine.jp/article/detail/28921</link>
-      <description></description>
-      <pubDate>Sun, 12 Jul 2026 00:02:30 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28921</guid>
+      <title>Web設計思想で動かす「スタックチャン」──生成AIと組み立てるMVPモジュール設計</title>
+      <link>https://codezine.jp/article/detail/24694</link>
+      <description>本連載は、生成AIを相棒にオープンソースロボット「スタックチャン」の個人開発に挑戦する入門講座です。第1回となる本記事では、組み込み開発未経験のWebエンジニアに向け、ChatGPTを活用したアイデア出しから設計までのプロセスを解説します。「日常の小さな困りごと」を出発点にAIとブレストを重ね、子ど…</description>
+      <pubDate>Mon, 13 Jul 2026 00:00:13 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24694</guid>
       <category>バックエンド</category>
     </item>
   </channel>

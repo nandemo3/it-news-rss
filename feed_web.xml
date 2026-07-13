@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 12 Jul 2026 00:02:14 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 12 Jul 2026 23:59:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ナレッジグラフだけじゃない。AIエージェントが使う5種類のグラフ</title>
-      <link>https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types</link>
-      <description>! 本シリーズ 第1部（全3部）: AI エージェント文脈のグラフを Node / Edge の意味で 5 種類に分類します。特殊化は 第2部、レイヤー連携と本番構成は第3部（執筆予定）で扱います。 前提: ナレッジグラフの基礎（エンティティ・関係・GraphRAG との区別）は「ナレッジグラフ入門…</description>
-      <pubDate>Sun, 12 Jul 2026 00:02:14 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/knowledge_graph/articles/ai-agent-five-graph-types</guid>
+      <title>ハーネスエンジニアリングとループエンジニアリングの違いとは？ aws aidlc workflow kitから整理する</title>
+      <link>https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</link>
+      <description>はじめに 最近aidlc-workflowsを利用しています。 導入前は、人間が「関連コードを調べて」「実装して」「ビルドして」「エラーを直して」と、工程ごとに細かく指示を出していました。 kitを使い始めると、AIが最初に計画を作り、既存コードを調査し、実装後にはビルドやテストまで実行してくれるよ…</description>
+      <pubDate>Sun, 12 Jul 2026 23:59:57 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tacky_exception/articles/4d77fef5a36e42</guid>
       <category>Web</category>
     </item>
   </channel>
