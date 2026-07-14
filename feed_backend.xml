@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 23:57:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:56:43 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Microsoft Agent Framework」の.NET向けAgent Skillsが正式リリース</title>
-      <link>https://codezine.jp/article/detail/28929</link>
-      <description></description>
-      <pubDate>Mon, 13 Jul 2026 23:57:59 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28929</guid>
+      <title>ローカルLLMで企業向けAI環境の構築をはじめよう――「Mac Studio」を採用する理由</title>
+      <link>https://codezine.jp/article/detail/28875</link>
+      <description>ChatGPTの登場以降、企業における生成AIは「あったら良いもの」から「なくてはならない必須インフラ」へと急速にフェーズを変えています。なかでも、機密情報を完全に守りながら独自のAI環境を手元に構築する「ローカルLLM（内製化）」は、もはやエンジニアにとって外せない最重要トレンドであり、企業の競争…</description>
+      <pubDate>Tue, 14 Jul 2026 23:56:43 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/28875</guid>
       <category>バックエンド</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 23:57:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:56:27 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>日本企業の“鬼門”、アクセンチュアは突破できるか？　OpenAIとの協業で狙う「業務効率化超え」</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2607/13/news017.html</link>
-      <description>AIを実証実験や一部業務の効率化で止めず、全社の変革へ――。多くの企業が向き合うこの課題に、アクセンチュアはOpenAIとどう取り組むのか。これまで“鬼門”だった、部門をまたいだ業務プロセス改革の突破方法とは。</description>
-      <pubDate>Mon, 13 Jul 2026 23:57:43 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/13/news017.html</guid>
+      <title>AIエージェントのコスト、どこに「消えて」いる？　Google Cloudが調査で浮上した“クラウド利用の盲点”</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html</link>
+      <description>AIエージェントの本番運用段階で、多くの企業がコストの問題に直面している。本番運用段階におけるコストは一体どこに「消えている」のか。Google Cloudの調査から浮かび上がった、AIエージェントの本番運用がITインフラにもたらす負荷の正体と、コスト抑制の手掛かりとは。</description>
+      <pubDate>Tue, 14 Jul 2026 23:56:27 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html</guid>
       <category>AI</category>
     </item>
   </channel>

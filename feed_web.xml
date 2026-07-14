@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 13 Jul 2026 23:57:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 14 Jul 2026 23:56:27 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI臭は語彙よりリズムに出る - 自然な日本語を書くAgent Skillと7モデル×406本の実測</title>
-      <link>https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</link>
-      <description>これはなに？ AIが書いた日本語を自然な日本語に直すAgent Skill、natural-japanese を作りました。Claude CodeやCodexで動きます。プロンプトで「自然に書いて」とお願いする代わりに、AI臭を機械的に検出するlintをスキルの工程に組み込みました。そのlintの閾…</description>
-      <pubDate>Mon, 13 Jul 2026 23:57:43 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/coji/articles/natural-japanese-ai-smell-lint</guid>
+      <title>ローカル LLM を構築した</title>
+      <link>https://zenn.dev/neet/articles/11bafab8645995</link>
+      <description>! AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？ 私は正直、あまり乗れていませ…</description>
+      <pubDate>Tue, 14 Jul 2026 23:56:27 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/neet/articles/11bafab8645995</guid>
       <category>Web</category>
     </item>
   </channel>
