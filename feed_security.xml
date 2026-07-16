@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:56:44 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:03:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「SonicWall SMA1000シリーズ」にゼロデイ脆弱性 - 更新や侵害調査を</title>
-      <link>https://www.security-next.com/187350</link>
-      <description>SonicWallのリモートアクセス製品「SonicWall SMA1000シリーズ」にあらたな脆弱性が確認された。すでに悪用が確認されている。</description>
-      <pubDate>Tue, 14 Jul 2026 23:56:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/187350</guid>
+      <title>Windows版「Zoom」に深刻な脆弱性 - 最新版で修正済み</title>
+      <link>https://www.security-next.com/187443</link>
+      <description>オンライン会議サービスを提供するZoomは、Windows向けクライアントに脆弱性が見つかり、対処したことを明らかにした。「クリティカル（Critical）」とされる脆弱性も含まれる。</description>
+      <pubDate>Thu, 16 Jul 2026 00:03:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/187443</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

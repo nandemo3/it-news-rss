@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:02:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIエージェントのコスト、どこに「消えて」いる？　Google Cloudが調査で浮上した“クラウド利用の盲点”</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html</link>
-      <description>AIエージェントの本番運用段階で、多くの企業がコストの問題に直面している。本番運用段階におけるコストは一体どこに「消えている」のか。Google Cloudの調査から浮かび上がった、AIエージェントの本番運用がITインフラにもたらす負荷の正体と、コスト抑制の手掛かりとは。</description>
-      <pubDate>Tue, 14 Jul 2026 23:56:27 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/14/news039.html</guid>
+      <title>NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html</link>
+      <description>NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。</description>
+      <pubDate>Thu, 16 Jul 2026 00:02:46 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html</guid>
       <category>AI</category>
     </item>
   </channel>

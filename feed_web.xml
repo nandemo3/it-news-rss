@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 14 Jul 2026 23:56:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 00:02:47 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ローカル LLM を構築した</title>
-      <link>https://zenn.dev/neet/articles/11bafab8645995</link>
-      <description>! AI 利用の開示：この記事を書くにあたっての調査やブレインストーミング、校正には AI を用いましたが、本文の執筆やコードの実装、および出典の確認はすべて人間が行いました。 AI は好きだが AI 企業は嫌いだ こんにちは。みなさんは AI を使いこなしていますか？ 私は正直、あまり乗れていませ…</description>
-      <pubDate>Tue, 14 Jul 2026 23:56:27 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/neet/articles/11bafab8645995</guid>
+      <title>RunCat Neo カスタムメトリクス入門</title>
+      <link>https://zenn.dev/kyome/articles/eb4a9f664002ad</link>
+      <description>はじめに RunCat Neo はmacOSのメニューバーでネコが走る常駐アプリです。 CPU負荷に応じてネコの走る速さが変わるので、直感的にマシンの状態が確認できます。 このアプリには カスタムメトリクス という機能があります。自分で用意した JSONファイルをRunCat Neoに監視させると、…</description>
+      <pubDate>Thu, 16 Jul 2026 00:02:47 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/kyome/articles/eb4a9f664002ad</guid>
       <category>Web</category>
     </item>
   </channel>
