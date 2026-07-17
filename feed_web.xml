@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 00:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:56:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Claude Code の Plan モードをループエンジニアリングで楽にする</title>
-      <link>https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop</link>
-      <description>はじめに Claude Code の Plan モードを、人間の労力を少なくして使いこなすためのループエンジニアリングをしてみました。この記事を読むと、hook を使って Plan モードに「質問による要件詰め」「実装のサブエージェント委譲」「計画の HTML 確認」を自動で組み込む方法がわかります…</description>
-      <pubDate>Fri, 17 Jul 2026 00:02:02 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/k_yoshiya/articles/claude-code-plan-mode-loop</guid>
+      <title>AIに「レビューして」はもう古い？「敵対的検証」のすすめ</title>
+      <link>https://zenn.dev/loglass/articles/6aa18c80496ec6</link>
+      <description>! この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の152週目の記事です！ 3年間連続達成まで残り7週となりました！ こんにちは、ログラスの松岡(@little_hand_s)です。 3行まとめ 「レビューして」でも指摘は返ってくる。「敵対的検証して」は…</description>
+      <pubDate>Fri, 17 Jul 2026 23:56:22 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/loglass/articles/6aa18c80496ec6</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 00:02:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:56:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化</title>
-      <link>https://www.itmedia.co.jp/news/articles/2607/17/news062.html</link>
-      <description>Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は…</description>
-      <pubDate>Fri, 17 Jul 2026 00:02:02 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/17/news062.html</guid>
+      <title>「AIエージェントの約半数が"戦力外"になる」　なぜ企業は使いこなせない？</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html</link>
+      <description>Gartnerは、2027年までに企業の40％が自律型AIエージェントを格下げまたは廃止すると予測している。そうした悲観的な見方の背景にはどのような問題があるのか。</description>
+      <pubDate>Fri, 17 Jul 2026 23:56:22 GMT</pubDate>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 00:02:18 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 23:56:38 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>月予算10万円からの全社DX。SUBARUの非ITエンジニアは、いかにして生成AIを「使う側」から「作る側」に変えたのか？</title>
-      <link>https://codezine.jp/article/detail/28873</link>
-      <description>自動車の設計現場では、乱立する業務ツールや複雑なE-BOM（設計部品表）のデータ突合に、エンジニアの貴重な時間が激しく消費され続けていた。株式会社SUBARUの技術本部 パワートレイン設計部で主査（モノ造り改革）を務める本間勇人氏は、実験業務出身の「非IT技術者」でありながら、生成AIの内製化、コミ…</description>
-      <pubDate>Fri, 17 Jul 2026 00:02:18 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28873</guid>
+      <title>Visual Studio、AIモデル管理機能を強化した新バージョンを公開</title>
+      <link>https://codezine.jp/article/detail/29010</link>
+      <description></description>
+      <pubDate>Fri, 17 Jul 2026 23:56:38 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29010</guid>
       <category>バックエンド</category>
     </item>
   </channel>
