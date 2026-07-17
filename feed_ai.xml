@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 16 Jul 2026 00:02:46 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Jul 2026 00:02:02 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>NVIDIAが「Jetson Thor」に新モジュール追加、高騰するメモリの使用量削減技術も</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html</link>
-      <description>NVIDIAは、組み込みAIボード「Jetsonシリーズ」の最新製品である「NVIDIA Jetson AGX Thor」の新たな量産モジュールとして、消費電力や搭載メモリ容量などを抑えた「Jetson T3000」と「Jetson T2000」を追加すると発表した。</description>
-      <pubDate>Thu, 16 Jul 2026 00:02:46 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2607/16/news052.html</guid>
+      <title>Google、「NotebookLM」を「Gemini Notebook」に改称　Geminiエコシステムへの統合を強化</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/17/news062.html</link>
+      <description>Googleは、AI搭載リサーチツール「NotebookLM」の名称を「Gemini Notebook」に変更すると発表した。機能は単体製品として維持しつつ、エコシステム全体で広く機能するようになる。安全なクラウドコンピュータの割り当てによるデータ分析機能などの大型アップデートも展開中で、この機能は…</description>
+      <pubDate>Fri, 17 Jul 2026 00:02:02 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/17/news062.html</guid>
       <category>AI</category>
     </item>
   </channel>
