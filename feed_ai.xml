@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 23:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:58:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「AIエージェントの約半数が"戦力外"になる」　なぜ企業は使いこなせない？</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html</link>
-      <description>Gartnerは、2027年までに企業の40％が自律型AIエージェントを格下げまたは廃止すると予測している。そうした悲観的な見方の背景にはどのような問題があるのか。</description>
-      <pubDate>Fri, 17 Jul 2026 23:56:22 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2607/17/news053.html</guid>
+      <title>「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/</link>
+      <description>27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。</description>
+      <pubDate>Sat, 18 Jul 2026 23:58:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/</guid>
       <category>AI</category>
     </item>
   </channel>

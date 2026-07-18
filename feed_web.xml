@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 17 Jul 2026 23:56:22 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 18 Jul 2026 23:58:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIに「レビューして」はもう古い？「敵対的検証」のすすめ</title>
-      <link>https://zenn.dev/loglass/articles/6aa18c80496ec6</link>
-      <description>! この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprint の152週目の記事です！ 3年間連続達成まで残り7週となりました！ こんにちは、ログラスの松岡(@little_hand_s)です。 3行まとめ 「レビューして」でも指摘は返ってくる。「敵対的検証して」は…</description>
-      <pubDate>Fri, 17 Jul 2026 23:56:22 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/loglass/articles/6aa18c80496ec6</guid>
+      <title>個人開発のLaravelサイトにOpenTelemetry+Grafanaで可観測性基盤を作った（Docker無し・systemd運用）</title>
+      <link>https://zenn.dev/shim_03248/articles/5094579401a468</link>
+      <description>はじめに 個人で運営しているPHP8技術者認定初級試験の模擬試験サイト（Laravel製）に、OpenTelemetry + Grafanaスタックで可観測性基盤を構築しました。 アプリコードほぼ変更なし（ゼロコード自動計装） 本番はDockerを使わず、全部バイナリ + systemd 可視化は日…</description>
+      <pubDate>Sat, 18 Jul 2026 23:58:06 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/shim_03248/articles/5094579401a468</guid>
       <category>Web</category>
     </item>
   </channel>
