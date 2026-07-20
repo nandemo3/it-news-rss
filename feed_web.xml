@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 23:58:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:01:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>個人開発のLaravelサイトにOpenTelemetry+Grafanaで可観測性基盤を作った（Docker無し・systemd運用）</title>
-      <link>https://zenn.dev/shim_03248/articles/5094579401a468</link>
-      <description>はじめに 個人で運営しているPHP8技術者認定初級試験の模擬試験サイト（Laravel製）に、OpenTelemetry + Grafanaスタックで可観測性基盤を構築しました。 アプリコードほぼ変更なし（ゼロコード自動計装） 本番はDockerを使わず、全部バイナリ + systemd 可視化は日…</description>
-      <pubDate>Sat, 18 Jul 2026 23:58:06 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/shim_03248/articles/5094579401a468</guid>
+      <title>ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか</title>
+      <link>https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</link>
+      <description>ループエンジニアリングという言葉が流行っています。エージェントが人の手を離れて、コーディングから何から最後まで自走する。そういう話として語られることが多い気がします。 ただ、少し引っかかってもいました。それって、昔からあった話じゃなかったっけ? 一方で最近は、Software Factoryという言…</description>
+      <pubDate>Mon, 20 Jul 2026 00:01:15 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</guid>
       <category>Web</category>
     </item>
   </channel>

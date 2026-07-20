@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 23:58:22 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:01:30 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub、リポジトリ管理者向けにプルリクエストのアーカイブ機能を追加</title>
-      <link>https://codezine.jp/article/detail/29024</link>
-      <description></description>
-      <pubDate>Sat, 18 Jul 2026 23:58:22 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29024</guid>
+      <title>ITエンジニア注目トレンドを総まとめ！週間ニュースランキングTOP10【7/10～7/16】</title>
+      <link>https://codezine.jp/article/detail/29013</link>
+      <description>毎日更新されるITエンジニア向け関連の最新ニュースから、注目を集めたトピックスを紹介する本ランキング。今回は2026年7月10日～7月16日までの人気ランキングを発表します。</description>
+      <pubDate>Mon, 20 Jul 2026 00:01:30 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29013</guid>
       <category>バックエンド</category>
     </item>
   </channel>

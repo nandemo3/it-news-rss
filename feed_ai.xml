@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 23:58:06 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:01:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場</title>
       <link>https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/</link>
       <description>27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。</description>
-      <pubDate>Sat, 18 Jul 2026 23:58:06 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 00:01:14 GMT</pubDate>
       <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/</guid>
       <category>AI</category>
     </item>

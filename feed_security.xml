@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 18 Jul 2026 23:58:23 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 00:01:31 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「SharePoint Server」の複数脆弱性悪用で対策呼びかけ - 米当局</title>
       <link>https://www.security-next.com/187553</link>
       <description>米サイバーセキュリティインフラストラクチャセキュリティ庁（CISA）は、「SharePoint Server」に関する複数の脆弱性が悪用されているとし、利用者にセキュリティ対策を呼びかけた。</description>
-      <pubDate>Sat, 18 Jul 2026 23:58:23 GMT</pubDate>
+      <pubDate>Mon, 20 Jul 2026 00:01:31 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/187553</guid>
       <category>セキュリティ</category>
     </item>
