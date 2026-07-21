@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 00:01:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:36 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「スマホで動く」270億パラメーターLLM「Bonsai 27B」登場</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/</link>
-      <description>27BクラスのモデルをiPhoneで実行可能な容量に収めたとしている。</description>
-      <pubDate>Mon, 20 Jul 2026 00:01:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/17/2000000202/</guid>
+      <title>AMDとMicrosoftが戦略的提携を拡大　新AIラックスケール「Helios」をAzureに大規模導入へ</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/21/news051.html</link>
+      <description>AMDは、Microsoftとの戦略的提携を拡大すると発表した。Microsoftはクラウドサービス「Azure」に、GPUやCPUを一体化したAMDのラックスケール製品「AMD Helios」を大規模に導入し、フロンティアAIモデルの推論処理などに活用する。Heliosは2026年後半から出荷が開…</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/21/news051.html</guid>
       <category>AI</category>
     </item>
   </channel>

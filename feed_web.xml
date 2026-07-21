@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 20 Jul 2026 00:01:15 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 00:00:37 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ゴールまで自走するだけではない？——ループエンジニアリングの本質はどこにあるのか</title>
-      <link>https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</link>
-      <description>ループエンジニアリングという言葉が流行っています。エージェントが人の手を離れて、コーディングから何から最後まで自走する。そういう話として語られることが多い気がします。 ただ、少し引っかかってもいました。それって、昔からあった話じゃなかったっけ? 一方で最近は、Software Factoryという言…</description>
-      <pubDate>Mon, 20 Jul 2026 00:01:15 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/r_kaga/articles/a27a3879dd3ce4</guid>
+      <title>Async React時代の宣言的UI 3: useActionStateでユーザーの操作を妨げないUXを作る</title>
+      <link>https://zenn.dev/uhyo/articles/async-react-action-queue</link>
+      <description>useActionStateは、React 19で導入された新しいフックです。 その挙動を見ると、非同期版useReducerと言えるような挙動をします。 ただ、筆者は最近、このフックの真髄はユーザーの操作を妨げないUXを作ることにあるのではないかと考えています。ReactはUIライブラリであり、そ…</description>
+      <pubDate>Tue, 21 Jul 2026 00:00:37 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/async-react-action-queue</guid>
       <category>Web</category>
     </item>
   </channel>
