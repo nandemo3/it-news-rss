@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 00:00:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 21 Jul 2026 23:58:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ミュータブルとイミュータブル」　～マンガでプログラミング用語解説</title>
-      <link>https://codezine.jp/article/detail/24266</link>
-      <description>この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。中身を変更できる「ミュー…</description>
-      <pubDate>Tue, 21 Jul 2026 00:00:53 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24266</guid>
+      <title>Google Workspace、7月13日に発表したアップデートをまとめて紹介</title>
+      <link>https://codezine.jp/article/detail/29042</link>
+      <description></description>
+      <pubDate>Tue, 21 Jul 2026 23:58:53 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29042</guid>
       <category>バックエンド</category>
     </item>
   </channel>
