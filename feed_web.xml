@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 23:58:37 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:04:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Claude Codeを2時間おきに回してVS Code拡張mdエディタを育てるLoop Engineering実践</title>
-      <link>https://zenn.dev/green_tea/articles/e39e3726a449c9</link>
-      <description>はじめに 1日中 AI が自分の手を離れて、自分が欲しいものを作り続けてくれたら... この記事は2つの話を1本にしたものです。 作ったもの: VS Code上でMarkdownをWYSIWYG編集[1]できる拡張機能 作り方: 自分は平日仕事したり、休みには遊びに出かけたりしながら、Claude …</description>
-      <pubDate>Tue, 21 Jul 2026 23:58:37 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/green_tea/articles/e39e3726a449c9</guid>
+      <title>Souther - ドメインモデルをスラスラ書けることを追い求めた最果てのJVM言語</title>
+      <link>https://zenn.dev/kawasima/articles/souther-essentials</link>
+      <description>Javaでドメインモデルを素直に表そうとすると、型が増えます。従業員IDと文字列を分け、金額と整数を分け、申請の状態ごとに別の型を用意する。値の検証や業務上の却下も型と戻り値で表し、現在時刻やデータベースアクセスは外から注入する。業務上の違いをコードの構造へ反映するほど、コンストラクタ、アクセサ、変…</description>
+      <pubDate>Thu, 23 Jul 2026 00:04:26 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/kawasima/articles/souther-essentials</guid>
       <category>Web</category>
     </item>
   </channel>

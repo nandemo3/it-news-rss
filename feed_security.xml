@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 23:58:54 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:04:44 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「WordPress」に複数の脆弱性 - 連鎖でRCEのおそれ</title>
-      <link>https://www.security-next.com/187598</link>
-      <description>コンテンツマネジメントシステム「WordPress」の開発チームは現地時間2026年7月17日、「同7.0.2」をはじめとするセキュリティリリースを公開した。深刻な脆弱性へ対処しており、早急にアップデートを実施するよう利用者に求めている。</description>
-      <pubDate>Tue, 21 Jul 2026 23:58:54 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/187598</guid>
+      <title>「Firefox 153」など公開、脆弱性を修正 - ESR版は重要度「クリティカル」</title>
+      <link>https://www.security-next.com/187685</link>
+      <description>Mozilla Foundationは現地時間2026年7月21日、ブラウザの最新版「Firefox 153」をリリースし、複数の脆弱性を修正した。あわせて公開された「Firefox ESR」では悪用コードが公開済みの脆弱性を解消しており、重要度が「クリティカル（Critical）」とされる。</description>
+      <pubDate>Thu, 23 Jul 2026 00:04:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/187685</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

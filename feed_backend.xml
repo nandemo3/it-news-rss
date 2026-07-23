@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 21 Jul 2026 23:58:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 00:04:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Workspace、7月13日に発表したアップデートをまとめて紹介</title>
-      <link>https://codezine.jp/article/detail/29042</link>
-      <description></description>
-      <pubDate>Tue, 21 Jul 2026 23:58:53 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29042</guid>
+      <title>さらばDate、ようこそTemporal。JavaScriptの日時処理にどう向き合うか</title>
+      <link>https://codezine.jp/article/detail/28910</link>
+      <description>JavaScriptで日時情報といえばDateと決まっていました。しかしながら、このDateはさまざまな問題を抱えていました。これがTemporalの標準化で大きく変わります。Dateを使い続けるプロジェクトは、大きな負債を抱えることになるかもしれません。今回は、Dateの抱える問題点を改めて浮き彫…</description>
+      <pubDate>Thu, 23 Jul 2026 00:04:42 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/28910</guid>
       <category>バックエンド</category>
     </item>
   </channel>
