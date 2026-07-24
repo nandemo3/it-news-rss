@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:04:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Souther - ドメインモデルをスラスラ書けることを追い求めた最果てのJVM言語</title>
-      <link>https://zenn.dev/kawasima/articles/souther-essentials</link>
-      <description>Javaでドメインモデルを素直に表そうとすると、型が増えます。従業員IDと文字列を分け、金額と整数を分け、申請の状態ごとに別の型を用意する。値の検証や業務上の却下も型と戻り値で表し、現在時刻やデータベースアクセスは外から注入する。業務上の違いをコードの構造へ反映するほど、コンストラクタ、アクセサ、変…</description>
-      <pubDate>Thu, 23 Jul 2026 00:04:26 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/kawasima/articles/souther-essentials</guid>
+      <title>Go 1.27 から uuid 実装がサポートされる！ので個人的に気になった議論とその着地をまとめてみた</title>
+      <link>https://zenn.dev/layerx/articles/f7124d4e761c1f</link>
+      <description>はじめに こんにちは、バクラク事業部アカウント基盤開発部IDチームの @convto です。各種利用サービスのIDに一貫性があり、 GitHub も X も大体 convto を確保できているのが密かな自慢です。やはりIDチーム所属なので、自分のIDにも一貫性が必要とされています。(諸説あり) さて…</description>
+      <pubDate>Fri, 24 Jul 2026 00:04:53 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/f7124d4e761c1f</guid>
       <category>Web</category>
     </item>
   </channel>

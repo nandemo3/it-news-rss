@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 23 Jul 2026 00:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 00:04:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「AI使うなら値引きできる？」の“暴論”に、日立はどう立ち向かう？　レガシー刷新でのAI活用の現在地</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2607/15/news001.html</link>
-      <description>生成AIはレガシーシステム刷新の現場で具体的にどのように使われているのか。ユーザー企業自身がAIを使いこなす時代にベンダーが担う役割とは。</description>
-      <pubDate>Thu, 23 Jul 2026 00:04:26 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/15/news001.html</guid>
+      <title>Googleが“自社AIの裏切り”に備え始めた　異例の構想「AI Control Roadmap」とは</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/</link>
+      <description>米Google DeepMindが発表した異例の構想「AI Control Roadmap」について解説する。</description>
+      <pubDate>Fri, 24 Jul 2026 00:04:53 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/</guid>
       <category>AI</category>
     </item>
   </channel>
