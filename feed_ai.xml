@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 00:08:47 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Googleが“自社AIの裏切り”に備え始めた　異例の構想「AI Control Roadmap」とは</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/</link>
-      <description>米Google DeepMindが発表した異例の構想「AI Control Roadmap」について解説する。</description>
-      <pubDate>Fri, 24 Jul 2026 00:04:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2607/24/2000000215/</guid>
+      <title>Anthropic、「Claude Opus 5」公開　Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/25/news016.html</link>
+      <description>Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。</description>
+      <pubDate>Sat, 25 Jul 2026 00:08:47 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/25/news016.html</guid>
       <category>AI</category>
     </item>
   </channel>

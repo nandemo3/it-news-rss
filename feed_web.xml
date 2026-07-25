@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 24 Jul 2026 00:04:53 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 25 Jul 2026 00:08:47 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Go 1.27 から uuid 実装がサポートされる！ので個人的に気になった議論とその着地をまとめてみた</title>
-      <link>https://zenn.dev/layerx/articles/f7124d4e761c1f</link>
-      <description>はじめに こんにちは、バクラク事業部アカウント基盤開発部IDチームの @convto です。各種利用サービスのIDに一貫性があり、 GitHub も X も大体 convto を確保できているのが密かな自慢です。やはりIDチーム所属なので、自分のIDにも一貫性が必要とされています。(諸説あり) さて…</description>
-      <pubDate>Fri, 24 Jul 2026 00:04:53 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/f7124d4e761c1f</guid>
+      <title>ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話</title>
+      <link>https://zenn.dev/singularity/articles/diy-terminal-500-commits</link>
+      <description>僕は長いこと、ターミナルの中で暮らしています。エディタは emacs、VS Code や GUI 系のツールはどうにも手に馴染まない。Web 上の開発環境も、あの「ちょっとした不便」が積もって結局使わなくなる。要するに、ターミナルに慣れ親しみすぎて、GUI のボタンがどこにあるのか探せない人間です。…</description>
+      <pubDate>Sat, 25 Jul 2026 00:08:47 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/singularity/articles/diy-terminal-500-commits</guid>
       <category>Web</category>
     </item>
   </channel>
