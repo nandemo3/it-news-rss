@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:09:04 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 00:04:09 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「Chrome」に今月5度目のセキュリティ更新 - 脆弱性4件に対処</title>
       <link>https://www.security-next.com/187798</link>
       <description>Googleは現地時間2026年7月23日、ブラウザ「Chrome」のセキュリティアップデートを公開した。</description>
-      <pubDate>Sat, 25 Jul 2026 00:09:04 GMT</pubDate>
+      <pubDate>Sun, 26 Jul 2026 00:04:09 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/187798</guid>
       <category>セキュリティ</category>
     </item>

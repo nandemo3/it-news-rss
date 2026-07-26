@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 00:03:52 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ターミナルを自作したら、1日のコミット数が500を超えて、生産性がバグった話</title>
-      <link>https://zenn.dev/singularity/articles/diy-terminal-500-commits</link>
-      <description>僕は長いこと、ターミナルの中で暮らしています。エディタは emacs、VS Code や GUI 系のツールはどうにも手に馴染まない。Web 上の開発環境も、あの「ちょっとした不便」が積もって結局使わなくなる。要するに、ターミナルに慣れ親しみすぎて、GUI のボタンがどこにあるのか探せない人間です。…</description>
-      <pubDate>Sat, 25 Jul 2026 00:08:47 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/singularity/articles/diy-terminal-500-commits</guid>
+      <title>放置していた旧環境で見つけたReact2Shell攻撃の実態</title>
+      <link>https://zenn.dev/munenick/articles/b507a9848b6fdd</link>
+      <description>はじめに 本記事は以下のミラーです。 https://www.munenick.me/blog/react2shell-attack-in-abandoned-kubernetes/ 私は自宅でKubernetesクラスタやゲームサーバー、いくつかのWebアプリケーションを運営しています。普段使う機…</description>
+      <pubDate>Sun, 26 Jul 2026 00:03:52 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/munenick/articles/b507a9848b6fdd</guid>
       <category>Web</category>
     </item>
   </channel>

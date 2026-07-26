@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 25 Jul 2026 00:08:47 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jul 2026 00:03:52 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropic、「Claude Opus 5」公開　Fable 5に迫る性能を半額で――サイバー安全策は緩和、拒否時は自動フォールバックも</title>
-      <link>https://www.itmedia.co.jp/news/articles/2607/25/news016.html</link>
-      <description>Anthropicは、最新LLM「Claude Opus 5」を公開した。上位モデル「Claude Fable 5」に迫る知能を半額の価格で提供する。プログラミングやナレッジワークにおいて高い評価を獲得し、推論の深さを調整するパラメータや安全性分類器に連動する自動フォールバック機能などを備える。</description>
-      <pubDate>Sat, 25 Jul 2026 00:08:47 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/25/news016.html</guid>
+      <title>MicrosoftやNVIDIAなど、AIのオープンウェイト規制に反対する書簡を公開――Anthropicは署名せず</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/26/news014.html</link>
+      <description>MicrosoftやNVIDIA、Metaなど30社以上の米国の企業や団体が、オープンウェイトAIモデルへの過度な規制回避を求める共同書簡を公開した。オープンモデルをAIエコシステムの基盤と位置付け、開発や評価におけるメリットとイノベーション促進を強調。中国企業の急速な台頭や技術流出を懸念する政権の…</description>
+      <pubDate>Sun, 26 Jul 2026 00:03:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/26/news014.html</guid>
       <category>AI</category>
     </item>
   </channel>
