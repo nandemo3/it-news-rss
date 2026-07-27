@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 00:04:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:04:34 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Mobile、CopilotがActionsチェックの失敗を自動修正可能に</title>
-      <link>https://codezine.jp/article/detail/29104</link>
-      <description></description>
-      <pubDate>Sun, 26 Jul 2026 00:04:08 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29104</guid>
+      <title>Playwright Workspacesで簡易TODOアプリのクラウドE2Eテストを実施する</title>
+      <link>https://codezine.jp/article/detail/28916</link>
+      <description>本連載では全4回に分けて、Microsoftが提供するクラウド型のEnd-to-End（以降「E2E」）テストサービス「Microsoft Playwright Workspaces」について紹介します。</description>
+      <pubDate>Mon, 27 Jul 2026 00:04:34 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/28916</guid>
       <category>バックエンド</category>
     </item>
   </channel>

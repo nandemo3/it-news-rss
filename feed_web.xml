@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 26 Jul 2026 00:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 00:04:18 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>放置していた旧環境で見つけたReact2Shell攻撃の実態</title>
-      <link>https://zenn.dev/munenick/articles/b507a9848b6fdd</link>
-      <description>はじめに 本記事は以下のミラーです。 https://www.munenick.me/blog/react2shell-attack-in-abandoned-kubernetes/ 私は自宅でKubernetesクラスタやゲームサーバー、いくつかのWebアプリケーションを運営しています。普段使う機…</description>
-      <pubDate>Sun, 26 Jul 2026 00:03:52 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/munenick/articles/b507a9848b6fdd</guid>
+      <title>【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え</title>
+      <link>https://zenn.dev/uhyo/articles/react-profession-bench-14</link>
+      <description>皆さんこんにちは。React習熟度シリーズの14記事目です。今回は、先日リリースされた新モデルClaude Opus 5をいつものReact習熟度ベンチマークで計測してみた回です。いつもどおりeffortはhighとmaxの2種類で、両方の結果をこの記事でお届けします。 ちなみに、記事の後半はいつも…</description>
+      <pubDate>Mon, 27 Jul 2026 00:04:18 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/react-profession-bench-14</guid>
       <category>Web</category>
     </item>
   </channel>
