@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:04:34 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:05:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Playwright Workspacesで簡易TODOアプリのクラウドE2Eテストを実施する</title>
-      <link>https://codezine.jp/article/detail/28916</link>
-      <description>本連載では全4回に分けて、Microsoftが提供するクラウド型のEnd-to-End（以降「E2E」）テストサービス「Microsoft Playwright Workspaces」について紹介します。</description>
-      <pubDate>Mon, 27 Jul 2026 00:04:34 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/28916</guid>
+      <title>「そのAIエージェント、本当に使われていますか」──Pendo CEOが東京で投げた問い</title>
+      <link>https://codezine.jp/article/detail/29117</link>
+      <description>グローバルのAI投資額は3兆5000億ドル超。その一方で、投資に対するROIを実感できている経営層は29％にとどまる。Pendo.io Japanが7月23日に開いた記者説明会で示された数字だ。同社共同創業者兼CEOのTodd Olson氏が講演の最後に投げたのは、この落差の正体を突く問いだった。「…</description>
+      <pubDate>Tue, 28 Jul 2026 00:05:48 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29117</guid>
       <category>バックエンド</category>
     </item>
   </channel>

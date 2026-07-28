@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:04:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:05:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome」に今月5度目のセキュリティ更新 - 脆弱性4件に対処</title>
-      <link>https://www.security-next.com/187798</link>
-      <description>Googleは現地時間2026年7月23日、ブラウザ「Chrome」のセキュリティアップデートを公開した。</description>
-      <pubDate>Mon, 27 Jul 2026 00:04:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/187798</guid>
+      <title>米当局、「FortiOS」「VeloCloud Orchestrator」の脆弱性悪用を確認</title>
+      <link>https://www.security-next.com/187925</link>
+      <description>米当局は、「FortiOS」や「VeloCloud Orchestrator」に判明した2件の脆弱性が、サイバー攻撃に悪用されているとして注意を呼びかけた。</description>
+      <pubDate>Tue, 28 Jul 2026 00:05:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/187925</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

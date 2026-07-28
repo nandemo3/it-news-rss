@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:05:32 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【速報】Opus 5、React習熟度ベンチマークで余裕のFable 5超え</title>
-      <link>https://zenn.dev/uhyo/articles/react-profession-bench-14</link>
-      <description>皆さんこんにちは。React習熟度シリーズの14記事目です。今回は、先日リリースされた新モデルClaude Opus 5をいつものReact習熟度ベンチマークで計測してみた回です。いつもどおりeffortはhighとmaxの2種類で、両方の結果をこの記事でお届けします。 ちなみに、記事の後半はいつも…</description>
-      <pubDate>Mon, 27 Jul 2026 00:04:18 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/react-profession-bench-14</guid>
+      <title>ステージング環境をセルフサービス化しチームの開発速度を向上させた方法</title>
+      <link>https://zenn.dev/fusic/articles/83c6b9a1e7c7d0</link>
+      <description>はじめに 現在、複数人の開発メンバーで新規のWebアプリケーションを開発しています。 開発メンバーは5人、さらに、仕様駆動開発の考えを導入した上でDevinも実装者に加わっています。 インフラの構築が落ち着き、ある程度の開発基盤も整った段階で、運用上以下の状況が発生していました。 チーム内でリリース…</description>
+      <pubDate>Tue, 28 Jul 2026 00:05:32 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/fusic/articles/83c6b9a1e7c7d0</guid>
       <category>Web</category>
     </item>
   </channel>

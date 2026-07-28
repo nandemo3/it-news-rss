@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 27 Jul 2026 00:04:18 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 28 Jul 2026 00:05:31 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「iPhone高騰」はこれからも続く？　中国CXMTに近づくApple、メモリ競合へのけん制が不発に終わりそうなワケ【後編】</title>
-      <link>https://www.itmedia.co.jp/news/articles/2607/27/news021.html</link>
-      <description>前編「Appleはもう『メモリのお得意様』ではない？ NVIDIAだけでiPhone数億台分、苦境に陥った”買いたたき王者”のいま」では、米Appleによる中華メモリメーカー・CXMTへの接近と、その対応にはあまり意味がないのでは？ という疑問を述べた。後編では筆者がそう考える背景をご紹介したい。</description>
-      <pubDate>Mon, 27 Jul 2026 00:04:18 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/27/news021.html</guid>
+      <title>NVIDIAやMicrosoftなど30社超、オープンAIの防御ツール共同開発の「Open Secure AI Alliance」設立</title>
+      <link>https://www.itmedia.co.jp/news/articles/2607/28/news059.html</link>
+      <description>NVIDIAやMicrosoft、SpaceXAIなどは、AIオープンモデルの安全性向上とサイバーセキュリティツール開発を目指すイニシアチブ「Open Secure AI Alliance」を設立した。オープンな技術を活用してソフトウェアの脆弱性修正や防御ツールの共同開発を推進し、過度な規制に対する…</description>
+      <pubDate>Tue, 28 Jul 2026 00:05:31 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/articles/2607/28/news059.html</guid>
       <category>AI</category>
     </item>
   </channel>
