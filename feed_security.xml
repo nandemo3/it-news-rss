@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 28 Jul 2026 00:05:49 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 00:02:12 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>米当局、「FortiOS」「VeloCloud Orchestrator」の脆弱性悪用を確認</title>
-      <link>https://www.security-next.com/187925</link>
-      <description>米当局は、「FortiOS」や「VeloCloud Orchestrator」に判明した2件の脆弱性が、サイバー攻撃に悪用されているとして注意を呼びかけた。</description>
-      <pubDate>Tue, 28 Jul 2026 00:05:49 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/187925</guid>
+      <title>「VeloCloud Orchestrator」に脆弱性、悪用を確認 - 侵害調査を</title>
+      <link>https://www.security-next.com/187930</link>
+      <description>SD-WAN環境の統合管理製品「Arista VeloCloud Orchestrator（VCO）」のオンプレミス版に深刻な脆弱性が明らかとなった。すでに脆弱性の悪用が確認されている。</description>
+      <pubDate>Wed, 29 Jul 2026 00:02:12 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/187930</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
