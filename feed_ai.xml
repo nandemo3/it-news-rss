@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:03:56 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAIやAnthropicなどの従業員、米政府に「AI開発のペース調整を」と提言</title>
-      <link>https://www.itmedia.co.jp/news/article/2607/29/2000000255/</link>
-      <description>OpenAIやGoogleなどの従業員1000人以上が、AI開発のペース調整に向けた国際的支援を米政府に求める公開書簡を発表した。AI自律化の急速な加速に伴う制御不能リスクを指摘し、開発速度の調整に必要なツール開発を訴える。企業主導のオープンモデル規制回避を求める動きとは対照的な提起となった。</description>
-      <pubDate>Wed, 29 Jul 2026 00:01:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2607/29/2000000255/</guid>
+      <title>フィジカルAI時代のロボティクス新標準、安全性は「後付け」でなく「設計の核心」</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2607/30/news009.html</link>
+      <description>AIがデジタル空間を超えて物理世界に踏み出す「フィジカルAI」の時代に入り、ロボットを開発する上での「安全性」をどのように定義し直すべきかが問われている。</description>
+      <pubDate>Thu, 30 Jul 2026 00:03:56 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2607/30/news009.html</guid>
       <category>AI</category>
     </item>
   </channel>

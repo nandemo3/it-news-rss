@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 29 Jul 2026 00:01:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 30 Jul 2026 00:03:56 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【速報】Kimi-K3 を Day0 デプロイ。2.8T モデルは NVIDIA B300 x8 の 1 ノードで動くのか</title>
-      <link>https://zenn.dev/fixstars/articles/kimi-k3-benchmark</link>
-      <description>はじめに 2026年7月27日、Moonshot AI から Kimi-K3 のモデルウェイトが公開されました。7月16日のモデル発表時点から「オープンウェイトモデルとして史上最大」と大きな話題になっていたモデルです。 フィックスターズでは、ウェイト公開の当日に NVIDIA B300 x8 のシン…</description>
-      <pubDate>Wed, 29 Jul 2026 00:01:55 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/fixstars/articles/kimi-k3-benchmark</guid>
+      <title>[gamification] DIVER OSINT CTF 2026 Writeup</title>
+      <link>https://zenn.dev/syurenuko/articles/7c1834466efd8a</link>
+      <description>2026年7月25日〜6日に24時間開催されたDIVER OSINT CTF 2026にsamと2人で参加していました。（チーム名：gamification） 最終順位は18位/867チームでした。 チーム人数制限の上限6人で出場しているチームも多く、24時間以内という制約もある中で、2人でこの順位…</description>
+      <pubDate>Thu, 30 Jul 2026 00:03:56 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/syurenuko/articles/7c1834466efd8a</guid>
       <category>Web</category>
     </item>
   </channel>
