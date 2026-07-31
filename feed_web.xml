@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:06:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>[gamification] DIVER OSINT CTF 2026 Writeup</title>
-      <link>https://zenn.dev/syurenuko/articles/7c1834466efd8a</link>
-      <description>2026年7月25日〜6日に24時間開催されたDIVER OSINT CTF 2026にsamと2人で参加していました。（チーム名：gamification） 最終順位は18位/867チームでした。 チーム人数制限の上限6人で出場しているチームも多く、24時間以内という制約もある中で、2人でこの順位…</description>
-      <pubDate>Thu, 30 Jul 2026 00:03:56 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/syurenuko/articles/7c1834466efd8a</guid>
+      <title>リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方</title>
+      <link>https://zenn.dev/estie/articles/c5503dfe56f7a1</link>
+      <description>こんにちは、株式会社estie（エスティ） 取締役CTO の Nari（@tiwanari）です。 みなさんは、新しいプロダクトを世に出す前に、「抜け漏れ」がないか不安になった経験はないですか？ 先日、あるプロダクトのリリース前チェックで「個人情報がエラー監視ツールへ送られる実装になっている」と指摘…</description>
+      <pubDate>Fri, 31 Jul 2026 00:06:50 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/estie/articles/c5503dfe56f7a1</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:03:56 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:06:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>フィジカルAI時代のロボティクス新標準、安全性は「後付け」でなく「設計の核心」</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2607/30/news009.html</link>
-      <description>AIがデジタル空間を超えて物理世界に踏み出す「フィジカルAI」の時代に入り、ロボットを開発する上での「安全性」をどのように定義し直すべきかが問われている。</description>
-      <pubDate>Thu, 30 Jul 2026 00:03:56 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2607/30/news009.html</guid>
+      <title>リホストを選ぶ企業は63％　モダナイゼーションの「第一歩」のはずが、なぜ終着点に変わるのか？</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2607/31/news022.html</link>
+      <description>国産メインフレームの提供終了が相次ぎ、レガシーシステムの移行は「期限のある経営課題」になった。だが移行プロジェクトで最初に立ちはだかるのは、移行技術やアーキテクチャ「以外の」問題だ。モダナイゼーションがリホストで止まる構造を、ITRの入谷光浩氏が解説する。</description>
+      <pubDate>Fri, 31 Jul 2026 00:06:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/31/news022.html</guid>
       <category>AI</category>
     </item>
   </channel>

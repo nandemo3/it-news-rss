@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 30 Jul 2026 00:04:12 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 31 Jul 2026 00:07:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ユーザーに安心感を与えるUIの設計手法 ──ボタンの「フィードバック」を意識したUIの重要性とは？</title>
-      <link>https://codezine.jp/article/detail/29014</link>
-      <description>AIでデザインを生成・実装するケースが増える一方、見た目は整っていてもUI/UXが機能せず、サイトが想定通りに使われない課題が生じています。本連載では、株式会社FaciloのフロントエンドエンジニアでZEN大学客員講師を務める折原レオナルド賢氏が、UX改善のヒントを指南します。第2回のテーマは「フィ…</description>
-      <pubDate>Thu, 30 Jul 2026 00:04:12 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29014</guid>
+      <title>AI時代のプロダクトマネージャーに必要な「3つの変化」と「変わらない1本の軸」──ARR500億円超・ラクスの組織づくり</title>
+      <link>https://codezine.jp/article/detail/29113</link>
+      <description>生成AIは開発の実務コストを大きく押し下げ、「プロダクトマネージャーは不要になるのか」という問いを突きつけている。しかし、ARR500億円を超えるラクスでプロダクトづくりを率いる筆者の答えは、むしろ逆だ。AIが作業を引き取るほど、「判断」という核が際立つという。本稿が説くのは、AI時代にプロダクトマ…</description>
+      <pubDate>Fri, 31 Jul 2026 00:07:06 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29113</guid>
       <category>バックエンド</category>
     </item>
   </channel>
