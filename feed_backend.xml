@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:07:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:04:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI時代のプロダクトマネージャーに必要な「3つの変化」と「変わらない1本の軸」──ARR500億円超・ラクスの組織づくり</title>
-      <link>https://codezine.jp/article/detail/29113</link>
-      <description>生成AIは開発の実務コストを大きく押し下げ、「プロダクトマネージャーは不要になるのか」という問いを突きつけている。しかし、ARR500億円を超えるラクスでプロダクトづくりを率いる筆者の答えは、むしろ逆だ。AIが作業を引き取るほど、「判断」という核が際立つという。本稿が説くのは、AI時代にプロダクトマ…</description>
-      <pubDate>Fri, 31 Jul 2026 00:07:06 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29113</guid>
+      <title>Wix、AIで開発したアプリ向けに「Wix Headless」の機能を強化</title>
+      <link>https://codezine.jp/article/detail/29195</link>
+      <description></description>
+      <pubDate>Sat, 01 Aug 2026 00:04:48 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29195</guid>
       <category>バックエンド</category>
     </item>
   </channel>

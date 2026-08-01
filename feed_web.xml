@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:04:32 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>リリース前チェックをAIで行う「プロダクトリリースハーネス」のつくり方</title>
-      <link>https://zenn.dev/estie/articles/c5503dfe56f7a1</link>
-      <description>こんにちは、株式会社estie（エスティ） 取締役CTO の Nari（@tiwanari）です。 みなさんは、新しいプロダクトを世に出す前に、「抜け漏れ」がないか不安になった経験はないですか？ 先日、あるプロダクトのリリース前チェックで「個人情報がエラー監視ツールへ送られる実装になっている」と指摘…</description>
-      <pubDate>Fri, 31 Jul 2026 00:06:50 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/estie/articles/c5503dfe56f7a1</guid>
+      <title>GitHubにスタックプルリクエストが登場。gh stackでPRを分割して積み上げよう</title>
+      <link>https://zenn.dev/ubie_dev/articles/gh-stack-introduction</link>
+      <description>GitHubでPRを細かく作り、前のブランチに対して数珠つなぎのようにPRを作る私が大歓喜！ GitHubに「スタックプルリクエスト」機能が来ました💐 3行まとめ 大きな変更を、順序付きの小さなPR群（スタック）に分割して扱える機能がGitHub公式で登場 gh extension install …</description>
+      <pubDate>Sat, 01 Aug 2026 00:04:32 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/gh-stack-introduction</guid>
       <category>Web</category>
     </item>
   </channel>

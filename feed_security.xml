@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:04:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Adobe Campaign Classic」に悪用リスク高い脆弱性 - 早急に更新を</title>
-      <link>https://www.security-next.com/188118</link>
-      <description>「Adobe Campaign Classic（ACC）」に深刻な脆弱性が明らかとなった。悪用は確認されていないものの、今後悪用されるリスクが高いとして早急に対策を講じるよう呼びかけている。</description>
-      <pubDate>Fri, 31 Jul 2026 00:07:07 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188118</guid>
+      <title>「Ruby on Rails」に深刻な脆弱性「KindaRails2Shell」</title>
+      <link>https://www.security-next.com/188126</link>
+      <description>ウェブアプリケーションフレームワーク「Ruby on Rails」に深刻な脆弱性が判明した。WAFで攻撃を回避することは難しいとされており、アップデートの実施が呼びかけられている。</description>
+      <pubDate>Sat, 01 Aug 2026 00:04:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188126</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

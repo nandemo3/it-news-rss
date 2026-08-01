@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 31 Jul 2026 00:06:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 01 Aug 2026 00:04:32 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>リホストを選ぶ企業は63％　モダナイゼーションの「第一歩」のはずが、なぜ終着点に変わるのか？</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2607/31/news022.html</link>
-      <description>国産メインフレームの提供終了が相次ぎ、レガシーシステムの移行は「期限のある経営課題」になった。だが移行プロジェクトで最初に立ちはだかるのは、移行技術やアーキテクチャ「以外の」問題だ。モダナイゼーションがリホストで止まる構造を、ITRの入谷光浩氏が解説する。</description>
-      <pubDate>Fri, 31 Jul 2026 00:06:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2607/31/news022.html</guid>
+      <title>キオクシア、株価3分の1急落は「絶好のタイミング」　過去最高益と8000億円自社株買いで示す自信</title>
+      <link>https://www.itmedia.co.jp/business/articles/2607/31/news108.html</link>
+      <description>キオクシアHDは、2026年4～6月のNon-GAAP営業利益が1兆3262億円で、直近1年間の営業利益を上回ったと説明した。7～9月の売上収益は、2兆3900億円を見込む。経営幹部からは力強い言葉が続いた。</description>
+      <pubDate>Sat, 01 Aug 2026 00:04:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2607/31/news108.html</guid>
       <category>AI</category>
     </item>
   </channel>
