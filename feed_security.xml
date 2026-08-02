@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:04:49 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:02:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「Ruby on Rails」に深刻な脆弱性「KindaRails2Shell」</title>
       <link>https://www.security-next.com/188126</link>
       <description>ウェブアプリケーションフレームワーク「Ruby on Rails」に深刻な脆弱性が判明した。WAFで攻撃を回避することは難しいとされており、アップデートの実施が呼びかけられている。</description>
-      <pubDate>Sat, 01 Aug 2026 00:04:49 GMT</pubDate>
+      <pubDate>Sun, 02 Aug 2026 00:02:16 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/188126</guid>
       <category>セキュリティ</category>
     </item>

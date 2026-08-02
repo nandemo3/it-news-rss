@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:04:48 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:02:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Wix、AIで開発したアプリ向けに「Wix Headless」の機能を強化</title>
-      <link>https://codezine.jp/article/detail/29195</link>
+      <title>GitHub Copilot、リモート制御を管理対象デバイスのみに制限可能に</title>
+      <link>https://codezine.jp/article/detail/29194</link>
       <description></description>
-      <pubDate>Sat, 01 Aug 2026 00:04:48 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29195</guid>
+      <pubDate>Sun, 02 Aug 2026 00:02:15 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29194</guid>
       <category>バックエンド</category>
     </item>
   </channel>

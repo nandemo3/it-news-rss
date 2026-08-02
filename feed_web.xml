@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 01 Aug 2026 00:04:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 02 Aug 2026 00:01:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHubにスタックプルリクエストが登場。gh stackでPRを分割して積み上げよう</title>
-      <link>https://zenn.dev/ubie_dev/articles/gh-stack-introduction</link>
-      <description>GitHubでPRを細かく作り、前のブランチに対して数珠つなぎのようにPRを作る私が大歓喜！ GitHubに「スタックプルリクエスト」機能が来ました💐 3行まとめ 大きな変更を、順序付きの小さなPR群（スタック）に分割して扱える機能がGitHub公式で登場 gh extension install …</description>
-      <pubDate>Sat, 01 Aug 2026 00:04:32 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/ubie_dev/articles/gh-stack-introduction</guid>
+      <title>AI フレンドリーな CLI を開発するテクニック</title>
+      <link>https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly</link>
+      <description>自分は趣味で様々な CLI を OSS として公開しています (aqua, pinact, tfcmt, ghalint, ghir, etc)。 昨今では AI がこれらを扱うことも増えてきていますが、それなりに知られた OSS でないかぎり AI はその OSS に関する質問に答えたりトラブルシ…</description>
+      <pubDate>Sun, 02 Aug 2026 00:01:58 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly</guid>
       <category>Web</category>
     </item>
   </channel>
