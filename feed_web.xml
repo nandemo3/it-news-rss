@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 00:01:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 00:02:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI フレンドリーな CLI を開発するテクニック</title>
-      <link>https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly</link>
-      <description>自分は趣味で様々な CLI を OSS として公開しています (aqua, pinact, tfcmt, ghalint, ghir, etc)。 昨今では AI がこれらを扱うことも増えてきていますが、それなりに知られた OSS でないかぎり AI はその OSS に関する質問に答えたりトラブルシ…</description>
-      <pubDate>Sun, 02 Aug 2026 00:01:58 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/shunsuke_suzuki/articles/make-cli-ai-friendly</guid>
+      <title>GDBで始めるアセンブリと解析</title>
+      <link>https://zenn.dev/juck28/articles/091c07869aba28</link>
+      <description>Reversingをやる上で避けて通れないのがアセンブリ。 こいつを「なんとなく読める」ようになると解析がグッと楽になります。 この記事はSECCON Beginners 2026 東京で担当したワークショップ「アセンブリと解析をそれとなく理解する巻」の補助資料兼、後日ひとりでも復習できるようにまと…</description>
+      <pubDate>Mon, 03 Aug 2026 00:02:16 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/juck28/articles/091c07869aba28</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 02 Aug 2026 00:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 03 Aug 2026 00:02:33 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Ruby on Rails」に深刻な脆弱性「KindaRails2Shell」</title>
-      <link>https://www.security-next.com/188126</link>
-      <description>ウェブアプリケーションフレームワーク「Ruby on Rails」に深刻な脆弱性が判明した。WAFで攻撃を回避することは難しいとされており、アップデートの実施が呼びかけられている。</description>
-      <pubDate>Sun, 02 Aug 2026 00:02:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188126</guid>
+      <title>「pgAdmin 4」に深刻な脆弱性 - 前回修正の不備も</title>
+      <link>https://www.security-next.com/188205</link>
+      <description>データベース管理ツール「pgAdmin 4」の開発チームは、複数の脆弱性を解消したセキュリティアップデートを公開した。</description>
+      <pubDate>Mon, 03 Aug 2026 00:02:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188205</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
