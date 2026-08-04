@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:11:54 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GDBで始めるアセンブリと解析</title>
-      <link>https://zenn.dev/juck28/articles/091c07869aba28</link>
-      <description>Reversingをやる上で避けて通れないのがアセンブリ。 こいつを「なんとなく読める」ようになると解析がグッと楽になります。 この記事はSECCON Beginners 2026 東京で担当したワークショップ「アセンブリと解析をそれとなく理解する巻」の補助資料兼、後日ひとりでも復習できるようにまと…</description>
-      <pubDate>Mon, 03 Aug 2026 00:02:16 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/juck28/articles/091c07869aba28</guid>
+      <title>Web 標準動向 2026年7月版</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202607</link>
+      <description>こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わ…</description>
+      <pubDate>Tue, 04 Aug 2026 00:11:54 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202607</guid>
       <category>Web</category>
     </item>
   </channel>

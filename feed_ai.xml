@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:02:16 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:11:54 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【レベル14】生成AIを味方に、3D CADを使いこなそう！</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2608/03/news002.html</link>
-      <description>設計スキルのレベルアップを目指す設計者の皆さんを“冒険者”に見立て、さまざまな“問（モン）スター”に挑む「テルえもんクエストII」の世界へようこそ。【レベル14】のテーマは、生成AIを活用した3D CADデータの作成と操作です。</description>
-      <pubDate>Mon, 03 Aug 2026 00:02:16 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2608/03/news002.html</guid>
+      <title>EU、AIの透明性義務の適用を開始　生成コンテンツにラベルとマーク義務、違反に最大1500万ユーロ</title>
+      <link>https://www.itmedia.co.jp/news/article/2608/04/2000000366/</link>
+      <description>EUの欧州委員会はAI規制法「EU AI Act」の第50条に基づく透明性ルールの適用を開始した。生成AIやディープフェイク等を扱う事業者に対し、AIとの対話の明示やコンテンツへのラベル・機械可読マークの付与を義務付ける。違反企業には最大1500万ユーロまたは売上高の3％の制裁金が科される可能性があ…</description>
+      <pubDate>Tue, 04 Aug 2026 00:11:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/04/2000000366/</guid>
       <category>AI</category>
     </item>
   </channel>

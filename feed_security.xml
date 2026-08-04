@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 03 Aug 2026 00:02:33 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 04 Aug 2026 00:12:11 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「pgAdmin 4」に深刻な脆弱性 - 前回修正の不備も</title>
       <link>https://www.security-next.com/188205</link>
       <description>データベース管理ツール「pgAdmin 4」の開発チームは、複数の脆弱性を解消したセキュリティアップデートを公開した。</description>
-      <pubDate>Mon, 03 Aug 2026 00:02:33 GMT</pubDate>
+      <pubDate>Tue, 04 Aug 2026 00:12:11 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/188205</guid>
       <category>セキュリティ</category>
     </item>
