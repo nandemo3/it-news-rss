@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:12:10 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:09:29 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Airbnbが挑んだ150以上のKubernetesクラスタ大規模移行の舞台裏</title>
-      <link>https://codezine.jp/article/detail/29186</link>
-      <description>Airbnbのクラウドネットワーキングチームは、150以上のKubernetesクラスタ、1万3000を超えるワーカーノードを、AWS VPC CNIからCiliumへおよそ8カ月かけて移行した。共有VPC配下で全クラスタのCilium operatorが同じEC2 APIレート制限を奪い合うという…</description>
-      <pubDate>Tue, 04 Aug 2026 00:12:10 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29186</guid>
+      <title>Google、子どもの年齢に応じた安全機能を提供するための「Google Play Age Signals API」を全世界に展開</title>
+      <link>https://codezine.jp/article/detail/29227</link>
+      <description></description>
+      <pubDate>Wed, 05 Aug 2026 00:09:29 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29227</guid>
       <category>バックエンド</category>
     </item>
   </channel>

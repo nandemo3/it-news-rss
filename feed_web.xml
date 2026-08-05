@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:11:54 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:09:13 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Web 標準動向 2026年7月版</title>
-      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202607</link>
-      <description>こんにちは！ サイボウズ株式会社 フロントエンドエンジニアの mehm8128 (@mehm8128) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わ…</description>
-      <pubDate>Tue, 04 Aug 2026 00:11:54 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202607</guid>
+      <title>【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理</title>
+      <link>https://zenn.dev/knowledgesense/articles/7c1a8f7720b119</link>
+      <description>本記事では、今をときめくAI半導体ベンチャーである「Cerebras」による、「社内ナレッジ検索」の仕組みについて、解説します。 株式会社ナレッジセンスは、社内データ検索技術をエンタープライズ企業向けに提供しているスタートアップです。 この記事は何 この記事は、Cerebras社が公開した技術ブログ…</description>
+      <pubDate>Wed, 05 Aug 2026 00:09:13 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/7c1a8f7720b119</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 04 Aug 2026 00:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 05 Aug 2026 00:09:30 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「pgAdmin 4」に深刻な脆弱性 - 前回修正の不備も</title>
-      <link>https://www.security-next.com/188205</link>
-      <description>データベース管理ツール「pgAdmin 4」の開発チームは、複数の脆弱性を解消したセキュリティアップデートを公開した。</description>
-      <pubDate>Tue, 04 Aug 2026 00:12:11 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188205</guid>
+      <title>「Langflow」「Tomcat」など脆弱性3件の悪用に注意喚起 - 米当局</title>
+      <link>https://www.security-next.com/188342</link>
+      <description>米サイバーセキュリティインフラストラクチャセキュリティ庁（CISA）は、「Apache Tomcat」に関する脆弱性をはじめ、悪用されている3件の既知の脆弱性について注意を喚起した。</description>
+      <pubDate>Wed, 05 Aug 2026 00:09:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188342</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
