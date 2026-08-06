@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:09:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:03:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Langflow」「Tomcat」など脆弱性3件の悪用に注意喚起 - 米当局</title>
-      <link>https://www.security-next.com/188342</link>
-      <description>米サイバーセキュリティインフラストラクチャセキュリティ庁（CISA）は、「Apache Tomcat」に関する脆弱性をはじめ、悪用されている3件の既知の脆弱性について注意を喚起した。</description>
-      <pubDate>Wed, 05 Aug 2026 00:09:30 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188342</guid>
+      <title>米当局、「TeamCity」脆弱性の悪用に注意喚起</title>
+      <link>https://www.security-next.com/188424</link>
+      <description>米当局は、JetBrainsの継続的インテグレーション製品「TeamCity」に判明した脆弱性がサイバー攻撃に悪用されているとして、利用組織へ早急な対策を呼びかけた。</description>
+      <pubDate>Thu, 06 Aug 2026 00:03:08 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188424</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

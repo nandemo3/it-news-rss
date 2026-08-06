@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:02:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Gemini“ヘビーユーザー”が1年で10倍に　「平均年齢高い、IT本業じゃない」首都高が実践したAI活用推進ノウハウ</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2608/05/2000000383/</link>
-      <description>月100回以上Geminiを使う首都高速道路の従業員が、1年で22人から224人に急増した。転機は対面・終日のワークショップと「誰一人取り残さない」全社推進、そして「Gemini Notebook」の存在だった。</description>
-      <pubDate>Wed, 05 Aug 2026 00:09:13 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/05/2000000383/</guid>
+      <title>オープンソースのAI機能付きオフィス登場　docx・xlsx・pptx・pdfに対応　Genspark</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/</link>
+      <description>AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。</description>
+      <pubDate>Thu, 06 Aug 2026 00:02:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/</guid>
       <category>AI</category>
     </item>
   </channel>

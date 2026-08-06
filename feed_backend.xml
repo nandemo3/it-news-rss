@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:09:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:03:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google、子どもの年齢に応じた安全機能を提供するための「Google Play Age Signals API」を全世界に展開</title>
-      <link>https://codezine.jp/article/detail/29227</link>
-      <description></description>
-      <pubDate>Wed, 05 Aug 2026 00:09:29 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29227</guid>
+      <title>技術的負債の誤解　〜「測れないから説明できない」を越えることと認知的負債について〜</title>
+      <link>https://codezine.jp/article/detail/24730</link>
+      <description>連載第2回で、開発生産性は一つの数字に閉じ込めると破綻するというを解説をしました。今回はその数字に乗りにくい代表格、技術的負債を扱います。「技術的負債があります」と言っても、経営会議では具体的な数値を求められて言葉に詰まる。DMM.comの現場でも繰り返し見てきたこの壁を、測れないことと説明できない…</description>
+      <pubDate>Thu, 06 Aug 2026 00:03:06 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24730</guid>
       <category>バックエンド</category>
     </item>
   </channel>

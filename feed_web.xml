@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 05 Aug 2026 00:09:13 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 00:02:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【RAG】話題の米国AIベンチャーで実践される「社内ナレッジ」管理</title>
-      <link>https://zenn.dev/knowledgesense/articles/7c1a8f7720b119</link>
-      <description>本記事では、今をときめくAI半導体ベンチャーである「Cerebras」による、「社内ナレッジ検索」の仕組みについて、解説します。 株式会社ナレッジセンスは、社内データ検索技術をエンタープライズ企業向けに提供しているスタートアップです。 この記事は何 この記事は、Cerebras社が公開した技術ブログ…</description>
-      <pubDate>Wed, 05 Aug 2026 00:09:13 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/7c1a8f7720b119</guid>
+      <title>gpt-5.6-sol の high に「ウルトラ」と入力して「ソウル」と話させる技術</title>
+      <link>https://zenn.dev/microsoft/articles/agent-framework-ultra-soul</link>
+      <description>更新履歴 2026/08/05: Agents Skill を追記、末尾に正解を追記 注意 ! ネタ記事なので真面目に読まないでね…！（と思って書き始めたら結構有益な記事になったかも…） ことの始まり 先日行われた Japan Azure Travelers 広島回(次回は和歌山で次々回は秋田！)の…</description>
+      <pubDate>Thu, 06 Aug 2026 00:02:50 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/agent-framework-ultra-soul</guid>
       <category>Web</category>
     </item>
   </channel>
