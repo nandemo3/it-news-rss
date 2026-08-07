@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:03:08 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:42:30 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>米当局、「TeamCity」脆弱性の悪用に注意喚起</title>
-      <link>https://www.security-next.com/188424</link>
-      <description>米当局は、JetBrainsの継続的インテグレーション製品「TeamCity」に判明した脆弱性がサイバー攻撃に悪用されているとして、利用組織へ早急な対策を呼びかけた。</description>
-      <pubDate>Thu, 06 Aug 2026 00:03:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188424</guid>
+      <title>「Chrome」にセキュリティ更新 - クリティカル6件含む脆弱性を修正</title>
+      <link>https://www.security-next.com/188474</link>
+      <description>Googleは現地時間2026年8月6日、ウェブブラウザ「Chrome」のセキュリティアップデートを公開した。重要度が「クリティカル」とされるものも含め、複数の脆弱性を修正している。</description>
+      <pubDate>Fri, 07 Aug 2026 01:42:30 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188474</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

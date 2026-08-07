@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:42:12 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>オープンソースのAI機能付きオフィス登場　docx・xlsx・pptx・pdfに対応　Genspark</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/</link>
-      <description>AIサービスを開発する米Gensparkは、オープンソースのAI機能付きオフィススイート「GenOffice」を発表した。</description>
-      <pubDate>Thu, 06 Aug 2026 00:02:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/06/2000000398/</guid>
+      <title>「GPT-5.6 vs. Claude Fable 5」勝者はClaude、でも企業が選びづらいワケ：891st Lap</title>
+      <link>https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html</link>
+      <description>物理AIベンチマークで最高評価を獲得した「Claude Fable 5」。だが、企業が導入を判断する際には、性能だけでは見えない悩ましい問題が浮かび上がった。</description>
+      <pubDate>Fri, 07 Aug 2026 01:42:12 GMT</pubDate>
+      <guid isPermaLink="true">https://kn.itmedia.co.jp/kn/articles/2608/07/news037.html</guid>
       <category>AI</category>
     </item>
   </channel>

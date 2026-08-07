@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 06 Aug 2026 00:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 01:42:13 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>gpt-5.6-sol の high に「ウルトラ」と入力して「ソウル」と話させる技術</title>
-      <link>https://zenn.dev/microsoft/articles/agent-framework-ultra-soul</link>
-      <description>更新履歴 2026/08/05: Agents Skill を追記、末尾に正解を追記 注意 ! ネタ記事なので真面目に読まないでね…！（と思って書き始めたら結構有益な記事になったかも…） ことの始まり 先日行われた Japan Azure Travelers 広島回(次回は和歌山で次々回は秋田！)の…</description>
-      <pubDate>Thu, 06 Aug 2026 00:02:50 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/agent-framework-ultra-soul</guid>
+      <title>DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた</title>
+      <link>https://zenn.dev/ait/articles/google-design-md-measured</link>
+      <description>AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。 「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。 Google Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル…</description>
+      <pubDate>Fri, 07 Aug 2026 01:42:13 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/ait/articles/google-design-md-measured</guid>
       <category>Web</category>
     </item>
   </channel>
