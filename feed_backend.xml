@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 01:42:28 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:38:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Amazon DynamoDBがベクター検索の一般提供を開始</title>
-      <link>https://codezine.jp/article/detail/29260</link>
+      <title>AWS Transit Gateway、ポリシーベースルーティングの一般提供を開始</title>
+      <link>https://codezine.jp/article/detail/29264</link>
       <description></description>
-      <pubDate>Fri, 07 Aug 2026 01:42:28 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29260</guid>
+      <pubDate>Fri, 07 Aug 2026 23:38:05 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29264</guid>
       <category>バックエンド</category>
     </item>
   </channel>

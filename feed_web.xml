@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 01:42:13 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:37:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>DESIGN.md を置くと、どこまで「いい感じ」になるのか — 74件を測って確かめた</title>
-      <link>https://zenn.dev/ait/articles/google-design-md-measured</link>
-      <description>AI に UI を作らせると、毎回ちょっとずつ違うものが出てきます。 「モダンで、クリーンで、信頼感のある感じで」と頼む。悪くないものが出る。翌日また頼む。また悪くないものが出る。でも昨日のとは違う。 Google Labs が公開した DESIGN.md は、この「毎回違う」を止めるためのファイル…</description>
-      <pubDate>Fri, 07 Aug 2026 01:42:13 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/ait/articles/google-design-md-measured</guid>
+      <title>手を動かしてStacked pull requestのgh stackを理解してみた</title>
+      <link>https://zenn.dev/kesin11/articles/20260806_stacked_pr</link>
+      <description>https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/ Stacked pull requestという機能が唐突にpublic previewで登場したので試してみました。 c…</description>
+      <pubDate>Fri, 07 Aug 2026 23:37:49 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/kesin11/articles/20260806_stacked_pr</guid>
       <category>Web</category>
     </item>
   </channel>

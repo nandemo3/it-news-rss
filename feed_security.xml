@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 07 Aug 2026 01:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 07 Aug 2026 23:38:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome」にセキュリティ更新 - クリティカル6件含む脆弱性を修正</title>
-      <link>https://www.security-next.com/188474</link>
-      <description>Googleは現地時間2026年8月6日、ウェブブラウザ「Chrome」のセキュリティアップデートを公開した。重要度が「クリティカル」とされるものも含め、複数の脆弱性を修正している。</description>
-      <pubDate>Fri, 07 Aug 2026 01:42:30 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188474</guid>
+      <title>Cisco、アドバイザリ12件を公開 - 「Catalyst SD-WAN」「IOS XE」に深刻な脆弱性</title>
+      <link>https://www.security-next.com/188567</link>
+      <description>Cisco Systemsは現地時間8月5日、「Cisco Catalyst SD-WAN」や「Cisco IOS XE」をはじめ、複数製品の脆弱性についてセキュリティアドバイザリをリリースした。重要度が「クリティカル（Critical）」とされるアドバイザリも複数公開している。</description>
+      <pubDate>Fri, 07 Aug 2026 23:38:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188567</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
