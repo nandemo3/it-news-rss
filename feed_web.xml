@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 23:33:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:35:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Redditのヘッジファンド、クオンツトピックをGrokタスクで毎週自動収集する</title>
-      <link>https://zenn.dev/gamella/articles/1fc2949daf99de</link>
-      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。 さて、Redditのr/quantやr/algotradingには、ヘッジファンドの実務が定期的に漏れてきます。 前回の残差分析の記事で、新しいシグナルを既知ファクターに回帰して残差を確認する報告が「盛り上が…</description>
-      <pubDate>Sat, 08 Aug 2026 23:33:43 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/gamella/articles/1fc2949daf99de</guid>
+      <title>UKIさん、Hohetoさんの「勝てる戦略は誰が負けてくれるかを説明できる」をクオンツ視点で読み解く</title>
+      <link>https://zenn.dev/gamella/articles/d5ad80722d01ae</link>
+      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。 億万株姫☆あばねちゃんのチャンネルに、いつもお世話になっているUKIさん・Hohetoさんが出演したということで覗いてみました。 https://www.youtube.com/watch?v=seXD8BU…</description>
+      <pubDate>Sun, 09 Aug 2026 23:35:53 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/gamella/articles/d5ad80722d01ae</guid>
       <category>Web</category>
     </item>
   </channel>

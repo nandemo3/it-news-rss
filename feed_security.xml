@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 23:34:00 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:36:10 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Cisco、アドバイザリ12件を公開 - 「Catalyst SD-WAN」「IOS XE」に深刻な脆弱性</title>
-      <link>https://www.security-next.com/188567</link>
-      <description>Cisco Systemsは現地時間8月5日、「Cisco Catalyst SD-WAN」や「Cisco IOS XE」をはじめ、複数製品の脆弱性についてセキュリティアドバイザリをリリースした。重要度が「クリティカル（Critical）」とされるアドバイザリも複数公開している。</description>
-      <pubDate>Sat, 08 Aug 2026 23:34:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188567</guid>
+      <title>「Progress Kemp LoadMaster」の脆弱性が標的に - 米当局が注意喚起</title>
+      <link>https://www.security-next.com/188591</link>
+      <description>Progress Softwareが提供するアプリケーションデリバリ製品「Progress Kemp LoadMaster」における既知の脆弱性が悪用されていることがわかった。早急に対策を講じるよう呼びかけられている。</description>
+      <pubDate>Sun, 09 Aug 2026 23:36:10 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188591</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 08 Aug 2026 23:33:43 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 09 Aug 2026 23:35:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Hugging Face侵害、AIエージェントは社内に“秘密の掲示板”を作っていた──OpenAIがBlack Hatで詳細説明</title>
-      <link>https://www.itmedia.co.jp/news/article/2608/09/2000000463/</link>
-      <description>OpenAIは、7月に発覚したHugging Face侵害インシデントの詳細を「Black Hat USA 2026」で説明した。評価中のAIエージェントたちが社内のパッケージ管理システムを“掲示板”として使い、脆弱性やスクリプトを共有して協調していたという。掲示板は一度消去されたが、2日後に別の手…</description>
-      <pubDate>Sat, 08 Aug 2026 23:33:43 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/09/2000000463/</guid>
+      <title>Salesforce「サポート部門9000→5000人」は人員削減ではない　AI時代に生き残る“配置転換”</title>
+      <link>https://www.itmedia.co.jp/business/articles/2608/10/news028.html</link>
+      <description>米SalesforceがAI導入に伴いサポート人員を「9000人から5000人規模へ再配置」した。この動向は、AI時代のキャリア変革を象徴している。同社日本法人では、全社員に毎年更新の「AI免許」取得を義務付け、現場でAIを即興実装する新職種「FDE」を生み出すなど、人材育成と評価構造の再定義を推進…</description>
+      <pubDate>Sun, 09 Aug 2026 23:35:53 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/10/news028.html</guid>
       <category>AI</category>
     </item>
   </channel>
