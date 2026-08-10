@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 23:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:39:19 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>UKIさん、Hohetoさんの「勝てる戦略は誰が負けてくれるかを説明できる」をクオンツ視点で読み解く</title>
-      <link>https://zenn.dev/gamella/articles/d5ad80722d01ae</link>
-      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。 億万株姫☆あばねちゃんのチャンネルに、いつもお世話になっているUKIさん・Hohetoさんが出演したということで覗いてみました。 https://www.youtube.com/watch?v=seXD8BU…</description>
-      <pubDate>Sun, 09 Aug 2026 23:35:53 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/gamella/articles/d5ad80722d01ae</guid>
+      <title>Cloudflare OSをVRAM 8GBのゲーミングPCで動かしたら、三目並べ1個に5ラウンドかかった話</title>
+      <link>https://zenn.dev/akari1106/articles/20109e62a4b8b7</link>
+      <description>はじめに 2026年8月、CloudflareがCloudflare OSをオープンソース化しました。 社内で数千人が使っているAIエージェント環境をまるごと公開する、というやつです。ドキュメントを書き、アプリを作り、業務を自動化する。それを「自社のCloudflareアカウントにデプロイできますよ…</description>
+      <pubDate>Mon, 10 Aug 2026 23:39:19 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/20109e62a4b8b7</guid>
       <category>Web</category>
     </item>
   </channel>

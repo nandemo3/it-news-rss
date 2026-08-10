@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 23:36:09 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:39:35 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ADK・A2A・MCPで本番エージェント開発、「Gemini Enterprise Agent Platform」が正式提供</title>
-      <link>https://codezine.jp/article/detail/29223</link>
-      <description>7月31日、東京ビッグサイトで開催された「Google Cloud Next Tokyo 26」のDay 2基調講演。Google Cloud 執行役員 カスタマー エンジニアリング 統括の渕野大輔氏は、AIエージェントを業務に浸透させる全レイヤーの最新情報を披露した。学習向け「TPU 8t」と推論…</description>
-      <pubDate>Sun, 09 Aug 2026 23:36:09 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29223</guid>
+      <title>「ビューポート」　～マンガでプログラミング用語解説</title>
+      <link>https://codezine.jp/article/detail/24267</link>
+      <description>この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、のぞき…</description>
+      <pubDate>Mon, 10 Aug 2026 23:39:35 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/24267</guid>
       <category>バックエンド</category>
     </item>
   </channel>

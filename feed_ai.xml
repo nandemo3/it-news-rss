@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 09 Aug 2026 23:35:53 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 10 Aug 2026 23:39:19 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Salesforce「サポート部門9000→5000人」は人員削減ではない　AI時代に生き残る“配置転換”</title>
-      <link>https://www.itmedia.co.jp/business/articles/2608/10/news028.html</link>
-      <description>米SalesforceがAI導入に伴いサポート人員を「9000人から5000人規模へ再配置」した。この動向は、AI時代のキャリア変革を象徴している。同社日本法人では、全社員に毎年更新の「AI免許」取得を義務付け、現場でAIを即興実装する新職種「FDE」を生み出すなど、人材育成と評価構造の再定義を推進…</description>
-      <pubDate>Sun, 09 Aug 2026 23:35:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/10/news028.html</guid>
+      <title>2028年にSOCの人手対応、30％減へ　常態化する攻撃に企業は勝てるのか</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html</link>
+      <description>AIが混乱を拡大させる中で、セキュリティリーダーはどう対応するか。ガートナーは、企業が競争優位を保つために注力すべき優先事項を3つ挙げた。その中身とは。</description>
+      <pubDate>Mon, 10 Aug 2026 23:39:19 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html</guid>
       <category>AI</category>
     </item>
   </channel>
