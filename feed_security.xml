@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:39:36 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:48:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Progress Kemp LoadMaster」の脆弱性が標的に - 米当局が注意喚起</title>
-      <link>https://www.security-next.com/188591</link>
-      <description>Progress Softwareが提供するアプリケーションデリバリ製品「Progress Kemp LoadMaster」における既知の脆弱性が悪用されていることがわかった。早急に対策を講じるよう呼びかけられている。</description>
-      <pubDate>Mon, 10 Aug 2026 23:39:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188591</guid>
+      <title>「Adobe ColdFusion」に深刻な脆弱性 - できるだけ早く更新を</title>
+      <link>https://www.security-next.com/188665</link>
+      <description>Adobeは、「Adobe ColdFusion」に複数の脆弱性が明らかになったとしてセキュリティアップデートを公開した。深刻な脆弱性も含まれており、できるだけ早く対処するよう求めている。</description>
+      <pubDate>Tue, 11 Aug 2026 23:48:53 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188665</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

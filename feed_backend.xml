@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:39:35 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:48:52 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ビューポート」　～マンガでプログラミング用語解説</title>
-      <link>https://codezine.jp/article/detail/24267</link>
-      <description>この連載は、マンガで分かるプログラミング用語辞典です。気軽に読み流せるマンガと、テキストによる詳しい解説で、プログラミング未経験者がつまづきがちな専門用語・概念をやさしく読み解き、よりスムーズな学習を手助けします。市販のプログラミング入門書の副教材としてもぜひご活用ください。今回解説するのは、のぞき…</description>
-      <pubDate>Mon, 10 Aug 2026 23:39:35 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/24267</guid>
+      <title>Qwenチーム、新モデル「Qwen3.8-Max」を発表</title>
+      <link>https://codezine.jp/article/detail/29270</link>
+      <description></description>
+      <pubDate>Tue, 11 Aug 2026 23:48:52 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29270</guid>
       <category>バックエンド</category>
     </item>
   </channel>

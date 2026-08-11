@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:48:36 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>2028年にSOCの人手対応、30％減へ　常態化する攻撃に企業は勝てるのか</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html</link>
-      <description>AIが混乱を拡大させる中で、セキュリティリーダーはどう対応するか。ガートナーは、企業が競争優位を保つために注力すべき優先事項を3つ挙げた。その中身とは。</description>
-      <pubDate>Mon, 10 Aug 2026 23:39:19 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2608/10/news078.html</guid>
+      <title>「AI生成コンテンツ、実は嫌いではない」　だが「客の半分が去る」本当の理由</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news040.html</link>
+      <description>TWOSTONE＆SonsがBtoBの比較検討・発注担当者を対象とした意識調査結果を発表した。約9割がコンテンツに「AIっぽさ」を感じた経験があり、その後問い合わせや資料請求を取りやめたと回答する割合も示された。</description>
+      <pubDate>Tue, 11 Aug 2026 23:48:36 GMT</pubDate>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2608/12/news040.html</guid>
       <category>AI</category>
     </item>
   </channel>

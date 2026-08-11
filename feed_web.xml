@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 10 Aug 2026 23:39:19 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 23:48:36 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Cloudflare OSをVRAM 8GBのゲーミングPCで動かしたら、三目並べ1個に5ラウンドかかった話</title>
-      <link>https://zenn.dev/akari1106/articles/20109e62a4b8b7</link>
-      <description>はじめに 2026年8月、CloudflareがCloudflare OSをオープンソース化しました。 社内で数千人が使っているAIエージェント環境をまるごと公開する、というやつです。ドキュメントを書き、アプリを作り、業務を自動化する。それを「自社のCloudflareアカウントにデプロイできますよ…</description>
-      <pubDate>Mon, 10 Aug 2026 23:39:19 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/akari1106/articles/20109e62a4b8b7</guid>
+      <title>BM25を使用してCodexのトークンの消費を30%抑える</title>
+      <link>https://zenn.dev/knowledgesense/articles/9e55a3bb67729c</link>
+      <description>導入 こんにちは、株式会社ナレッジセンスの須藤英寿です。 今回は、コード探索にBM25を組み込むことで、回答品質とトークン消費がどのように変わるのかを、自社のコードベースで検証しました。 きっかけは、2026年7月に公開された論文「BM25 Wins at Scale」[1]です。 https://…</description>
+      <pubDate>Tue, 11 Aug 2026 23:48:36 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/knowledgesense/articles/9e55a3bb67729c</guid>
       <category>Web</category>
     </item>
   </channel>
