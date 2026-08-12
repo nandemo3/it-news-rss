@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 23:48:52 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:48:54 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Qwenチーム、新モデル「Qwen3.8-Max」を発表</title>
-      <link>https://codezine.jp/article/detail/29270</link>
+      <title>Microsoft Research、AIが過去の経験から学び、知識を更新することでパフォーマンスを向上させる「EvoLib」を発表</title>
+      <link>https://codezine.jp/article/detail/29271</link>
       <description></description>
-      <pubDate>Tue, 11 Aug 2026 23:48:52 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29270</guid>
+      <pubDate>Wed, 12 Aug 2026 23:48:54 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29271</guid>
       <category>バックエンド</category>
     </item>
   </channel>

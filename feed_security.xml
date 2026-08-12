@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 11 Aug 2026 23:48:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 12 Aug 2026 23:48:55 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Adobe ColdFusion」に深刻な脆弱性 - できるだけ早く更新を</title>
-      <link>https://www.security-next.com/188665</link>
-      <description>Adobeは、「Adobe ColdFusion」に複数の脆弱性が明らかになったとしてセキュリティアップデートを公開した。深刻な脆弱性も含まれており、できるだけ早く対処するよう求めている。</description>
-      <pubDate>Tue, 11 Aug 2026 23:48:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188665</guid>
+      <title>「WordPress 7.0.4」が公開、RCE脆弱性に対処 - 特定条件下で影響</title>
+      <link>https://www.security-next.com/188759</link>
+      <description>コンテンツマネジメントシステム「WordPress」の開発チームは、脆弱性へ対処したアップデート「同7.0.4」をリリースした。すみやかに更新するよう利用者に呼びかけている。</description>
+      <pubDate>Wed, 12 Aug 2026 23:48:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188759</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
