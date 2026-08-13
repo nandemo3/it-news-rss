@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 23:48:38 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:48:02 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ナレッジワークにおけるAI活用をベースとしたQAプロセスの最適化</title>
-      <link>https://zenn.dev/knowledgework/articles/2114d46c201da3</link>
-      <description>はじめに ナレッジワークのQAエンジニアのtettanです。ナレッジワークでは、マネージャーではなく、いちQAエンジニアという立場で、プロダクトのQA業務や品質施策の横断的な活動を行っています。 2026年8月5日に開催された「QA Test Talk Vol.8」で、「ナレッジワークにおけるAI活…</description>
-      <pubDate>Wed, 12 Aug 2026 23:48:38 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/knowledgework/articles/2114d46c201da3</guid>
+      <title>AIエージェントと進めるソフトウェア開発</title>
+      <link>https://zenn.dev/hako_hako/books/nexus-product-new-development</link>
+      <description>AIエージェントは、プロダクト開発のどこまでを担えるのか。社内向け案件管理アプリRADARを題材に、Claude CodeとNexus Architectとの壁打ちから、仮説検証、設計、Issue分解、実装、レビュー、実運用後の改善まで、人が判断しながら開発を前へ進める方法を実例で解説します。</description>
+      <pubDate>Thu, 13 Aug 2026 23:48:02 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/hako_hako/books/nexus-product-new-development</guid>
       <category>Web</category>
     </item>
   </channel>

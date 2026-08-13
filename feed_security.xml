@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 12 Aug 2026 23:48:55 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 23:48:19 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「WordPress 7.0.4」が公開、RCE脆弱性に対処 - 特定条件下で影響</title>
-      <link>https://www.security-next.com/188759</link>
-      <description>コンテンツマネジメントシステム「WordPress」の開発チームは、脆弱性へ対処したアップデート「同7.0.4」をリリースした。すみやかに更新するよう利用者に呼びかけている。</description>
-      <pubDate>Wed, 12 Aug 2026 23:48:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/188759</guid>
+      <title>「TeamCity」の脆弱性悪用に注意 - 対応状況の確認や侵害調査を</title>
+      <link>https://www.security-next.com/188829</link>
+      <description>JetBrainsの継続的インテグレーション製品「TeamCity」に脆弱性「CVE-2026-63077」が見つかり、悪用も発生していることを受け、JPCERTコーディネーションセンターでは利用者に対策や侵害調査の実施を検討するよう呼びかけている。</description>
+      <pubDate>Thu, 13 Aug 2026 23:48:19 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/188829</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
