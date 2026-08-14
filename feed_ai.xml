@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 23:48:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:26:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>南海電鉄「数カ月かかった乗務員計画」が1週間に　「量子コンピュータを疑似再現」で鉄道現場はどう変わる？</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html</link>
-      <description>南海電気鉄道と日立製作所は、日立独自技術「CMOSアニーリング」を活用し、鉄道の乗務員・車両の運用計画を自動作成するシステムの構築を始める。熟練者の手作業に依存してきた計画づくりを自動化し、業務負荷の軽減を図る。</description>
-      <pubDate>Thu, 13 Aug 2026 23:48:02 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2608/14/news043.html</guid>
+      <title>「Qwen3.8-27B」ウェイト公開　一部「Opus 4.6 Max」超えか　ライセンスは商用可のApache 2.0</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/</link>
+      <description>中国Alibaba傘下のAlibaba Cloudが、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「…</description>
+      <pubDate>Fri, 14 Aug 2026 23:26:05 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/</guid>
       <category>AI</category>
     </item>
   </channel>

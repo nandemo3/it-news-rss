@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 13 Aug 2026 23:48:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2026 23:26:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIエージェントと進めるソフトウェア開発</title>
-      <link>https://zenn.dev/hako_hako/books/nexus-product-new-development</link>
-      <description>AIエージェントは、プロダクト開発のどこまでを担えるのか。社内向け案件管理アプリRADARを題材に、Claude CodeとNexus Architectとの壁打ちから、仮説検証、設計、Issue分解、実装、レビュー、実運用後の改善まで、人が判断しながら開発を前へ進める方法を実例で解説します。</description>
-      <pubDate>Thu, 13 Aug 2026 23:48:02 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/hako_hako/books/nexus-product-new-development</guid>
+      <title>Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築</title>
+      <link>https://zenn.dev/colum2131/articles/46b5560dce0e3a</link>
+      <description>チューリングの MLOps エンジニアの岩政です。 チューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学習にはデータセットが必要です。私の所属する MLOps チー…</description>
+      <pubDate>Fri, 14 Aug 2026 23:26:05 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/colum2131/articles/46b5560dce0e3a</guid>
       <category>Web</category>
     </item>
   </channel>
