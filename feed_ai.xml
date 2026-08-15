@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 23:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:24:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「Qwen3.8-27B」ウェイト公開　一部「Opus 4.6 Max」超えか　ライセンスは商用可のApache 2.0</title>
       <link>https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/</link>
       <description>中国Alibaba傘下のAlibaba Cloudが、AIモデル「Qwen3.8-27B」のウェイト（重み）を公開した。Hugging FaceとModelScopeからダウンロード可能で、商用利用もできるライセンス「Apache 2.0」で提供する。一部のベンチマークでは、米Anthropicの「…</description>
-      <pubDate>Fri, 14 Aug 2026 23:26:05 GMT</pubDate>
+      <pubDate>Sat, 15 Aug 2026 23:24:16 GMT</pubDate>
       <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/15/2000000554/</guid>
       <category>AI</category>
     </item>

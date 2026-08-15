@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 14 Aug 2026 23:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 15 Aug 2026 23:24:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Databricks の Declarative Automation Bundles を用いた機械学習データセット作成基盤の構築</title>
-      <link>https://zenn.dev/colum2131/articles/46b5560dce0e3a</link>
-      <description>チューリングの MLOps エンジニアの岩政です。 チューリングでは、センサ入力から車両の将来の行動を一貫して推定する学習ベースのモデルとして End-to-End (E2E) 自動運転 AI を開発しています。E2E 自動運転 AI の学習にはデータセットが必要です。私の所属する MLOps チー…</description>
-      <pubDate>Fri, 14 Aug 2026 23:26:05 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/colum2131/articles/46b5560dce0e3a</guid>
+      <title>我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか</title>
+      <link>https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming</link>
+      <description>Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れ…</description>
+      <pubDate>Sat, 15 Aug 2026 23:24:16 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming</guid>
       <category>Web</category>
     </item>
   </channel>
