@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 23:24:33 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:24:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「TeamCity」の脆弱性悪用に注意 - 対応状況の確認や侵害調査を</title>
       <link>https://www.security-next.com/188829</link>
       <description>JetBrainsの継続的インテグレーション製品「TeamCity」に脆弱性「CVE-2026-63077」が見つかり、悪用も発生していることを受け、JPCERTコーディネーションセンターでは利用者に対策や侵害調査の実施を検討するよう呼びかけている。</description>
-      <pubDate>Sat, 15 Aug 2026 23:24:33 GMT</pubDate>
+      <pubDate>Sun, 16 Aug 2026 23:24:26 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/188829</guid>
       <category>セキュリティ</category>
     </item>

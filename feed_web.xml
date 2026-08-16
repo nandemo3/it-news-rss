@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 15 Aug 2026 23:24:16 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 23:24:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>我々は富豪プログラミングをしていた。Cloudflare Workersで実装はどう変わるか</title>
-      <link>https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming</link>
-      <description>Cloudflareへ移るまで、我々が富豪プログラミングをしているとは気づきませんでした。 EC2で動かしていたNestJSをHono + Cloudflare Workersへ移しました。RDSはそのまま使い、ElastiCacheの役割はCloudflare側へ移しています。 大きなSDKを入れ…</description>
-      <pubDate>Sat, 15 Aug 2026 23:24:16 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/rdlabo/articles/cloudflare-workers-after-rich-programming</guid>
+      <title>botterのためのKaggle金融予測コンペの設計史</title>
+      <link>https://zenn.dev/gamella/articles/f5e6bddab37c8d</link>
+      <description>AlpacaTechの北山です。 今回は大作、かつ、かなりマニアックな話題なので、興味のある人だけお付き合いください。 発端は以下のXのやり取りでした。 https://x.com/gamella/status/2087753029638611107?s=20 これまでJPX総研様と三井物産様のKa…</description>
+      <pubDate>Sun, 16 Aug 2026 23:24:08 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/gamella/articles/f5e6bddab37c8d</guid>
       <category>Web</category>
     </item>
   </channel>
