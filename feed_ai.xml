@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 23:24:08 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:27:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「欧州のAI主権」任された“34歳の天才”　パリの新星、AI企業Mistralは「救世主」になれるのか</title>
-      <link>https://www.itmedia.co.jp/business/articles/2608/17/news037.html</link>
-      <description>欧州のAI主権を担う存在として、AI企業のMistralが注目されている。同社を率いる34歳の“若き天才”は、“救世主”になり得るのか。</description>
-      <pubDate>Sun, 16 Aug 2026 23:24:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/17/news037.html</guid>
+      <title>なぜ「相場の半額」にできた？　「ヒューマノイド界のトヨタ」目指すZEALSの“したたか”な戦略</title>
+      <link>https://www.itmedia.co.jp/business/articles/2608/17/news051.html</link>
+      <description>ZEALSが発表したコンパクトヒューマノイド「D1」は、市場相場の半額となる「1台500万円」を実現し注目を集めている。2足歩行を捨て台車構造を選び、手には中国製パーツを用いるなど「準国産」で割り切ることで開発コストを大幅に削減。米中が開発スピードで先行する中、安全性重視の設計と医療・保険・リース・…</description>
+      <pubDate>Mon, 17 Aug 2026 23:27:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/17/news051.html</guid>
       <category>AI</category>
     </item>
   </channel>

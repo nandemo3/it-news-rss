@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 16 Aug 2026 23:24:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2026 23:27:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS Lambda、Amazon Linux 2023でJava 8/11/17の新ランタイムを提供</title>
-      <link>https://codezine.jp/article/detail/29283</link>
+      <title>AWS、8月3日週に発表したアップデートをまとめて紹介</title>
+      <link>https://codezine.jp/article/detail/29329</link>
       <description></description>
-      <pubDate>Sun, 16 Aug 2026 23:24:24 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29283</guid>
+      <pubDate>Mon, 17 Aug 2026 23:27:40 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29329</guid>
       <category>バックエンド</category>
     </item>
   </channel>
