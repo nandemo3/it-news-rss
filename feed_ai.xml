@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 17 Aug 2026 23:27:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 18 Aug 2026 23:26:23 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>なぜ「相場の半額」にできた？　「ヒューマノイド界のトヨタ」目指すZEALSの“したたか”な戦略</title>
-      <link>https://www.itmedia.co.jp/business/articles/2608/17/news051.html</link>
-      <description>ZEALSが発表したコンパクトヒューマノイド「D1」は、市場相場の半額となる「1台500万円」を実現し注目を集めている。2足歩行を捨て台車構造を選び、手には中国製パーツを用いるなど「準国産」で割り切ることで開発コストを大幅に削減。米中が開発スピードで先行する中、安全性重視の設計と医療・保険・リース・…</description>
-      <pubDate>Mon, 17 Aug 2026 23:27:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/17/news051.html</guid>
+      <title>OpenAI、フロンティアAIの強化学習を一部停止　安全対策を強化</title>
+      <link>https://www.itmedia.co.jp/news/article/2608/19/2000000605/</link>
+      <description>OpenAIは、外部侵害インシデントや次期モデルの高いサイバー能力を受け、開発・テスト段階の安全対策を強化すると発表した。一部の大規模モデルの強化学習を一時停止し、研究環境の隔離や内部活動の監視多段化、アラインメント手法の拡張を実施。安全性基準を満たした上で開発を進める姿勢を示した。</description>
+      <pubDate>Tue, 18 Aug 2026 23:26:23 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/19/2000000605/</guid>
       <category>AI</category>
     </item>
   </channel>
