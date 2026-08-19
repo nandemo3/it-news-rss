@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:26:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Rust製のマルチプラットフォーム開発フレームワーク「Whisker」を作りました</title>
-      <link>https://zenn.dev/itome/articles/e087c6d11d0bd2</link>
-      <description>こんにちは。itome(@itometeam)です。 Rustでアプリが書けるフレームワークを作ったので、その紹介をします。 TL;DR RustでひとつのコードベースからiOS/Androidアプリが作れるフレームワークです。 すでに個人開発では使っており、AppStore/PlayStoreの審…</description>
-      <pubDate>Tue, 18 Aug 2026 23:26:23 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/itome/articles/e087c6d11d0bd2</guid>
+      <title>Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた</title>
+      <link>https://zenn.dev/pksha/articles/e5c8f9b2a41d73</link>
+      <description>初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しています。今日は、Cursor を使ってデザイナーが自分でハンドコーディングしてデザインシステムを実装した事例をご紹介します。（この記事は、デザインシステムの実装に関わるデザイナー・エンジニアを…</description>
+      <pubDate>Wed, 19 Aug 2026 23:26:51 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/pksha/articles/e5c8f9b2a41d73</guid>
       <category>Web</category>
     </item>
   </channel>

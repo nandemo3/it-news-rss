@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:26:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:26:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI、フロンティアAIの強化学習を一部停止　安全対策を強化</title>
-      <link>https://www.itmedia.co.jp/news/article/2608/19/2000000605/</link>
-      <description>OpenAIは、外部侵害インシデントや次期モデルの高いサイバー能力を受け、開発・テスト段階の安全対策を強化すると発表した。一部の大規模モデルの強化学習を一時停止し、研究環境の隔離や内部活動の監視多段化、アラインメント手法の拡張を実施。安全性基準を満たした上で開発を進める姿勢を示した。</description>
-      <pubDate>Tue, 18 Aug 2026 23:26:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/19/2000000605/</guid>
+      <title>Waymoが自動運転AI戦略を解説、「単一AIモデルのE2E方式には2つの問題がある」</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2608/20/news055.html</link>
+      <description>米国で自動運転車によるモビリティサービスを展開するWaymo（ウェイモ）が、2009年スタートの「Google Self-Driving Car Project」から開発を積み重ねてきた自動運転技術に基づく同社のAI戦略について説明した。</description>
+      <pubDate>Wed, 19 Aug 2026 23:26:51 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2608/20/news055.html</guid>
       <category>AI</category>
     </item>
   </channel>

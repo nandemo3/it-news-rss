@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:26:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:27:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome」にセキュリティアップデート - 脆弱性15件を修正</title>
-      <link>https://www.security-next.com/189013</link>
-      <description>Googleは現地時間2026年8月18日、同社ブラウザ「Chrome」のセキュリティアップデートをリリースした。重要度「クリティカル」とされる2件を含む複数の脆弱性を修正している。</description>
-      <pubDate>Tue, 18 Aug 2026 23:26:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189013</guid>
+      <title>「NetScaler ADC/Gateway」に認証回避の脆弱性 - 重要度「クリティカル」</title>
+      <link>https://www.security-next.com/189093</link>
+      <description>「NetScaler ADC（旧Citrix ADC）」「NetScaler Gateway（旧Citrix Gateway）」に深刻な脆弱性が明らかとなった。重要度は「クリティカル」とされており、利用者にアップデートを呼びかけている。</description>
+      <pubDate>Wed, 19 Aug 2026 23:27:08 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189093</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

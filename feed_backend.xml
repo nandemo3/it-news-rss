@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 18 Aug 2026 23:26:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 19 Aug 2026 23:27:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilot、8月10日週に発表したアップデートをまとめて紹介</title>
-      <link>https://codezine.jp/article/detail/29345</link>
-      <description></description>
-      <pubDate>Tue, 18 Aug 2026 23:26:39 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29345</guid>
+      <title>複雑な日時操作から解放されよう。JavaScriptの新標準「Temporal」の核心</title>
+      <link>https://codezine.jp/article/detail/29306</link>
+      <description>前回ではTemporalの概要を示し、Dateの問題点（0始まりの月、存在しないタイムゾーン、ミュータブルなオブジェクトなど）をピックアップしながら、Temporalにおけるアプローチを紹介しました。今回はその続編として、日時文字列パースのルールの分かりにくさや複雑な日時演算などの問題点を挙げながら…</description>
+      <pubDate>Wed, 19 Aug 2026 23:27:07 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29306</guid>
       <category>バックエンド</category>
     </item>
   </channel>
