@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:29:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Cursorを使ってデザイナーがハンドコーディングでデザインシステムを作ってみた</title>
-      <link>https://zenn.dev/pksha/articles/e5c8f9b2a41d73</link>
-      <description>初めまして！PKSHA Technology デザイナーの清水と申します。普段はデザイナーとしてXで発信しています。今日は、Cursor を使ってデザイナーが自分でハンドコーディングしてデザインシステムを実装した事例をご紹介します。（この記事は、デザインシステムの実装に関わるデザイナー・エンジニアを…</description>
-      <pubDate>Wed, 19 Aug 2026 23:26:51 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/pksha/articles/e5c8f9b2a41d73</guid>
+      <title>Type-Aware を Stable にし、React Compiler の lint も載せた</title>
+      <link>https://zenn.dev/dress_code/articles/2b2832d66b883b</link>
+      <description>Type-Aware Linting Stable と React Compiler Support を載せた。TypeScript 7 への一本化はこれから。PR の CI の正は tsc のまま はじめに こんにちは。ぷーじ（@yug1224）です。 2026年7月に Type-Aware Li…</description>
+      <pubDate>Thu, 20 Aug 2026 23:29:58 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/2b2832d66b883b</guid>
       <category>Web</category>
     </item>
   </channel>

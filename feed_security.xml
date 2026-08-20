@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:27:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:30:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「NetScaler ADC/Gateway」に認証回避の脆弱性 - 重要度「クリティカル」</title>
-      <link>https://www.security-next.com/189093</link>
-      <description>「NetScaler ADC（旧Citrix ADC）」「NetScaler Gateway（旧Citrix Gateway）」に深刻な脆弱性が明らかとなった。重要度は「クリティカル」とされており、利用者にアップデートを呼びかけている。</description>
-      <pubDate>Wed, 19 Aug 2026 23:27:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189093</guid>
+      <title>Oracle、月例パッチを公開 - 900件以上の脆弱性に対処</title>
+      <link>https://www.security-next.com/189101</link>
+      <description>Oracleは現地時間2026年8月18日、複数の製品を対象とした「Critical Security Patch Update（CSPU）」を公開した。</description>
+      <pubDate>Thu, 20 Aug 2026 23:30:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189101</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

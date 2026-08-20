@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:27:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:30:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>複雑な日時操作から解放されよう。JavaScriptの新標準「Temporal」の核心</title>
-      <link>https://codezine.jp/article/detail/29306</link>
-      <description>前回ではTemporalの概要を示し、Dateの問題点（0始まりの月、存在しないタイムゾーン、ミュータブルなオブジェクトなど）をピックアップしながら、Temporalにおけるアプローチを紹介しました。今回はその続編として、日時文字列パースのルールの分かりにくさや複雑な日時演算などの問題点を挙げながら…</description>
-      <pubDate>Wed, 19 Aug 2026 23:27:07 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29306</guid>
+      <title>AIは「自信満々に間違える」──真夏のマイアミに冬物ジャケットを送った理由</title>
+      <link>https://codezine.jp/article/detail/29312</link>
+      <description>気温27度のマイアミに、冬物のジャケットが大量に届く。AIエージェントが「日付は11月」というデータを正しく読み取った結果、こうした出荷が実行されてしまいました。悪いのはAIではなく、参照したデータモデルに気温や季節のロジックが欠けていたことです。本稿では、Google CloudでAIデータコンサ…</description>
+      <pubDate>Thu, 20 Aug 2026 23:30:14 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29312</guid>
       <category>バックエンド</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 19 Aug 2026 23:26:51 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 20 Aug 2026 23:29:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Waymoが自動運転AI戦略を解説、「単一AIモデルのE2E方式には2つの問題がある」</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2608/20/news055.html</link>
-      <description>米国で自動運転車によるモビリティサービスを展開するWaymo（ウェイモ）が、2009年スタートの「Google Self-Driving Car Project」から開発を積み重ねてきた自動運転技術に基づく同社のAI戦略について説明した。</description>
-      <pubDate>Wed, 19 Aug 2026 23:26:51 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2608/20/news055.html</guid>
+      <title>ChatGPTに「おすすめの○○は？」　実は答えが決まっているらしい：893rd Lap</title>
+      <link>https://kn.itmedia.co.jp/kn/articles/2608/21/news043.html</link>
+      <description>ChatGPTに「おすすめの○○は？」と聞けば、いくつかのブランドや商品を教えてくれる。では、その候補はどうやって選ばれているのだろうか。どうやらChatGPTは、検索を始める前から「この分野ならこれ」と、ある程度の候補を持っているらしい。</description>
+      <pubDate>Thu, 20 Aug 2026 23:29:58 GMT</pubDate>
+      <guid isPermaLink="true">https://kn.itmedia.co.jp/kn/articles/2608/21/news043.html</guid>
       <category>AI</category>
     </item>
   </channel>
