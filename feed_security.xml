@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:30:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:29:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Oracle、月例パッチを公開 - 900件以上の脆弱性に対処</title>
-      <link>https://www.security-next.com/189101</link>
-      <description>Oracleは現地時間2026年8月18日、複数の製品を対象とした「Critical Security Patch Update（CSPU）」を公開した。</description>
-      <pubDate>Thu, 20 Aug 2026 23:30:15 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189101</guid>
+      <title>米当局、「TrueConf Server」の脆弱性2件を悪用リストへ追加</title>
+      <link>https://www.security-next.com/189174</link>
+      <description>米サイバーセキュリティインフラストラクチャセキュリティ庁（CISA）は、「TrueConf Server」に判明した2件の脆弱性が悪用されているとして注意を呼びかけた。いずれもリモートから攻撃を受けるおそれがある。</description>
+      <pubDate>Fri, 21 Aug 2026 23:29:06 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189174</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:28:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Type-Aware を Stable にし、React Compiler の lint も載せた</title>
-      <link>https://zenn.dev/dress_code/articles/2b2832d66b883b</link>
-      <description>Type-Aware Linting Stable と React Compiler Support を載せた。TypeScript 7 への一本化はこれから。PR の CI の正は tsc のまま はじめに こんにちは。ぷーじ（@yug1224）です。 2026年7月に Type-Aware Li…</description>
-      <pubDate>Thu, 20 Aug 2026 23:29:58 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/2b2832d66b883b</guid>
+      <title>或るログ研究者</title>
+      <link>https://zenn.dev/dmikurube/articles/a-logresearch-er</link>
+      <description>Embulk というオープンソース・ソフトウェアのメンテナーをやっていました。 「やっていました」と過去形なのは、いちおうまだメンテナー権限を持ってはいるものの、プロジェクトは「メンテナンス・モード」として実質的にメンテナンスを終了しているし、個人としてもなかば降りているからです。 今から二年ほど前…</description>
+      <pubDate>Fri, 21 Aug 2026 23:28:49 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/dmikurube/articles/a-logresearch-er</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 20 Aug 2026 23:29:58 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 21 Aug 2026 23:28:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ChatGPTに「おすすめの○○は？」　実は答えが決まっているらしい：893rd Lap</title>
-      <link>https://kn.itmedia.co.jp/kn/articles/2608/21/news043.html</link>
-      <description>ChatGPTに「おすすめの○○は？」と聞けば、いくつかのブランドや商品を教えてくれる。では、その候補はどうやって選ばれているのだろうか。どうやらChatGPTは、検索を始める前から「この分野ならこれ」と、ある程度の候補を持っているらしい。</description>
-      <pubDate>Thu, 20 Aug 2026 23:29:58 GMT</pubDate>
-      <guid isPermaLink="true">https://kn.itmedia.co.jp/kn/articles/2608/21/news043.html</guid>
+      <title>Anthropic、「ミュトス 5」を脆弱性スキャンに開放──「Claude Security」経由でEnterprise顧客が利用可能に</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/</link>
+      <description>Anthropicは、最上位モデル「Claude Mythos 5」をセキュリティサービス「Claude Security」の脆弱性検出に導入したと発表した。モデル本体への直接アクセスは開放せず、パッチ提案などの出力のみに限定して提供する。オープンソース保護に向けた総額3500万ドルの基金設立も公表…</description>
+      <pubDate>Fri, 21 Aug 2026 23:28:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/22/2000000697/</guid>
       <category>AI</category>
     </item>
   </channel>
