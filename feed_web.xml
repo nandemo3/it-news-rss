@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:28:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:25:23 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>或るログ研究者</title>
-      <link>https://zenn.dev/dmikurube/articles/a-logresearch-er</link>
-      <description>Embulk というオープンソース・ソフトウェアのメンテナーをやっていました。 「やっていました」と過去形なのは、いちおうまだメンテナー権限を持ってはいるものの、プロジェクトは「メンテナンス・モード」として実質的にメンテナンスを終了しているし、個人としてもなかば降りているからです。 今から二年ほど前…</description>
-      <pubDate>Fri, 21 Aug 2026 23:28:49 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/dmikurube/articles/a-logresearch-er</guid>
+      <title>オーバーナイトプレミアムに関連した価格ドライバー特徴量の話</title>
+      <link>https://zenn.dev/gamella/articles/8e2f9873169db6</link>
+      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。 X（Twitter）で、Micron Technology（MU）についての集計が流れてきました。 https://x.com/SOU_BTC/status/2091105357762560281 最近、この…</description>
+      <pubDate>Sat, 22 Aug 2026 23:25:23 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/gamella/articles/8e2f9873169db6</guid>
       <category>Web</category>
     </item>
   </channel>

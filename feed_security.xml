@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 21 Aug 2026 23:29:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2026 23:25:41 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>米当局、「TrueConf Server」の脆弱性2件を悪用リストへ追加</title>
       <link>https://www.security-next.com/189174</link>
       <description>米サイバーセキュリティインフラストラクチャセキュリティ庁（CISA）は、「TrueConf Server」に判明した2件の脆弱性が悪用されているとして注意を呼びかけた。いずれもリモートから攻撃を受けるおそれがある。</description>
-      <pubDate>Fri, 21 Aug 2026 23:29:06 GMT</pubDate>
+      <pubDate>Sat, 22 Aug 2026 23:25:41 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/189174</guid>
       <category>セキュリティ</category>
     </item>
