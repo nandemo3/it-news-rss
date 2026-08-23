@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 23:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:26:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI、「GPT-5.6 Sol」のAPI料金を値下げ　入力20％出力33％安く、11月21日まで</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/</link>
-      <description>OpenAIは、フラグシップモデル「GPT-5.6 Sol」のAPI利用料金を期間限定で最大33％引き下げた。入力4ドル、出力20ドルとするプロモーション価格を少なくとも3カ月間適用し、ChatGPT WorkやCodexのクレジット消費量も削減。利用量や支出上限を追跡・制御できる管理機能も告知して…</description>
-      <pubDate>Sat, 22 Aug 2026 23:25:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/23/2000000700/</guid>
+      <title>「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ</title>
+      <link>https://www.itmedia.co.jp/business/articles/2608/24/news058.html</link>
+      <description>AI分析しようにも「社内用語」が壁になる――多くの企業が抱えるこの課題に、ニトリが挑んだ。地道な作業を積み重ねてつかんだのは、誰もが使いやすいデータ分析基盤だった。</description>
+      <pubDate>Sun, 23 Aug 2026 23:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/24/news058.html</guid>
       <category>AI</category>
     </item>
   </channel>

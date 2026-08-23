@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 22 Aug 2026 23:25:23 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 23 Aug 2026 23:26:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>オーバーナイトプレミアムに関連した価格ドライバー特徴量の話</title>
-      <link>https://zenn.dev/gamella/articles/8e2f9873169db6</link>
-      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。 X（Twitter）で、Micron Technology（MU）についての集計が流れてきました。 https://x.com/SOU_BTC/status/2091105357762560281 最近、この…</description>
-      <pubDate>Sat, 22 Aug 2026 23:25:23 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/gamella/articles/8e2f9873169db6</guid>
+      <title>初めてカンファレンス運営をやってみたぞい！ PyCon JP 2026</title>
+      <link>https://zenn.dev/kannna5296/articles/2026-08-22-pyconjp2026-quick-report</link>
+      <description>https://x.com/pyconjapan/status/2091137686816145412?s=20 僕のPyCon JP 2026（カンファレンス）が終わりました。 実績「初めてのカンファレンス運営をやる」をPyCon JP 2026で達成したので、速報的にやったことと感想をバーっとま…</description>
+      <pubDate>Sun, 23 Aug 2026 23:26:00 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/kannna5296/articles/2026-08-22-pyconjp2026-quick-report</guid>
       <category>Web</category>
     </item>
   </channel>
