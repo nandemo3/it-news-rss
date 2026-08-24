@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:26:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「社内用語」がAI分析を邪魔する……ニトリが“力技”で解決　「赤羽店の寝具の売上高を出して」可能にできたワケ</title>
-      <link>https://www.itmedia.co.jp/business/articles/2608/24/news058.html</link>
-      <description>AI分析しようにも「社内用語」が壁になる――多くの企業が抱えるこの課題に、ニトリが挑んだ。地道な作業を積み重ねてつかんだのは、誰もが使いやすいデータ分析基盤だった。</description>
-      <pubDate>Sun, 23 Aug 2026 23:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/24/news058.html</guid>
+      <title>中国で“ロボットの運動会”　100メートル走で“ボルト超え”……で、走るのは速いけど仕事はできるの？</title>
+      <link>https://www.itmedia.co.jp/business/articles/2608/25/news048.html</link>
+      <description>中国で人型ロボットの競技大会が開催された。100メートル走では、人類最速のウサイン・ボルト選手が持つ記録を上回った。しかし、走るのが速いとはいえ実際の現場作業で役に立つのだろうか。</description>
+      <pubDate>Mon, 24 Aug 2026 23:26:05 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2608/25/news048.html</guid>
       <category>AI</category>
     </item>
   </channel>

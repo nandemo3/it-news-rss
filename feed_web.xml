@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:26:00 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:26:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>初めてカンファレンス運営をやってみたぞい！ PyCon JP 2026</title>
-      <link>https://zenn.dev/kannna5296/articles/2026-08-22-pyconjp2026-quick-report</link>
-      <description>https://x.com/pyconjapan/status/2091137686816145412?s=20 僕のPyCon JP 2026（カンファレンス）が終わりました。 実績「初めてのカンファレンス運営をやる」をPyCon JP 2026で達成したので、速報的にやったことと感想をバーっとま…</description>
-      <pubDate>Sun, 23 Aug 2026 23:26:00 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/kannna5296/articles/2026-08-22-pyconjp2026-quick-report</guid>
+      <title>AIでイベントカタログを279件自動生成し、成果物の検証を設計した話</title>
+      <link>https://zenn.dev/tribeau/articles/d7cd180e53f719</link>
+      <description>トリビューでリードエンジニアをしています、志甫 (@shihochan_jp) です。 弊社では、美容医療アプリ「トリビュー」の4リポジトリ（iOS、Android、Webフロントエンド、バックエンド）から、Google Analytics・Braze・Adjustの計測定義279エントリ（イベント…</description>
+      <pubDate>Mon, 24 Aug 2026 23:26:05 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tribeau/articles/d7cd180e53f719</guid>
       <category>Web</category>
     </item>
   </channel>

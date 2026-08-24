@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:26:17 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:26:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>米当局、「Zimbra」脆弱性の悪用を警告 - 2026年5件目のKEV登録</title>
-      <link>https://www.security-next.com/189268</link>
-      <description>米当局は、組織向けコラボレーションツール「Zimbra Collaboration Suite（ZCS）」の脆弱性が悪用されているとして注意喚起を行った。</description>
-      <pubDate>Sun, 23 Aug 2026 23:26:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189268</guid>
+      <title>IBMの「AIX」「PowerVM VIOS」に多数脆弱性 - 修正版を提供</title>
+      <link>https://www.security-next.com/189155</link>
+      <description>IBMのUNIX OS「AIX」と仮想I/Oサーバ「PowerVM VIOS」に多数の脆弱性が判明した。深刻な脆弱性も含まれており、同社は脆弱性に対処したアップデートを提供している。</description>
+      <pubDate>Mon, 24 Aug 2026 23:26:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189155</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

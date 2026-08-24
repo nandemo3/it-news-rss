@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 23 Aug 2026 23:26:16 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 24 Aug 2026 23:26:21 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ITエンジニア注目トレンドを総まとめ！週間ニュースランキングTOP10【8/7～8/20】</title>
-      <link>https://codezine.jp/article/detail/29394</link>
-      <description>毎日更新される、CodeZine、DeveloperZine、ProductZineの最新ニュースから、注目を集めたトピックスを紹介する本ランキング。今回は2026年8月7日～8月20日までの人気ランキングを発表します。</description>
-      <pubDate>Sun, 23 Aug 2026 23:26:16 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29394</guid>
+      <title>GitHub Copilotクラウドエージェント、Microsoft Teamsでの共同作業に対応</title>
+      <link>https://codezine.jp/article/detail/29421</link>
+      <description></description>
+      <pubDate>Mon, 24 Aug 2026 23:26:21 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29421</guid>
       <category>バックエンド</category>
     </item>
   </channel>
