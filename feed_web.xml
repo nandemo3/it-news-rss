@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:26:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:28:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIでイベントカタログを279件自動生成し、成果物の検証を設計した話</title>
-      <link>https://zenn.dev/tribeau/articles/d7cd180e53f719</link>
-      <description>トリビューでリードエンジニアをしています、志甫 (@shihochan_jp) です。 弊社では、美容医療アプリ「トリビュー」の4リポジトリ（iOS、Android、Webフロントエンド、バックエンド）から、Google Analytics・Braze・Adjustの計測定義279エントリ（イベント…</description>
-      <pubDate>Mon, 24 Aug 2026 23:26:05 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/tribeau/articles/d7cd180e53f719</guid>
+      <title>マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた</title>
+      <link>https://zenn.dev/layerx/articles/e01465a15e79c2</link>
+      <description>こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。 今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えてい…</description>
+      <pubDate>Tue, 25 Aug 2026 23:28:42 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/layerx/articles/e01465a15e79c2</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 24 Aug 2026 23:26:21 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 25 Aug 2026 23:28:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilotクラウドエージェント、Microsoft Teamsでの共同作業に対応</title>
-      <link>https://codezine.jp/article/detail/29421</link>
+      <title>Amazon Bedrock、外部ウェブアクセス機能を提供開始</title>
+      <link>https://codezine.jp/article/detail/29435</link>
       <description></description>
-      <pubDate>Mon, 24 Aug 2026 23:26:21 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29421</guid>
+      <pubDate>Tue, 25 Aug 2026 23:28:58 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29435</guid>
       <category>バックエンド</category>
     </item>
   </channel>
