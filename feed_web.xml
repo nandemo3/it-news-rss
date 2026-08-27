@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 23:28:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:26:13 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>マイクロサービス間の認可伝搬をどう解くか？独自実装と IETF Transaction Tokens を見比べてみた</title>
-      <link>https://zenn.dev/layerx/articles/e01465a15e79c2</link>
-      <description>こんにちは。アカウント基盤開発部でエンジニアをしている tkmt (たくまつ) です。 今回は、IETF で標準化が進んでいる Transaction Tokens について調査してまとめてみました。というのも、この Transaction Tokens が解こうとしている課題が、バクラクが抱えてい…</description>
-      <pubDate>Tue, 25 Aug 2026 23:28:42 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/layerx/articles/e01465a15e79c2</guid>
+      <title>DMM Sprint Go に参加してきました🌟</title>
+      <link>https://zenn.dev/s0nmy/articles/85761a4d31c8c2</link>
+      <description>はじめに 題名の通り DMM Sprint Go に参加してきました！ DMMの新卒技術研修をアレンジした、Goを実践的に学べる5日間のインターンとなっており、オンラインと対面のハイブリットでの実施でした。 2027年の参加を考えている学生さんの参考や、社員さんと関わる中で垣間見えたDMMの雰囲気を…</description>
+      <pubDate>Thu, 27 Aug 2026 04:26:13 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/s0nmy/articles/85761a4d31c8c2</guid>
       <category>Web</category>
     </item>
   </channel>

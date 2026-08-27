@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 25 Aug 2026 23:28:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 04:26:13 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIエージェントがCAEを動かすとどうなる？　人に残る役割は？</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2608/26/news007.html</link>
-      <description>AIエージェントがCAEツールを操作し、解析作業を担うようになれば、人の役割はどう変わるのか。「CAEユニバーシティ 特別公開フォーラム 2026」で行われたサイバネットシステムの講演では、AIエージェントによるCAE解析の実験を通じて、AIに任せられることと人に残る仕事、CAE教育の在り方が紹介さ…</description>
-      <pubDate>Tue, 25 Aug 2026 23:28:42 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2608/26/news007.html</guid>
+      <title>ヒューマノイド開発、「標準インタフェース」が不可欠に</title>
+      <link>https://eetimes.itmedia.co.jp/ee/articles/2608/27/news061.html</link>
+      <description>ヒューマノイドロボットの開発において、通信インタフェースの重要性が増している。MIPI AllianceはフィジカルAI分野の専門グループを立ち上げ、インタフェースの標準化を急ぐ。</description>
+      <pubDate>Thu, 27 Aug 2026 04:26:13 GMT</pubDate>
+      <guid isPermaLink="true">https://eetimes.itmedia.co.jp/ee/articles/2608/27/news061.html</guid>
       <category>AI</category>
     </item>
   </channel>
