@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 04:26:30 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:49:55 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「SQL Server」「NetScaler」など既知脆弱性6件で悪用確認 - 米当局が警告</title>
-      <link>https://www.security-next.com/189456</link>
-      <description>米当局は、「NetScaler ADC」をはじめ、「Linux Kernel」や「Microsoft SQL Server」などに確認されている6件の既知脆弱性に関し、攻撃で実際に悪用されているとして注意を呼びかけた。</description>
-      <pubDate>Thu, 27 Aug 2026 04:26:30 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189456</guid>
+      <title>「ServiceNow」に複数のクリティカル脆弱性 - 修正版を公開</title>
+      <link>https://www.security-next.com/189522</link>
+      <description>ServiceNowは、「Now Platform」や「ServiceNow AI Platform」に深刻な脆弱性が判明したとし、修正を行った。</description>
+      <pubDate>Fri, 28 Aug 2026 06:49:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189522</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

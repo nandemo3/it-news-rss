@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 27 Aug 2026 04:26:29 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2026 06:49:54 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub、セキュリティアドバイザリーページで直接ユーザーをブロック可能に</title>
-      <link>https://codezine.jp/article/detail/29456</link>
+      <title>Google Classroom、コンテキスト認識アクセス制御に対応</title>
+      <link>https://codezine.jp/article/detail/29477</link>
       <description></description>
-      <pubDate>Thu, 27 Aug 2026 04:26:29 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29456</guid>
+      <pubDate>Fri, 28 Aug 2026 06:49:54 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29477</guid>
       <category>バックエンド</category>
     </item>
   </channel>
