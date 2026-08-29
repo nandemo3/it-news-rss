@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:49:54 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:05:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Classroom、コンテキスト認識アクセス制御に対応</title>
-      <link>https://codezine.jp/article/detail/29477</link>
+      <title>OpenAI、独自AI推論チップ「Jalapeño」の初期性能を発表</title>
+      <link>https://codezine.jp/article/detail/29490</link>
       <description></description>
-      <pubDate>Fri, 28 Aug 2026 06:49:54 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29477</guid>
+      <pubDate>Sat, 29 Aug 2026 04:05:07 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29490</guid>
       <category>バックエンド</category>
     </item>
   </channel>

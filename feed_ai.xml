@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:49:37 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:04:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Hugging Face、あひる型ロボット「Microduck」発表　399ドルで予約開始</title>
-      <link>https://www.itmedia.co.jp/news/article/2608/28/2000000901/</link>
-      <description>Pollen Roboticsは、二足歩行ロボット「Microduck」を発表し予約受付を開始した。399ドルで25cmの小型設計。強化学習による動作学習に特化し、SDKやシミュレーターをOSSとして公開する。大型機と異なり家庭や教室で安全に試行錯誤できる「行動するAIのためのプラットフォーム」を目…</description>
-      <pubDate>Fri, 28 Aug 2026 06:49:37 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/28/2000000901/</guid>
+      <title>キオクシア5兆円投資、日米中韓の半導体投資競争はどこへゆく</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html</link>
+      <description>2026年8月24日～28日に公開された記事の中から、MONOist編集部が厳選した今週のニュースをお届けします。</description>
+      <pubDate>Sat, 29 Aug 2026 04:04:50 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2608/29/news012.html</guid>
       <category>AI</category>
     </item>
   </channel>

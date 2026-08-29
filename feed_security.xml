@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:49:55 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:05:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ServiceNow」に複数のクリティカル脆弱性 - 修正版を公開</title>
-      <link>https://www.security-next.com/189522</link>
-      <description>ServiceNowは、「Now Platform」や「ServiceNow AI Platform」に深刻な脆弱性が判明したとし、修正を行った。</description>
-      <pubDate>Fri, 28 Aug 2026 06:49:55 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189522</guid>
+      <title>WatchGuard「Fireware OS」に深刻な脆弱性 - 緊急対応を呼びかけ</title>
+      <link>https://www.security-next.com/189551</link>
+      <description>WatchGuard Technologiesは現地時間2026年8月27日、ファイアウォール製品「Firebox」向けにセキュリティアップデートをリリースした。深刻な脆弱性に対処したもので、早急に対応するよう利用者に呼びかけている。</description>
+      <pubDate>Sat, 29 Aug 2026 04:05:08 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189551</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

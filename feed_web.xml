@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 28 Aug 2026 06:49:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 04:04:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>MacBook Pro 128GB でローカル LLM がついに実用になった ─ Qwen3.8 Flash Next 実測</title>
-      <link>https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval</link>
-      <description>株式会社ジェイテックジャパン CTOの高丘 @tomohisaです。 昨年 MacBook Pro を買うときに、ローカルの AI が開発に使えたらいいなと思って、奮発して 128GB のモデルにしました。それから時々、開発にしっかり使えるレベルになっているかを確かめるためにいろいろなモデルを試して…</description>
-      <pubDate>Fri, 28 Aug 2026 06:49:38 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/jtechjapan_pub/articles/local-llm-qwen-flash-next-eval</guid>
+      <title>AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）</title>
+      <link>https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai</link>
+      <description>概要 半年前に以下の記事を書きました。 https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでも…</description>
+      <pubDate>Sat, 29 Aug 2026 04:04:50 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai</guid>
       <category>Web</category>
     </item>
   </channel>
