@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:05:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:10:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI、独自AI推論チップ「Jalapeño」の初期性能を発表</title>
-      <link>https://codezine.jp/article/detail/29490</link>
+      <title>LINE Social Plugins、「友だち追加」等のボタン仕様を変更</title>
+      <link>https://codezine.jp/article/detail/29496</link>
       <description></description>
-      <pubDate>Sat, 29 Aug 2026 04:05:07 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29490</guid>
+      <pubDate>Sun, 30 Aug 2026 01:10:42 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29496</guid>
       <category>バックエンド</category>
     </item>
   </channel>

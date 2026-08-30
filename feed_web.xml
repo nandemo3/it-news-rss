@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:04:50 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:10:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIに丸投げしないで理解するためのAI開発手法（2026年8月現在）</title>
-      <link>https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai</link>
-      <description>概要 半年前に以下の記事を書きました。 https://zenn.dev/avaintelligence/articles/debt-free-ai-coding-practices 基本的に前回の流れとそこまで変わってないですが一部で新しいスキルを導入したり、新しいツールを導入したりしているのでも…</description>
-      <pubDate>Sat, 29 Aug 2026 04:04:50 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/avaintelligence/articles/dont-outsource-understanding-to-ai</guid>
+      <title>GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -</title>
+      <link>https://zenn.dev/holy_fox/articles/572083c130ce46</link>
+      <description>みなさん、GPUを燃やしていますか？ もちろん「研究や開発でGPUを燃やすほど使い倒している」という意味なら、多くの方はイエスでしょう。でも本記事で聞きたいのは、もう少し物理的な意味です。最近のGPU、めちゃくちゃ消費電力が高くて、めちゃくちゃ熱いですよね。RTX 5090の定格は575W。ヒーター…</description>
+      <pubDate>Sun, 30 Aug 2026 01:10:26 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/holy_fox/articles/572083c130ce46</guid>
       <category>Web</category>
     </item>
   </channel>

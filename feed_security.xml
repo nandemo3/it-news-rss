@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 29 Aug 2026 04:05:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 30 Aug 2026 01:10:43 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>WatchGuard「Fireware OS」に深刻な脆弱性 - 緊急対応を呼びかけ</title>
       <link>https://www.security-next.com/189551</link>
       <description>WatchGuard Technologiesは現地時間2026年8月27日、ファイアウォール製品「Firebox」向けにセキュリティアップデートをリリースした。深刻な脆弱性に対処したもので、早急に対応するよう利用者に呼びかけている。</description>
-      <pubDate>Sat, 29 Aug 2026 04:05:08 GMT</pubDate>
+      <pubDate>Sun, 30 Aug 2026 01:10:43 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/189551</guid>
       <category>セキュリティ</category>
     </item>
