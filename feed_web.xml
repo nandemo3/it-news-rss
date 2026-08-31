@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 01:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:15:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GPUを燃やさないために - RTX 5090にパワーリミットをかけると、性能はどれだけ落ち、どれだけ冷えるのか -</title>
-      <link>https://zenn.dev/holy_fox/articles/572083c130ce46</link>
-      <description>みなさん、GPUを燃やしていますか？ もちろん「研究や開発でGPUを燃やすほど使い倒している」という意味なら、多くの方はイエスでしょう。でも本記事で聞きたいのは、もう少し物理的な意味です。最近のGPU、めちゃくちゃ消費電力が高くて、めちゃくちゃ熱いですよね。RTX 5090の定格は575W。ヒーター…</description>
-      <pubDate>Sun, 30 Aug 2026 01:10:26 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/holy_fox/articles/572083c130ce46</guid>
+      <title>TypeScript ライブラリとして動作する組版エンジン minitype を公開しました</title>
+      <link>https://zenn.dev/inaniwaudon/articles/62f1def4bad627</link>
+      <description>2025 年度下期未踏アドバンスト事業[1]にて開発してきた，TypeScript ライブラリとして動作する組版エンジン minitype を公開しました！ 従来は独立したシステムや専用言語として提供されることの多かった組版処理をライブラリとして提供することにより，LLM や外部アプリケーションを含…</description>
+      <pubDate>Mon, 31 Aug 2026 01:15:48 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/inaniwaudon/articles/62f1def4bad627</guid>
       <category>Web</category>
     </item>
   </channel>

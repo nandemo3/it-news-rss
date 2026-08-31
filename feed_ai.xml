@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 01:10:26 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:15:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI、Cursorへのモデル提供を11月12日に終了　SpaceXによる買収が理由</title>
-      <link>https://www.itmedia.co.jp/news/article/2608/30/2000000945/</link>
-      <description>OpenAIは、AIコードエディタ「Cursor」へのモデル提供契約を11月12日に終了すると発表した。SpaceXによるCursor買収を受け、イーロン・マスク氏の過去の契約違反実績から規約順守を確信できないことを理由に挙げている。Cursor側は影響が限定的としつつ協議継続を表明、Anthrop…</description>
-      <pubDate>Sun, 30 Aug 2026 01:10:26 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2608/30/2000000945/</guid>
+      <title>「Claude Code」の週次制限枠、9月14日に"25％引き上げ"　実質は現状比17％減に</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/</link>
+      <description>Anthropicは、コーディング支援「Claude Code」の週間利用上限を標準比25％増に恒久設定すると発表した。現在は期間限定で50％増が適用されているため、9月14日の切り替え後は現状比で約17％の減少となる。同社は利用状況の可視性や管理性を高める改善も進めているとしている。</description>
+      <pubDate>Mon, 31 Aug 2026 01:15:48 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/</guid>
       <category>AI</category>
     </item>
   </channel>

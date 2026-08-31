@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 30 Aug 2026 01:10:42 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2026 01:16:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>LINE Social Plugins、「友だち追加」等のボタン仕様を変更</title>
-      <link>https://codezine.jp/article/detail/29496</link>
+      <title>GitHub Copilotのコードレビュー機能、自動ボットや大型プルリクエストに対応</title>
+      <link>https://codezine.jp/article/detail/29497</link>
       <description></description>
-      <pubDate>Sun, 30 Aug 2026 01:10:42 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29496</guid>
+      <pubDate>Mon, 31 Aug 2026 01:16:04 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29497</guid>
       <category>バックエンド</category>
     </item>
   </channel>
