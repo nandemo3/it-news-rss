@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 01:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:44:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>TypeScript ライブラリとして動作する組版エンジン minitype を公開しました</title>
-      <link>https://zenn.dev/inaniwaudon/articles/62f1def4bad627</link>
-      <description>2025 年度下期未踏アドバンスト事業[1]にて開発してきた，TypeScript ライブラリとして動作する組版エンジン minitype を公開しました！ 従来は独立したシステムや専用言語として提供されることの多かった組版処理をライブラリとして提供することにより，LLM や外部アプリケーションを含…</description>
-      <pubDate>Mon, 31 Aug 2026 01:15:48 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/inaniwaudon/articles/62f1def4bad627</guid>
+      <title>Android の OIDC ログインは Auth Tab を使おう</title>
+      <link>https://zenn.dev/tick_taku/articles/ae1383e1b70a80</link>
+      <description>Overview Auth Tab がリリースされたことはご存知でしょうか？ OIDC の実装において Custom Tabs を利用することがデファクトだったと思いますが、Custom Tabs が PiP に対応してきたりして方向性が異なってきたり、OIDC で利用するには Intent による…</description>
+      <pubDate>Tue, 01 Sep 2026 01:44:04 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tick_taku/articles/ae1383e1b70a80</guid>
       <category>Web</category>
     </item>
   </channel>

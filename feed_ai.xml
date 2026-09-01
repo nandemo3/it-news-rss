@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 31 Aug 2026 01:15:48 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2026 01:44:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Claude Code」の週次制限枠、9月14日に"25％引き上げ"　実質は現状比17％減に</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/</link>
-      <description>Anthropicは、コーディング支援「Claude Code」の週間利用上限を標準比25％増に恒久設定すると発表した。現在は期間限定で50％増が適用されているため、9月14日の切り替え後は現状比で約17％の減少となる。同社は利用状況の可視性や管理性を高める改善も進めているとしている。</description>
-      <pubDate>Mon, 31 Aug 2026 01:15:48 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2608/31/2000000951/</guid>
+      <title>自衛隊指揮統制にAI導入、ドローン取得加速　防衛省概算要求、過去最大8兆8900億円</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/01/2000001004/</link>
+      <description>防衛省は8月31日に決定した令和9年度（2027年度）予算概算要求に過去最大の8兆8908億円を計上した。自衛隊の指揮統制へのAI導入や攻撃ドローン（無人機）の取得など「新しい戦い方」への対応を加速する。戦闘が長期化する事態に対応できるよう防衛装備品の製造工場を国有化した上で、民間企業に管理を委託す…</description>
+      <pubDate>Tue, 01 Sep 2026 01:44:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/01/2000001004/</guid>
       <category>AI</category>
     </item>
   </channel>
