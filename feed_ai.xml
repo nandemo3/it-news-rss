@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:44:04 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:54:59 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>自衛隊指揮統制にAI導入、ドローン取得加速　防衛省概算要求、過去最大8兆8900億円</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/01/2000001004/</link>
-      <description>防衛省は8月31日に決定した令和9年度（2027年度）予算概算要求に過去最大の8兆8908億円を計上した。自衛隊の指揮統制へのAI導入や攻撃ドローン（無人機）の取得など「新しい戦い方」への対応を加速する。戦闘が長期化する事態に対応できるよう防衛装備品の製造工場を国有化した上で、民間企業に管理を委託す…</description>
-      <pubDate>Tue, 01 Sep 2026 01:44:04 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/01/2000001004/</guid>
+      <title>3Dモデルから2D図面を数分で自動生成、個社の製図ルールにも対応</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2609/02/news032.html</link>
+      <description>WOGOは、機械設計向けAI自動製図ソフトウェア「Hacadly 2D自動製図」の先行提供を開始した。3Dモデルから寸法、公差、注記、表題欄を含む2D図面を1図面当たり数分で自動生成でき、各社固有の製図ルールにも対応する。</description>
+      <pubDate>Wed, 02 Sep 2026 00:54:59 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2609/02/news032.html</guid>
       <category>AI</category>
     </item>
   </channel>

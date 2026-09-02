@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 01 Sep 2026 01:44:21 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2026 00:55:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>印刷管理ソフト「PaperCut NG/MF」に深刻な脆弱性 - 悪用も確認</title>
-      <link>https://www.security-next.com/189650</link>
-      <description>PaperCut Softwareが提供する印刷管理ソフト「PaperCut NG」「PaperCut MF」に深刻な脆弱性が判明した。悪用が確認されており、注意が呼びかけられている。</description>
-      <pubDate>Tue, 01 Sep 2026 01:44:21 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189650</guid>
+      <title>「SonicWall SMA 1000」に深刻な脆弱性 - 悪用を示す事例も</title>
+      <link>https://www.security-next.com/189706</link>
+      <description>SonicWallのリモートアクセス製品「SMA 1000シリーズ」に深刻な脆弱性が明らかとなった。脆弱性が悪用されたとみられるケースも確認されている。</description>
+      <pubDate>Wed, 02 Sep 2026 00:55:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189706</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
