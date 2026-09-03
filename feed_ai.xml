@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:54:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:01:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>3Dモデルから2D図面を数分で自動生成、個社の製図ルールにも対応</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2609/02/news032.html</link>
-      <description>WOGOは、機械設計向けAI自動製図ソフトウェア「Hacadly 2D自動製図」の先行提供を開始した。3Dモデルから寸法、公差、注記、表題欄を含む2D図面を1図面当たり数分で自動生成でき、各社固有の製図ルールにも対応する。</description>
-      <pubDate>Wed, 02 Sep 2026 00:54:59 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2609/02/news032.html</guid>
+      <title>「AI導入したのに、仕事が楽にならないんだが？」の正体　虚空に消えるあなたの“削減時間”、その行き先は……</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/03/2000000990/</link>
+      <description>AI活用に伴う「仕事が楽にならない」の声。得られたはずの削減効果はどこに消えているのか……。</description>
+      <pubDate>Thu, 03 Sep 2026 01:01:49 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/03/2000000990/</guid>
       <category>AI</category>
     </item>
   </channel>

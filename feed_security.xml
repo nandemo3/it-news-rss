@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:02:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「SonicWall SMA 1000」に深刻な脆弱性 - 悪用を示す事例も</title>
-      <link>https://www.security-next.com/189706</link>
-      <description>SonicWallのリモートアクセス製品「SMA 1000シリーズ」に深刻な脆弱性が明らかとなった。脆弱性が悪用されたとみられるケースも確認されている。</description>
-      <pubDate>Wed, 02 Sep 2026 00:55:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189706</guid>
+      <title>米当局、SonicWallやJFrog関連の既知脆弱性7件について悪用を警告</title>
+      <link>https://www.security-next.com/189777</link>
+      <description>米当局は、SonicWallやJFrogの製品に判明した7件の脆弱性が悪用されているとして注意喚起を行った。</description>
+      <pubDate>Thu, 03 Sep 2026 01:02:07 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189777</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

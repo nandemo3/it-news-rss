@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 02 Sep 2026 00:54:59 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 03 Sep 2026 01:01:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>社内アプリをもっと気軽に届けたい — 開発者とともに育てるPlatformづくり</title>
-      <link>https://zenn.dev/simplex/articles/0ce703ef0b877c</link>
-      <description>こんにちは！私たちはシンプレクスのDevSecOps基盤の運用保守および、enabling活動をしている全社Platformチームの西山、酒井、廣田、小泉です。 社内で利用するGitHubをはじめ、GitHub Actionsのセルフホステッドランナーやアーティファクト管理基盤など、主にCI/CDに…</description>
-      <pubDate>Wed, 02 Sep 2026 00:54:59 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/simplex/articles/0ce703ef0b877c</guid>
+      <title>ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました</title>
+      <link>https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</link>
+      <description>マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。 概要 マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェ…</description>
+      <pubDate>Thu, 03 Sep 2026 01:01:49 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</guid>
       <category>Web</category>
     </item>
   </channel>
