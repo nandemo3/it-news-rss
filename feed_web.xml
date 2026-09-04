@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:01:49 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:52:34 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました</title>
-      <link>https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</link>
-      <description>マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。 概要 マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェ…</description>
-      <pubDate>Thu, 03 Sep 2026 01:01:49 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</guid>
+      <title>Kaggle Pokémon TCG AI Battle Challenge ポケカコンペ振り返りーメダルなし</title>
+      <link>https://zenn.dev/fusic/articles/4b6e8eb23c0363</link>
+      <description>はじめに Fusicのレオナです。 今回は、Kaggleの「The Pokémon Company - PTCG AI Battle Challenge Simulation」に参加してみました。最終結果は6,807チーム中1,160位、スコア797.4。暫定ランキングでは一時的に39位まで上がりま…</description>
+      <pubDate>Fri, 04 Sep 2026 00:52:34 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/fusic/articles/4b6e8eb23c0363</guid>
       <category>Web</category>
     </item>
   </channel>

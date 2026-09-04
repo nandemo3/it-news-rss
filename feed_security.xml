@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 03 Sep 2026 01:02:07 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 00:52:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>米当局、SonicWallやJFrog関連の既知脆弱性7件について悪用を警告</title>
-      <link>https://www.security-next.com/189777</link>
-      <description>米当局は、SonicWallやJFrogの製品に判明した7件の脆弱性が悪用されているとして注意喚起を行った。</description>
-      <pubDate>Thu, 03 Sep 2026 01:02:07 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189777</guid>
+      <title>「Chrome」が脆弱性12件を修正 - ゼロデイ脆弱性に対応</title>
+      <link>https://www.security-next.com/189837</link>
+      <description>Googleは現地時間2026年9月3日、同社ブラウザ「Chrome」のセキュリティアップデートをリリースした。一部脆弱性はすでに悪用が確認されている。</description>
+      <pubDate>Fri, 04 Sep 2026 00:52:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189837</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
