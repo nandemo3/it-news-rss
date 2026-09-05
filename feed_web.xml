@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 04 Sep 2026 00:52:34 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 05 Sep 2026 00:46:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Kaggle Pokémon TCG AI Battle Challenge ポケカコンペ振り返りーメダルなし</title>
-      <link>https://zenn.dev/fusic/articles/4b6e8eb23c0363</link>
-      <description>はじめに Fusicのレオナです。 今回は、Kaggleの「The Pokémon Company - PTCG AI Battle Challenge Simulation」に参加してみました。最終結果は6,807チーム中1,160位、スコア797.4。暫定ランキングでは一時的に39位まで上がりま…</description>
-      <pubDate>Fri, 04 Sep 2026 00:52:34 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/fusic/articles/4b6e8eb23c0363</guid>
+      <title>AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価</title>
+      <link>https://zenn.dev/hubble/articles/ee2f962e0a69f1</link>
+      <description>こんにちはHubble SREチームの三橋です！ 本日はSREチームのチーム力強化のために取り組んだ内容についてご紹介したいと思います。 先日のSRE NEXTでは、今後の課題としてチーム力を高めていく必要がある旨をお話ししました。あれから施策に取り組み、多少状況が改善されてきたため、今回はその内容…</description>
+      <pubDate>Sat, 05 Sep 2026 00:46:07 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/hubble/articles/ee2f962e0a69f1</guid>
       <category>Web</category>
     </item>
   </channel>
