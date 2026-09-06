@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 05 Sep 2026 00:46:07 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2026 00:45:02 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIでチーム感が薄れたSREチームで始めた、AIによる週次チーム評価</title>
-      <link>https://zenn.dev/hubble/articles/ee2f962e0a69f1</link>
-      <description>こんにちはHubble SREチームの三橋です！ 本日はSREチームのチーム力強化のために取り組んだ内容についてご紹介したいと思います。 先日のSRE NEXTでは、今後の課題としてチーム力を高めていく必要がある旨をお話ししました。あれから施策に取り組み、多少状況が改善されてきたため、今回はその内容…</description>
-      <pubDate>Sat, 05 Sep 2026 00:46:07 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/hubble/articles/ee2f962e0a69f1</guid>
+      <title>[OpenTelemetry] Go のコンパイル時計装において、ctx 伝搬なしで span を紐づける仕組みについて調べた</title>
+      <link>https://zenn.dev/ntk221/articles/34cbb95272720f</link>
+      <description>Go の OpenTelemetry コンパイル時計装(opentelemetry-go-compile-instrumentation の otelc)について調べていると、context.Context を伝搬していなくても span の親子を繋げられる仕組みが入っていることがわかりました。これ…</description>
+      <pubDate>Sun, 06 Sep 2026 00:45:02 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/ntk221/articles/34cbb95272720f</guid>
       <category>Web</category>
     </item>
   </channel>
