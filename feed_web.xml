@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 06 Sep 2026 00:45:02 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 07 Sep 2026 00:48:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>[OpenTelemetry] Go のコンパイル時計装において、ctx 伝搬なしで span を紐づける仕組みについて調べた</title>
-      <link>https://zenn.dev/ntk221/articles/34cbb95272720f</link>
-      <description>Go の OpenTelemetry コンパイル時計装(opentelemetry-go-compile-instrumentation の otelc)について調べていると、context.Context を伝搬していなくても span の親子を繋げられる仕組みが入っていることがわかりました。これ…</description>
-      <pubDate>Sun, 06 Sep 2026 00:45:02 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/ntk221/articles/34cbb95272720f</guid>
+      <title>初学者がRustに触れて感じたこと</title>
+      <link>https://zenn.dev/darkcat666/articles/c2a19b874900ab</link>
+      <description>ごあいさつ ●初めまして！！ダークネコだよー（死） 私が今を時めく言語である（？）Rustに触れて感じたことを記述します。 技術記事というより、私の感想なので「それってあなたの感想ですよね？」と言われたら 「Yes I do」と回答するしかない可哀そうなネコでござる。 ●悪魔でもサタン様でもルシファ…</description>
+      <pubDate>Mon, 07 Sep 2026 00:48:07 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/darkcat666/articles/c2a19b874900ab</guid>
       <category>Web</category>
     </item>
   </channel>
