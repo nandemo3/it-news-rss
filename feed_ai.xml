@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:48:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:02:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI、エージェントによる研究加速と直面する安全性の壁を開示　チーフサイエンティストは「自発的減速」を提唱</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/07/2000001204/</link>
-      <description>OpenAIは、研究加速レポートとチーフサイエンティストのエッセイを公開した。社内でのAIエージェント活用により研究が急加速する一方、7月のインシデントによる訓練停止や、CoT監視の有効性低下など深刻な課題に直面していると開示。安全基準確立までの「自発的な減速」や国際的な規制枠組みの必要性を訴えた。</description>
-      <pubDate>Mon, 07 Sep 2026 00:48:07 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/07/2000001204/</guid>
+      <title>図面探しや検図の悩みをAIで支援、製造業の現場課題に対応する新ソリューション</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2609/08/news032.html</link>
+      <description>Polaris.AIは、製造業向けの「図面×AI活用ソリューション」の提供を開始した。自動車や重工業などにおける図面／設計AIの開発・検証実績を業務課題に沿って体系化し、図面を探す、読む、確かめるといった業務をAI（人工知能）で支援する。</description>
+      <pubDate>Tue, 08 Sep 2026 01:02:50 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2609/08/news032.html</guid>
       <category>AI</category>
     </item>
   </channel>

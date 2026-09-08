@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:48:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:02:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>初学者がRustに触れて感じたこと</title>
-      <link>https://zenn.dev/darkcat666/articles/c2a19b874900ab</link>
-      <description>ごあいさつ ●初めまして！！ダークネコだよー（死） 私が今を時めく言語である（？）Rustに触れて感じたことを記述します。 技術記事というより、私の感想なので「それってあなたの感想ですよね？」と言われたら 「Yes I do」と回答するしかない可哀そうなネコでござる。 ●悪魔でもサタン様でもルシファ…</description>
-      <pubDate>Mon, 07 Sep 2026 00:48:07 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/darkcat666/articles/c2a19b874900ab</guid>
+      <title>Astra時代のコードファースト3Dモデリング</title>
+      <link>https://zenn.dev/koher/articles/code-first-3d-modeling</link>
+      <description>GPT-6 Astraがリリースされ、XはAstraが作ったハイクオリティ3Dシーンの動画であふれています。それらの多くは、MCP経由でAstraにBlenderなどの3Dモデリングソフトを使わせ実現されたものです。アプリの中で直接コードによって3Dシーンを作らせればより手軽ですが、やはりBlend…</description>
+      <pubDate>Tue, 08 Sep 2026 01:02:50 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/koher/articles/code-first-3d-modeling</guid>
       <category>Web</category>
     </item>
   </channel>

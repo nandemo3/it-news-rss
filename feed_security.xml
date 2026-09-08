@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:48:24 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:03:07 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chromium」に脆弱性 - 「Chrome」や「Edge」など広く影響</title>
-      <link>https://www.security-next.com/189909</link>
-      <description>米当局は、「Chromium」のスクリプトエンジン「V8」に判明した脆弱性が実際に悪用されているとして注意喚起を行った。「Chromium」の派生ブラウザを利用している場合は注意が必要だ。</description>
-      <pubDate>Mon, 07 Sep 2026 00:48:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189909</guid>
+      <title>「Adobe Commerce」に脆弱性、すでに悪用も - 早急に対処を</title>
+      <link>https://www.security-next.com/189963</link>
+      <description>Adobeは、「Adobe Commerce」や「Magento」に任意のコードを実行されるおそれがある深刻なゼロデイ脆弱性が判明したとして、セキュリティアップデートを公開した。すでに悪用を確認しているという。</description>
+      <pubDate>Tue, 08 Sep 2026 01:03:07 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/189963</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

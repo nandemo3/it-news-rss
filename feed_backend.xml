@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 07 Sep 2026 00:48:23 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 08 Sep 2026 01:03:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google MeetとMicrosoft TeamsがAndroid端末で相互接続</title>
-      <link>https://codezine.jp/article/detail/29585</link>
-      <description></description>
-      <pubDate>Mon, 07 Sep 2026 00:48:23 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29585</guid>
+      <title>「もっともらしく間違えるAI」に、本物の道具を持たせたらどうなる？　AIエージェントの正体　#マンガでわかるAIの仕組み 第3話</title>
+      <link>https://codezine.jp/article/detail/29571</link>
+      <description>「AIの仕組みは知っておきたい」「けど分厚い技術書を読む時間はない……」そんなあなたに贈る『マンガでわかるAIの仕組み』Web連載 第3話です。</description>
+      <pubDate>Tue, 08 Sep 2026 01:03:06 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29571</guid>
       <category>バックエンド</category>
     </item>
   </channel>
