@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 01:02:50 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:07:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Astra時代のコードファースト3Dモデリング</title>
-      <link>https://zenn.dev/koher/articles/code-first-3d-modeling</link>
-      <description>GPT-6 Astraがリリースされ、XはAstraが作ったハイクオリティ3Dシーンの動画であふれています。それらの多くは、MCP経由でAstraにBlenderなどの3Dモデリングソフトを使わせ実現されたものです。アプリの中で直接コードによって3Dシーンを作らせればより手軽ですが、やはりBlend…</description>
-      <pubDate>Tue, 08 Sep 2026 01:02:50 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/koher/articles/code-first-3d-modeling</guid>
+      <title>1,500人のカメラマンに社内NotionのQAエージェントを提供した話</title>
+      <link>https://zenn.dev/lovegraph/articles/ce6cb80756e3ca</link>
+      <description>こんにちは、ラブグラフで業務効率化を担当しているmoriiです。普段は内科医をしています🩺 ラブグラフでは1500人以上のカメラマンが活躍しています。近年の課題として、業務の多様化により発注内容をまとめた社内Notionが肥大化し、カメラマンの負担になっていました。 本記事では、Notion内のナレ…</description>
+      <pubDate>Wed, 09 Sep 2026 01:07:08 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/lovegraph/articles/ce6cb80756e3ca</guid>
       <category>Web</category>
     </item>
   </channel>

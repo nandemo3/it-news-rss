@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 08 Sep 2026 01:03:07 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 09 Sep 2026 01:07:25 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Adobe Commerce」に脆弱性、すでに悪用も - 早急に対処を</title>
-      <link>https://www.security-next.com/189963</link>
-      <description>Adobeは、「Adobe Commerce」や「Magento」に任意のコードを実行されるおそれがある深刻なゼロデイ脆弱性が判明したとして、セキュリティアップデートを公開した。すでに悪用を確認しているという。</description>
-      <pubDate>Tue, 08 Sep 2026 01:03:07 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/189963</guid>
+      <title>「Adobe ColdFusion」に深刻な脆弱性- 早急に更新を</title>
+      <link>https://www.security-next.com/190035</link>
+      <description>Adobeは、「Adobe ColdFusion」に深刻な脆弱性が明らかになったとして、セキュリティアップデートをリリースした。できるだけ早く更新するよう求めている。</description>
+      <pubDate>Wed, 09 Sep 2026 01:07:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190035</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
