@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:07:24 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:56:17 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>人月の誤解　〜「人が足りない」「AIで増やせる」の幻想〜</title>
-      <link>https://codezine.jp/article/detail/29530</link>
-      <description>連載第3回では、技術的負債と認知的負債という帳簿に乗りにくい負債を扱いました。その負債を抱えた現場に次に降ってくるのは開発量の要求です。「この機能に追加してほしい！」「足りないなら人を増やせ」といった声に、ここ数年はAIエージェントで開発量を確保すればいいという期待が加わりました。人月をAI人月に置…</description>
-      <pubDate>Wed, 09 Sep 2026 01:07:24 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29530</guid>
+      <title>BASEやRightTouchのエンジニアが登壇、Product Engineer Session #10が9月17日に開催</title>
+      <link>https://codezine.jp/article/detail/29647</link>
+      <description></description>
+      <pubDate>Thu, 10 Sep 2026 00:56:17 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29647</guid>
       <category>バックエンド</category>
     </item>
   </channel>

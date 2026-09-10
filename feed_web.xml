@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:07:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:56:02 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>1,500人のカメラマンに社内NotionのQAエージェントを提供した話</title>
-      <link>https://zenn.dev/lovegraph/articles/ce6cb80756e3ca</link>
-      <description>こんにちは、ラブグラフで業務効率化を担当しているmoriiです。普段は内科医をしています🩺 ラブグラフでは1500人以上のカメラマンが活躍しています。近年の課題として、業務の多様化により発注内容をまとめた社内Notionが肥大化し、カメラマンの負担になっていました。 本記事では、Notion内のナレ…</description>
-      <pubDate>Wed, 09 Sep 2026 01:07:08 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/lovegraph/articles/ce6cb80756e3ca</guid>
+      <title>Agent Skillは振る舞いとナレッジを分けて設計する</title>
+      <link>https://zenn.dev/socialplus/articles/f5d9e28470eb99</link>
+      <description>どうもこんにちは、たくびーです。 弊社ではClaudeのチームプランに契約しており、開発者全員がClaude Codeを使うことができます。 希望者はChatGPTのチームプランも使えてCodexを併用することも可能です。 私はAI開発環境整備の一環でルールやスキルの作成やメンテナンスをすることが多…</description>
+      <pubDate>Thu, 10 Sep 2026 00:56:02 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/f5d9e28470eb99</guid>
       <category>Web</category>
     </item>
   </channel>

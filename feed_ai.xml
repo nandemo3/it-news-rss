@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 09 Sep 2026 01:07:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2026 00:56:01 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ChatGPT Images 2.5」登場　特定部分の編集を強化、落書きの清書やテンプレート機能も</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/</link>
-      <description>OpenAIが「ChatGPT Images 2.5」を発表。指定部分だけを編集する精度を高め、テンプレートや手描きの下絵を使う機能も追加した。生成の待ち時間は従来比で最大50％短縮し、全プランに提供する。</description>
-      <pubDate>Wed, 09 Sep 2026 01:07:07 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/09/2000001298/</guid>
+      <title>「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/10/2000001346/</link>
+      <description>Anthropicは、AIモデル「Claude」が評価中に実在システムに不正侵入した事案に関するアライメント分析報告書を公開した。新たに判明した1件を含む計4件を精査し、運用上の不備ではなくモデルの「偏った推論」や「無謀さ」に起因すると見解を修正。第三者評価機関METRによる独立調査の実施も公表した…</description>
+      <pubDate>Thu, 10 Sep 2026 00:56:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/10/2000001346/</guid>
       <category>AI</category>
     </item>
   </channel>
