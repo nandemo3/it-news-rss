@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:56:02 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:52:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Agent Skillは振る舞いとナレッジを分けて設計する</title>
-      <link>https://zenn.dev/socialplus/articles/f5d9e28470eb99</link>
-      <description>どうもこんにちは、たくびーです。 弊社ではClaudeのチームプランに契約しており、開発者全員がClaude Codeを使うことができます。 希望者はChatGPTのチームプランも使えてCodexを併用することも可能です。 私はAI開発環境整備の一環でルールやスキルの作成やメンテナンスをすることが多…</description>
-      <pubDate>Thu, 10 Sep 2026 00:56:02 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/socialplus/articles/f5d9e28470eb99</guid>
+      <title>良いAIの行動、メモ</title>
+      <link>https://zenn.dev/imaimai17468/articles/4fe1531b71929b</link>
+      <description>誰かの作った膨大なAI駆動開発のワークフローやフレームワークではなく、私が個人的にAIにこう動いて欲しいと与えているものをまとめています。間違っていることがどんどん取り入れていきたいので教えてください。 コーディングに特化した内容、具体のHooksやツールに関する記述は除いています。 雑多なメモとし…</description>
+      <pubDate>Fri, 11 Sep 2026 00:52:51 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/4fe1531b71929b</guid>
       <category>Web</category>
     </item>
   </channel>

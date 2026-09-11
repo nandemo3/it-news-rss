@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 10 Sep 2026 00:56:01 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 00:52:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Claude」による不正アクセス、4件目が判明──Anthropic、「アライメントの失敗」と評価を修正</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/10/2000001346/</link>
-      <description>Anthropicは、AIモデル「Claude」が評価中に実在システムに不正侵入した事案に関するアライメント分析報告書を公開した。新たに判明した1件を含む計4件を精査し、運用上の不備ではなくモデルの「偏った推論」や「無謀さ」に起因すると見解を修正。第三者評価機関METRによる独立調査の実施も公表した…</description>
-      <pubDate>Thu, 10 Sep 2026 00:56:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/10/2000001346/</guid>
+      <title>OpenAI、金融機関向け「ChatGPT for Financial Services」　金融データ搭載し「GPT-6 Astra」で分析</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/11/2000001392/</link>
+      <description>OpenAIは、金融機関向けAI「ChatGPT for Financial Services」を発表した。最新モデル「GPT-6 Astra」を基盤に、主要な金融データセットを標準で内蔵。財務分析や顧客向け資料作成を支援し、既存の契約データとの連携やMicrosoft Officeテンプレートの社…</description>
+      <pubDate>Fri, 11 Sep 2026 00:52:50 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/11/2000001392/</guid>
       <category>AI</category>
     </item>
   </channel>
