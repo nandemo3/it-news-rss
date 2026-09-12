@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:52:51 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:58:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>良いAIの行動、メモ</title>
-      <link>https://zenn.dev/imaimai17468/articles/4fe1531b71929b</link>
-      <description>誰かの作った膨大なAI駆動開発のワークフローやフレームワークではなく、私が個人的にAIにこう動いて欲しいと与えているものをまとめています。間違っていることがどんどん取り入れていきたいので教えてください。 コーディングに特化した内容、具体のHooksやツールに関する記述は除いています。 雑多なメモとし…</description>
-      <pubDate>Fri, 11 Sep 2026 00:52:51 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/imaimai17468/articles/4fe1531b71929b</guid>
+      <title>単体テストの実行時間を6割程度削減してみた</title>
+      <link>https://zenn.dev/dress_code/articles/5dd5de5020d9ef</link>
+      <description>はじめに こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 AI が実装の大半を担ってからずいぶんと経ち、単体テストによってある程度の動作の保証をしてくれるようになった一方で、いつの間にか単体テストの実行時間が伸びていました。CI環境で50件計測し、p90 で …</description>
+      <pubDate>Sat, 12 Sep 2026 00:58:24 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/5dd5de5020d9ef</guid>
       <category>Web</category>
     </item>
   </channel>

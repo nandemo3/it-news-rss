@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 11 Sep 2026 00:53:06 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 00:58:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「未来構想」で組織はどう動くか、パナソニックの実践者が語るデザイン経営のリアルをひも解く無料イベント</title>
-      <link>https://codezine.jp/article/detail/29661</link>
+      <title>みずほFGのAI開発はどのような技術に支えられているのか？【デブクロ2026 注目セッション】</title>
+      <link>https://codezine.jp/article/detail/29628</link>
       <description></description>
-      <pubDate>Fri, 11 Sep 2026 00:53:06 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29661</guid>
+      <pubDate>Sat, 12 Sep 2026 00:58:40 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29628</guid>
       <category>バックエンド</category>
     </item>
   </channel>
