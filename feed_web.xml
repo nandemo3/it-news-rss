@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 12 Sep 2026 00:58:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 00:43:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>単体テストの実行時間を6割程度削減してみた</title>
-      <link>https://zenn.dev/dress_code/articles/5dd5de5020d9ef</link>
-      <description>はじめに こんにちは、Dress Code 株式会社でプロダクトエンジニアをやっている津田です。 AI が実装の大半を担ってからずいぶんと経ち、単体テストによってある程度の動作の保証をしてくれるようになった一方で、いつの間にか単体テストの実行時間が伸びていました。CI環境で50件計測し、p90 で …</description>
-      <pubDate>Sat, 12 Sep 2026 00:58:24 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/5dd5de5020d9ef</guid>
+      <title>クロスプラットフォーム開発が解決するコスト、解決しないコスト</title>
+      <link>https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026</link>
+      <description>2026年9月、Shopify Engineeringから「Native is now the future of mobile at Shopify」という記事が公開されました。 https://shopify.engineering/back-to-native Shopifyは2020年にモバ…</description>
+      <pubDate>Sun, 13 Sep 2026 00:43:24 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026</guid>
       <category>Web</category>
     </item>
   </channel>
