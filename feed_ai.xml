@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:50:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AnthropicのアモデイCEO、AI開発の「ペース調整」訴えるエッセイ公開　アルトマン氏とマスク氏も賛同</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/13/2000001432/</link>
-      <description>AnthropicのアモデイCEOは、AIの急速な自己改善や安全上の脅威を踏まえ、モデルの能力向上ペースを抑える3段階の計画を提言した。第三者の常駐評価者の導入や民主主義国間での協調を訴えている。これに対し、OpenAIのアルトマンCEOやマスク氏も同調し、同様の評価体制を導入する意向を示した。</description>
-      <pubDate>Sun, 13 Sep 2026 00:43:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/13/2000001432/</guid>
+      <title>日立HMAX新技術「AIオーケストレーション」、特急注文など部門間調整を自動化</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html</link>
+      <description>日立製作所は、製造業の部門間スケジュール調整を自動化する「AIオーケストレーション技術」の具体的な運用シナリオを公開した。部門特化型のAI群と計画最適化エンジンを連携させ、人は最終的な意思決定に集中する。2027年提供予定だ。</description>
+      <pubDate>Mon, 14 Sep 2026 00:50:53 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2609/14/news041.html</guid>
       <category>AI</category>
     </item>
   </channel>

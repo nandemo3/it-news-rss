@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:43:24 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:50:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>クロスプラットフォーム開発が解決するコスト、解決しないコスト</title>
-      <link>https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026</link>
-      <description>2026年9月、Shopify Engineeringから「Native is now the future of mobile at Shopify」という記事が公開されました。 https://shopify.engineering/back-to-native Shopifyは2020年にモバ…</description>
-      <pubDate>Sun, 13 Sep 2026 00:43:24 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026</guid>
+      <title>2026年に多くのシストレの戦略のアルファが消えた件について</title>
+      <link>https://zenn.dev/gamella/articles/6bd6e5ab9e88bc</link>
+      <description>AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。 今週、X上で「簡単な検証で見つかるエッジが2026年から劣化した」という話がありました。 おそらく起点はUKIさんの投稿です。 https://x.com/blog_uki/status/2098342216…</description>
+      <pubDate>Mon, 14 Sep 2026 00:50:53 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/gamella/articles/6bd6e5ab9e88bc</guid>
       <category>Web</category>
     </item>
   </channel>

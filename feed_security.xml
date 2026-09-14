@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 13 Sep 2026 00:43:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 00:51:11 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>政府共通の業務実施環境「GSS」に不正アクセス - VPN機器の脆弱性を悪用</title>
-      <link>https://www.security-next.com/190208</link>
-      <description>デジタル庁は、同庁が運用する「ガバメントソリューションサービス（GSS）」が不正アクセスを受けたことを明らかにした。機器の脆弱性を突かれて侵入され、保守運用アカウントが侵害されたという。</description>
-      <pubDate>Sun, 13 Sep 2026 00:43:41 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190208</guid>
+      <title>リモートアクセス製品「ConnectWise ScreenConnect」に深刻な脆弱性</title>
+      <link>https://www.security-next.com/190264</link>
+      <description>ConnectWiseのリモートアクセス製品「ScreenConnect」に深刻な脆弱性が明らかとなった。すでに悪用も確認されており、注意が必要となる。</description>
+      <pubDate>Mon, 14 Sep 2026 00:51:11 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190264</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
