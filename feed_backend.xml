@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 14 Sep 2026 00:51:10 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 01:17:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「とほほのWWW入門」運営30年で見た、プログラミング言語とWeb標準の進化史　流行に振り回されず学び続けるために</title>
-      <link>https://codezine.jp/article/detail/29411</link>
-      <description>2026年に開設から30年を迎える個人サイト「とほほのWWW入門」。管理人の杜甫々氏は、「Developers Summit 2026 KANSAI」の基調講演で、1996年から見つめてきたプログラミング言語やWeb標準の移り変わり、そして2025年10月の定年退職後にあらためて向き合うことになった…</description>
-      <pubDate>Mon, 14 Sep 2026 00:51:10 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29411</guid>
+      <title>Amazon ECS、サービスデプロイの早期成功基準を導入</title>
+      <link>https://codezine.jp/article/detail/29671</link>
+      <description></description>
+      <pubDate>Tue, 15 Sep 2026 01:17:51 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29671</guid>
       <category>バックエンド</category>
     </item>
   </channel>
