@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 01:17:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:11:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Amazon ECS、サービスデプロイの早期成功基準を導入</title>
-      <link>https://codezine.jp/article/detail/29671</link>
+      <title>Cursor、大規模開発を任せる「Projects」のベータ版を提供開始</title>
+      <link>https://codezine.jp/article/detail/29688</link>
       <description></description>
-      <pubDate>Tue, 15 Sep 2026 01:17:51 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29671</guid>
+      <pubDate>Wed, 16 Sep 2026 01:11:42 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29688</guid>
       <category>バックエンド</category>
     </item>
   </channel>

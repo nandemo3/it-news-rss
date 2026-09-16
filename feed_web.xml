@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 15 Sep 2026 01:17:35 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 16 Sep 2026 01:11:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Fragment Refsのずるい使い方</title>
-      <link>https://zenn.dev/uhyo/articles/react-fragment-refs-hack</link>
-      <description>Fragment Refsは、React 19.3で追加された新機能のひとつで、Fragmentコンポーネントがrefをサポートするようになるというものです。 ここで得られるrefはReactが用意したFragmentInstanceオブジェクトで、addEventListenerやfocusといっ…</description>
-      <pubDate>Tue, 15 Sep 2026 01:17:35 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/uhyo/articles/react-fragment-refs-hack</guid>
+      <title>1日の開発の流れをスキル化してみたら、想像以上に快適だった</title>
+      <link>https://zenn.dev/tenkei/articles/9f8921926bb003</link>
+      <description>概要 ここ最近、すっかり同じような流れで開発をしている。 ざっくり書くと、以下のようになる。 GithubのIssueを取る → AIに設計と実装を任せる → 別のAIにレビューしてもらう → 動作確認してもらう → Pull Requestを作成してもらう しかし、これを自動化できていなかった。そ…</description>
+      <pubDate>Wed, 16 Sep 2026 01:11:26 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tenkei/articles/9f8921926bb003</guid>
       <category>Web</category>
     </item>
   </channel>
