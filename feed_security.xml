@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:11:43 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:13:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome 153」にセキュリティ更新 - 「クリティカル」3件含む42件</title>
-      <link>https://www.security-next.com/190364</link>
-      <description>Googleは現地時間2026年9月15日、同社ブラウザ「Chrome」のセキュリティアップデートをリリースした。重要度「クリティカル（Critical）」とされる3件をはじめ、多数の脆弱性を修正している。</description>
-      <pubDate>Wed, 16 Sep 2026 01:11:43 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190364</guid>
+      <title>米当局、「Acronis」「Cisco ISE」など脆弱性3件の悪用を警告</title>
+      <link>https://www.security-next.com/190430</link>
+      <description>米当局は、バックアップソフトやネットワーク認証製品、スマートフォンに関する3件の脆弱性について、悪用が確認されたとして注意喚起を行った。米行政機関に対し、侵害調査も含めた早期対応を求めている。</description>
+      <pubDate>Thu, 17 Sep 2026 01:13:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190430</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

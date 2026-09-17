@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:13:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>CAE結果からサロゲートモデルを自動構築、予測から最適化までノーコードで</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2609/16/news023.html</link>
-      <description>エイゾスは、ノーコードAI解析プラットフォーム「Multi-Sigma」の拡張パッケージ「Multi-Sigma-Architect」を正式リリースした。CAEシミュレーションの結果からサロゲートモデルを自動構築し、設計開発の効率化を支援する。</description>
-      <pubDate>Wed, 16 Sep 2026 01:11:26 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2609/16/news023.html</guid>
+      <title>Anthropic、Claudeの「チャット」と「Cowork」を統合　資料作成の「Docs」「Slides」も</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/17/2000001565/</link>
+      <description>AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。</description>
+      <pubDate>Thu, 17 Sep 2026 01:13:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/17/2000001565/</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:11:42 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:13:38 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Cursor、大規模開発を任せる「Projects」のベータ版を提供開始</title>
-      <link>https://codezine.jp/article/detail/29688</link>
-      <description></description>
-      <pubDate>Wed, 16 Sep 2026 01:11:42 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29688</guid>
+      <title>AIで実装が速くなった後、何がボトルネックになるのか？ インディードリクルートテクノロジーズが1年の社内実証で示した答え</title>
+      <link>https://codezine.jp/article/detail/29443</link>
+      <description>2025年、AIコーディングツールがエンジニア組織に急速に普及し始めた。インディードリクルートテクノロジーズもClaude CodeとCodexを一部組織のエンジニアに配布し、使い方は指定せず、現場ごとに何が起きるかを1年にわたって観察した。だが、開発プロセス全体が速くなった現場は生まれなかった。実…</description>
+      <pubDate>Thu, 17 Sep 2026 01:13:38 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29443</guid>
       <category>バックエンド</category>
     </item>
   </channel>

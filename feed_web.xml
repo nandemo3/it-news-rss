@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 16 Sep 2026 01:11:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 17 Sep 2026 01:13:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>1日の開発の流れをスキル化してみたら、想像以上に快適だった</title>
-      <link>https://zenn.dev/tenkei/articles/9f8921926bb003</link>
-      <description>概要 ここ最近、すっかり同じような流れで開発をしている。 ざっくり書くと、以下のようになる。 GithubのIssueを取る → AIに設計と実装を任せる → 別のAIにレビューしてもらう → 動作確認してもらう → Pull Requestを作成してもらう しかし、これを自動化できていなかった。そ…</description>
-      <pubDate>Wed, 16 Sep 2026 01:11:26 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/tenkei/articles/9f8921926bb003</guid>
+      <title>AI開発チームの作り方と育て方 — マルチエージェント開発組織の設計と運用</title>
+      <link>https://zenn.dev/hampen2929/books/ai-dev-team-guide</link>
+      <description>AI開発チームを作り、運用しながら育てるための設計書です。業務と完了条件、役割、受け渡し、並列化、検収、自律度、学びの蓄積を一続きで扱います。各章の図解と、TypeScript製タスク管理アプリへの機能追加の実走を通して、仕様・差分・テスト・AIレビューをつなぐ方法を学べます。実走はCodexの実装…</description>
+      <pubDate>Thu, 17 Sep 2026 01:13:22 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/hampen2929/books/ai-dev-team-guide</guid>
       <category>Web</category>
     </item>
   </channel>
