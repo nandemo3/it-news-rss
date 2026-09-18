@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 01:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:08:29 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI開発チームの作り方と育て方 — マルチエージェント開発組織の設計と運用</title>
-      <link>https://zenn.dev/hampen2929/books/ai-dev-team-guide</link>
-      <description>AI開発チームを作り、運用しながら育てるための設計書です。業務と完了条件、役割、受け渡し、並列化、検収、自律度、学びの蓄積を一続きで扱います。各章の図解と、TypeScript製タスク管理アプリへの機能追加の実走を通して、仕様・差分・テスト・AIレビューをつなぐ方法を学べます。実走はCodexの実装…</description>
-      <pubDate>Thu, 17 Sep 2026 01:13:22 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/hampen2929/books/ai-dev-team-guide</guid>
+      <title>jev 同士に五目並べで対戦させた</title>
+      <link>https://zenn.dev/mizchi/articles/jev-plays-gomoku</link>
+      <description>速報気味。jev 同士に五目並べで対戦させて、速度を実測してみました。 いきなり感想ですが、プログラマは多分、既存のチャットアシスタントより Jev みたいな構造化されたエージェントの方が好きだと思います。 実際に対戦してるところ(リアルタイム) tl;dr ルールベースの五目並べを実装 Jev 同…</description>
+      <pubDate>Fri, 18 Sep 2026 01:08:29 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/mizchi/articles/jev-plays-gomoku</guid>
       <category>Web</category>
     </item>
   </channel>

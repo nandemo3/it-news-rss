@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 17 Sep 2026 01:13:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 18 Sep 2026 01:08:29 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropic、Claudeの「チャット」と「Cowork」を統合　資料作成の「Docs」「Slides」も</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/17/2000001565/</link>
-      <description>AnthropicがAIアシスタント「Claude」のチャットと作業環境「Claude Cowork」を統合した。簡単な対話から複数手順の複雑な作業までを1つの会話内で完結でき、文書作成「Claude Docs」やスライド作成機能も追加。ProやMax向けから段階的に展開する。</description>
-      <pubDate>Thu, 17 Sep 2026 01:13:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/17/2000001565/</guid>
+      <title>自然言語や画像から3D CADモデルを生成、資金調達で開発と海外展開を加速</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html</link>
+      <description>トコシエは、East Venturesと個人投資家2人を引受先として資金調達を実施した。自然言語や画像から編集可能な3D CADモデルを作成できるAI 3D CAD「Ignite0」の開発体制を強化し、米国を起点としたグローバル展開を本格化する。</description>
+      <pubDate>Fri, 18 Sep 2026 01:08:29 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2609/18/news015.html</guid>
       <category>AI</category>
     </item>
   </channel>
