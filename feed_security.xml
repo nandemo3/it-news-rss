@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 18 Sep 2026 01:08:46 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 19 Sep 2026 01:03:32 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>DB管理ツール「pgAdmin 4」に複数の脆弱性 - 修正版が公開</title>
-      <link>https://www.security-next.com/190497</link>
-      <description>PostgreSQL向けの管理ツール「pgAdmin 4」に複数の脆弱性が明らかとなった。セキュリティアップデートが提供されている。</description>
-      <pubDate>Fri, 18 Sep 2026 01:08:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190497</guid>
+      <title>Ciscoのファイアウォール製品に多数の脆弱性 - 一部で悪用も</title>
+      <link>https://www.security-next.com/190502</link>
+      <description>Cisco Systemsは、ファイアウォール製品「Cisco Secure Firewall」シリーズにおける複数の脆弱性を明らかにし、セキュリティアップデートをリリースした。一部脆弱性は悪用が確認されている。</description>
+      <pubDate>Sat, 19 Sep 2026 01:03:32 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190502</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
