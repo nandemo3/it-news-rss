@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 19 Sep 2026 01:03:32 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2026 00:52:21 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Ciscoのファイアウォール製品に多数の脆弱性 - 一部で悪用も</title>
-      <link>https://www.security-next.com/190502</link>
-      <description>Cisco Systemsは、ファイアウォール製品「Cisco Secure Firewall」シリーズにおける複数の脆弱性を明らかにし、セキュリティアップデートをリリースした。一部脆弱性は悪用が確認されている。</description>
-      <pubDate>Sat, 19 Sep 2026 01:03:32 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190502</guid>
+      <title>米当局、「Linuxカーネル」の脆弱性3件を悪用リストに追加</title>
+      <link>https://www.security-next.com/190557</link>
+      <description>米当局は、「Linux Kernel」に存在する3件の脆弱性が悪用されているとして注意喚起を行った。米行政機関に対して早急な対応を求めている。</description>
+      <pubDate>Sun, 20 Sep 2026 00:52:21 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190557</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
