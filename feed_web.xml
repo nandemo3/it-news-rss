@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:52:03 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:56:30 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>就活用DirectX12アクションゲーム作成　第三十二回</title>
-      <link>https://zenn.dev/seisei89628/articles/b505300dc8eaac</link>
-      <description>※筆者は初学者なので、間違ったことを書いていれば教えてくれると助かります。 はじめに 前回までで、DirectX12による3D描画、TextureとMaterial、FBX、Animation、PhysX、Particle、Morph Target、Debug UI、2D画像と文字、2D / 3D音…</description>
-      <pubDate>Sun, 20 Sep 2026 00:52:03 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/seisei89628/articles/b505300dc8eaac</guid>
+      <title>高速判断AI Jevのユースケースとオープン実装を雑にまとめる</title>
+      <link>https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</link>
+      <description>最近、文章を書かずに判断だけを返すAIモデル「Jev」が話題になっています。 私もJevにマリオやVampire Survivorsを操作させて遊んでいたのですが、発表から数日で解説記事、実用例、オープンな類似実装が一気に増えてきました。情報を追いかけるのが大変になってきたので、2026年9月20日…</description>
+      <pubDate>Mon, 21 Sep 2026 00:56:30 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 20 Sep 2026 00:52:19 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 00:56:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS DevOps エージェント、Slackでの双方向通信に対応</title>
-      <link>https://codezine.jp/article/detail/29747</link>
+      <title>AWS、第2世代のシングルラック「AWS Outposts」を一般提供開始</title>
+      <link>https://codezine.jp/article/detail/29748</link>
       <description></description>
-      <pubDate>Sun, 20 Sep 2026 00:52:19 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29747</guid>
+      <pubDate>Mon, 21 Sep 2026 00:56:46 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29748</guid>
       <category>バックエンド</category>
     </item>
   </channel>
