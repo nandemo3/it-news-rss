@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:56:30 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:31:31 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>高速判断AI Jevのユースケースとオープン実装を雑にまとめる</title>
-      <link>https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</link>
-      <description>最近、文章を書かずに判断だけを返すAIモデル「Jev」が話題になっています。 私もJevにマリオやVampire Survivorsを操作させて遊んでいたのですが、発表から数日で解説記事、実用例、オープンな類似実装が一気に増えてきました。情報を追いかけるのが大変になってきたので、2026年9月20日…</description>
-      <pubDate>Mon, 21 Sep 2026 00:56:30 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</guid>
+      <title>C# Kaigi 2026 参加レポート!!</title>
+      <link>https://zenn.dev/prozolic/articles/3bb3f91f7408cc</link>
+      <description>はじめに 2026年9月19日に、C#erによるC#erのための技術カンファレンスである「C# Kaigi 2026」が初開催されました！！ 日本のC#erが集まった大規模（現地参加人数が100人近い）のC#メインのカンファレンスです。 https://csharpkaigi.net/ 私は登壇者と…</description>
+      <pubDate>Tue, 22 Sep 2026 01:31:31 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/prozolic/articles/3bb3f91f7408cc</guid>
       <category>Web</category>
     </item>
   </channel>

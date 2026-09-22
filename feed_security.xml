@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:56:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 01:31:48 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>米当局、「Linuxカーネル」の脆弱性3件を悪用リストに追加</title>
       <link>https://www.security-next.com/190557</link>
       <description>米当局は、「Linux Kernel」に存在する3件の脆弱性が悪用されているとして注意喚起を行った。米行政機関に対して早急な対応を求めている。</description>
-      <pubDate>Mon, 21 Sep 2026 00:56:47 GMT</pubDate>
+      <pubDate>Tue, 22 Sep 2026 01:31:48 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/190557</guid>
       <category>セキュリティ</category>
     </item>
