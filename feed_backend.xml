@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 22 Sep 2026 01:31:47 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 01:21:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Amazon OpenSearch ServerlessがVercelのv0で利用可能に</title>
-      <link>https://codezine.jp/article/detail/29749</link>
+      <title>AWS Marketplace、デモ・プライベートオファーのリクエストを数分で出品者に通知</title>
+      <link>https://codezine.jp/article/detail/29750</link>
       <description></description>
-      <pubDate>Tue, 22 Sep 2026 01:31:47 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29749</guid>
+      <pubDate>Wed, 23 Sep 2026 01:21:06 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29750</guid>
       <category>バックエンド</category>
     </item>
   </channel>
