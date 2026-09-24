@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:21:07 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:15:43 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「WordPress」に深刻な脆弱性 - わずか5日で再更新</title>
-      <link>https://www.security-next.com/190566</link>
-      <description>コンテンツマネジメントシステムの「WordPress」に深刻な脆弱性が明らかとなった。前週に公開されたセキュリティアップデートで修正した脆弱性とは異なる問題であり、再度更新が必要となる。</description>
-      <pubDate>Wed, 23 Sep 2026 01:21:07 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190566</guid>
+      <title>「Chrome 154」公開、108件のセキュリティ修正 - 「クリティカル」が11件</title>
+      <link>https://www.security-next.com/190604</link>
+      <description>Googleは現地時間2026年9月22日、ブラウザ「Chrome」の最新版となる「Chrome 154」を公開した。「クリティカル（Critical）」とされる脆弱性をはじめ、100件以上の修正を行っている。</description>
+      <pubDate>Thu, 24 Sep 2026 01:15:43 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190604</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

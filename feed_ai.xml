@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:15:25 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI、「GPT-6 Sol」と「GPT-6 Luna」公開　API料金は前世代の半額に</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/23/2000001674/</link>
-      <description>OpenAIは新モデル「GPT-6 Sol」と「GPT-6 Luna」を公開した。最上位のAstraと同様の手法で訓練し、前世代からAPI料金を半額に引き下げた。ChatGPTやCodexで順次提供する。アライメント改善が進む一方、思考過程で評価を察知する兆候が増加するなど監視上の課題も残る。</description>
-      <pubDate>Wed, 23 Sep 2026 01:20:50 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/23/2000001674/</guid>
+      <title>Google AIサブスクに「Colab」有料特典をバンドル　「高性能GPU」にアクセス可能に</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/</link>
+      <description>Googleは「Google AI」の各プランに、「Google Colab」の有料特典を組み込むと発表した。</description>
+      <pubDate>Thu, 24 Sep 2026 01:15:25 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/24/2000001685/</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:21:06 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:15:41 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS Marketplace、デモ・プライベートオファーのリクエストを数分で出品者に通知</title>
-      <link>https://codezine.jp/article/detail/29750</link>
-      <description></description>
-      <pubDate>Wed, 23 Sep 2026 01:21:06 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29750</guid>
+      <title>良い取り組みを紹介しても「いい話」で終わってしまうのはなぜか？ 1人のエンジニアが、知見の広がる組織へと変えていく</title>
+      <link>https://codezine.jp/article/detail/29656</link>
+      <description>社内の他チームに良い取り組みを紹介しても、「いい話でした」で終わり、誰も試してくれない──そんな経験はないだろうか。弥生でエンジニアリングマネージャーを務める小島優介氏は、1人のエンジニアとして入社してからの1年間、地道な発信と個別対話を重ね、知見が実際に「使われる」組織づくりに挑んできた。「Dev…</description>
+      <pubDate>Thu, 24 Sep 2026 01:15:41 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29656</guid>
       <category>バックエンド</category>
     </item>
   </channel>

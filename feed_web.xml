@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 23 Sep 2026 01:20:50 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 01:15:25 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>BiomeにnoReactObjectTypeAsDefaultPropルールを実装して学んだこと</title>
-      <link>https://zenn.dev/subaru_hello/articles/biome-rust-first-contribution</link>
-      <description>BiomeにnoReactObjectTypeAsDefaultPropというlintルールを追加しました。 Issue #7656 Pull Request #10634 eslint-plugin-reactのno-object-type-as-default-propをBiomeへ移植するis…</description>
-      <pubDate>Wed, 23 Sep 2026 01:20:50 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/subaru_hello/articles/biome-rust-first-contribution</guid>
+      <title>【.NET】参照代入はただのコピーじゃない？ GC write barrierを調べてみた</title>
+      <link>https://zenn.dev/aakei/articles/dotnet-copy-split-write-barrier</link>
+      <description>はじめに C#で参照型の値を代入するとき、単に参照を書き換えるだけではなく、GCのための処理が入ることがあるのを知っていますか？ 私は現在、.NET上で動く低アロケーションなJavaScriptエンジンOkojoを開発しています。 https://github.com/akeit0/okojo Ok…</description>
+      <pubDate>Thu, 24 Sep 2026 01:15:25 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/aakei/articles/dotnet-copy-split-write-barrier</guid>
       <category>Web</category>
     </item>
   </channel>
