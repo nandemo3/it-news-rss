@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 01:15:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:18:20 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome 154」公開、108件のセキュリティ修正 - 「クリティカル」が11件</title>
-      <link>https://www.security-next.com/190604</link>
-      <description>Googleは現地時間2026年9月22日、ブラウザ「Chrome」の最新版となる「Chrome 154」を公開した。「クリティカル（Critical）」とされる脆弱性をはじめ、100件以上の修正を行っている。</description>
-      <pubDate>Thu, 24 Sep 2026 01:15:43 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190604</guid>
+      <title>「ServiceNow AI Platform」にSQLiなど複数脆弱性 - 修正版を提供</title>
+      <link>https://www.security-next.com/190682</link>
+      <description>「ServiceNow AI Platform」に5件の脆弱性が判明した。クリティカルとされる脆弱性も複数含まれており、ServiceNowでは利用者にアップデートを呼びかけている。</description>
+      <pubDate>Fri, 25 Sep 2026 01:18:20 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190682</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

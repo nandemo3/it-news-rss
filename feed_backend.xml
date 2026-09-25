@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 01:15:41 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:18:18 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>良い取り組みを紹介しても「いい話」で終わってしまうのはなぜか？ 1人のエンジニアが、知見の広がる組織へと変えていく</title>
-      <link>https://codezine.jp/article/detail/29656</link>
-      <description>社内の他チームに良い取り組みを紹介しても、「いい話でした」で終わり、誰も試してくれない──そんな経験はないだろうか。弥生でエンジニアリングマネージャーを務める小島優介氏は、1人のエンジニアとして入社してからの1年間、地道な発信と個別対話を重ね、知見が実際に「使われる」組織づくりに挑んできた。「Dev…</description>
-      <pubDate>Thu, 24 Sep 2026 01:15:41 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29656</guid>
+      <title>OpenAI主催「夏のCodex開発祭2026」参加レポート──優勝したプロダクトは？【前編】</title>
+      <link>https://codezine.jp/article/detail/29713</link>
+      <description>OpenAI Japanは9月15日、大学生・大学院生を対象にしたハッカソン「OpenAI大学生向け 夏のCodex開発祭 2026」を横浜で開催した。全国から学生が集い、朝9時から夜21時まで、アイデア出しから開発、デモ動画の提出、最終プレゼン、表彰までを1日で行う。審査基準の4分の1を「Code…</description>
+      <pubDate>Fri, 25 Sep 2026 01:18:18 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29713</guid>
       <category>バックエンド</category>
     </item>
   </channel>

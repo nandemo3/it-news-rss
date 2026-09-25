@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 24 Sep 2026 01:15:25 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 01:18:02 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【.NET】参照代入はただのコピーじゃない？ GC write barrierを調べてみた</title>
-      <link>https://zenn.dev/aakei/articles/dotnet-copy-split-write-barrier</link>
-      <description>はじめに C#で参照型の値を代入するとき、単に参照を書き換えるだけではなく、GCのための処理が入ることがあるのを知っていますか？ 私は現在、.NET上で動く低アロケーションなJavaScriptエンジンOkojoを開発しています。 https://github.com/akeit0/okojo Ok…</description>
-      <pubDate>Thu, 24 Sep 2026 01:15:25 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/aakei/articles/dotnet-copy-split-write-barrier</guid>
+      <title>Claude Codeによる依存追加・更新に「調べてからユーザに聞いて」を挟むHookの紹介</title>
+      <link>https://zenn.dev/sprix_it/articles/f3ef77c1d46554</link>
+      <description>背景・目的 Claude Codeなどで開発していると、こちらから依存の追加を指示していなくても、新しいライブラリを入れて実装を進めようとすることがあります。 サプライチェーン攻撃の話も最近はよく見かけるので、何を入れるのか確認せずに任せるのは少し怖いなと思っていました。 以前の記事で書いた通り、私…</description>
+      <pubDate>Fri, 25 Sep 2026 01:18:02 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/sprix_it/articles/f3ef77c1d46554</guid>
       <category>Web</category>
     </item>
   </channel>
