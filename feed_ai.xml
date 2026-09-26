@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 01:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:20:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google、リアルタイムで表情豊かに話すAIアバター「Gemini 3.8 Live with Live Avatar」提供開始　画像1枚で独自アバターも</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/25/2000001730/</link>
-      <description>Googleは、リアルタイム音声対話と動画生成アバターを組み合わせた「Gemini 3.8 Live with Live Avatar」をGemini Enterpriseで提供を開始した。写真1枚から自然に応答するアバターを生成し、多言語や非同期ツール実行に対応。顧客対応や店頭端末などの商用展開を…</description>
-      <pubDate>Fri, 25 Sep 2026 01:18:02 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/25/2000001730/</guid>
+      <title>「Codex」全機能に障害　約1時間にわたり</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/</link>
+      <description>ChatGPTなど他のサービスに影響はなかった。</description>
+      <pubDate>Sat, 26 Sep 2026 01:20:24 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 25 Sep 2026 01:18:02 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 01:20:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Claude Codeによる依存追加・更新に「調べてからユーザに聞いて」を挟むHookの紹介</title>
-      <link>https://zenn.dev/sprix_it/articles/f3ef77c1d46554</link>
-      <description>背景・目的 Claude Codeなどで開発していると、こちらから依存の追加を指示していなくても、新しいライブラリを入れて実装を進めようとすることがあります。 サプライチェーン攻撃の話も最近はよく見かけるので、何を入れるのか確認せずに任せるのは少し怖いなと思っていました。 以前の記事で書いた通り、私…</description>
-      <pubDate>Fri, 25 Sep 2026 01:18:02 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/sprix_it/articles/f3ef77c1d46554</guid>
+      <title>Vercelの「インポートできます」メールは何を見て送られてくるのか 61リポジトリで確かめた</title>
+      <link>https://zenn.dev/devuloper/articles/vercel_import_candidates_email</link>
+      <description>きっかけ GitHub にリポジトリを作って push すると、Vercel から「A new project in ○○ is available to import and deploy on Vercel.」というメールが届くことがあります。この記事は、このメールがどんな条件で送られてくるのか…</description>
+      <pubDate>Sat, 26 Sep 2026 01:20:24 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/devuloper/articles/vercel_import_candidates_email</guid>
       <category>Web</category>
     </item>
   </channel>
