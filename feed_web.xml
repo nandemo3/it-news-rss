@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:14:21 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Vercelの「インポートできます」メールは何を見て送られてくるのか 61リポジトリで確かめた</title>
-      <link>https://zenn.dev/devuloper/articles/vercel_import_candidates_email</link>
-      <description>きっかけ GitHub にリポジトリを作って push すると、Vercel から「A new project in ○○ is available to import and deploy on Vercel.」というメールが届くことがあります。この記事は、このメールがどんな条件で送られてくるのか…</description>
-      <pubDate>Sat, 26 Sep 2026 01:20:24 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/devuloper/articles/vercel_import_candidates_email</guid>
+      <title>OpenTelemetryで作るセルフサービステレメトリー基盤</title>
+      <link>https://zenn.dev/ymotongpoo/books/observability-platform-with-otel</link>
+      <description>Platform Engineering Kaigi 2026の登壇「セルフサービスのオブザーバビリティ基盤をOpenTelemetryで作る」の解説資料です。SDKディストリビューションと自動計装、OpenTelemetry Collector、セマンティック規約を使い、開発チームが自分たちのテレ…</description>
+      <pubDate>Sun, 27 Sep 2026 01:14:21 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/ymotongpoo/books/observability-platform-with-otel</guid>
       <category>Web</category>
     </item>
   </channel>

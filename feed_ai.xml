@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:20:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:14:21 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Codex」全機能に障害　約1時間にわたり</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/</link>
-      <description>ChatGPTなど他のサービスに影響はなかった。</description>
-      <pubDate>Sat, 26 Sep 2026 01:20:24 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2609/26/2000001774/</guid>
+      <title>NTTドコモ、「正しく質問させる」をやめ、“聞き返すAI”で変える顧客対応</title>
+      <link>https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/</link>
+      <description>NTTドコモが、顧客の短い質問から意図をくみ取り、必要な手続きへ導く対話AIを導入した。生成AIが顧客に聞き返しながら情報を絞り込むことで、FAQを探す負担を軽減。AIによる顧客対応の本番運用を支える仕組みも整える。</description>
+      <pubDate>Sun, 27 Sep 2026 01:14:21 GMT</pubDate>
+      <guid isPermaLink="true">https://kn.itmedia.co.jp/kn/article/2609/27/2000001764/</guid>
       <category>AI</category>
     </item>
   </channel>

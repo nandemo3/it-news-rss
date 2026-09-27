@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 26 Sep 2026 01:20:40 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2026 01:14:37 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS、9月14日週に発表したアップデートをまとめて紹介</title>
-      <link>https://codezine.jp/article/detail/29795</link>
+      <title>AWS、Amazon BedrockでOpenAIのGPT-6 SolとLunaを一般提供</title>
+      <link>https://codezine.jp/article/detail/29811</link>
       <description></description>
-      <pubDate>Sat, 26 Sep 2026 01:20:40 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29795</guid>
+      <pubDate>Sun, 27 Sep 2026 01:14:37 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29811</guid>
       <category>バックエンド</category>
     </item>
   </channel>
