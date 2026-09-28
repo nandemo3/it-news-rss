@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 01:14:39 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:28:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ServiceNow AI Platform」にSQLiなど複数脆弱性 - 修正版を提供</title>
-      <link>https://www.security-next.com/190682</link>
-      <description>「ServiceNow AI Platform」に5件の脆弱性が判明した。クリティカルとされる脆弱性も複数含まれており、ServiceNowでは利用者にアップデートを呼びかけている。</description>
-      <pubDate>Sun, 27 Sep 2026 01:14:39 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190682</guid>
+      <title>【特別企画】急激に進化する「AI」 - 見直すべき運用と変わらぬ防御原則</title>
+      <link>https://www.security-next.com/190251</link>
+      <description>2026年に入り、「AI」が従来の予想を超える急激な進化を遂げている。AIによる大量の脆弱性報告など、セキュリティ分野に与えたインパクトは大きい。AIエージェントの過剰権限やシャドーAIといったリスクにも直面しており、セキュリティの確保が組織にとって大きな課題となっている。</description>
+      <pubDate>Mon, 28 Sep 2026 01:28:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190251</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

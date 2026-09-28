@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 01:14:21 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:28:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenTelemetryで作るセルフサービステレメトリー基盤</title>
-      <link>https://zenn.dev/ymotongpoo/books/observability-platform-with-otel</link>
-      <description>Platform Engineering Kaigi 2026の登壇「セルフサービスのオブザーバビリティ基盤をOpenTelemetryで作る」の解説資料です。SDKディストリビューションと自動計装、OpenTelemetry Collector、セマンティック規約を使い、開発チームが自分たちのテレ…</description>
-      <pubDate>Sun, 27 Sep 2026 01:14:21 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/ymotongpoo/books/observability-platform-with-otel</guid>
+      <title>Kubernetes 1.37: SIG Appsの変更内容</title>
+      <link>https://zenn.dev/musaprg/articles/kubernetes-changelog-1-37-sig-apps</link>
+      <description>Kubernetes v1.37が2026/08/26にリリースされました🎉 本記事では、特にSIG Appsに関係する変更点を、CHANGELOGからピックアップして紹介いたします。 📝がついた文章は、CHANGELOGの公式内容ではなく筆者の補足です。また、内容に誤り等ございましたら、コメントま…</description>
+      <pubDate>Mon, 28 Sep 2026 01:28:40 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/musaprg/articles/kubernetes-changelog-1-37-sig-apps</guid>
       <category>Web</category>
     </item>
   </channel>

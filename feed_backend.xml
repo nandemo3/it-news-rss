@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 27 Sep 2026 01:14:37 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 01:28:55 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS、Amazon BedrockでOpenAIのGPT-6 SolとLunaを一般提供</title>
-      <link>https://codezine.jp/article/detail/29811</link>
-      <description></description>
-      <pubDate>Sun, 27 Sep 2026 01:14:37 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29811</guid>
+      <title>OpenAI主催「夏のCodex開発祭2026」参加レポート──参加者インタビュー【後編】</title>
+      <link>https://codezine.jp/article/detail/29714</link>
+      <description>OpenAI Japanは9月15日、大学生・大学院生を対象にしたハッカソン「OpenAI大学生向け 夏のCodex開発祭2026」を横浜で開催した。全国から学生が集い、朝9時から夜21時まで、アイデア出しから開発、デモ動画の提出、最終プレゼン、表彰までを1日で行う。審査基準の4分の1を「Codex…</description>
+      <pubDate>Mon, 28 Sep 2026 01:28:55 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29714</guid>
       <category>バックエンド</category>
     </item>
   </channel>
