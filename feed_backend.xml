@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 01:28:55 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:31:50 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI主催「夏のCodex開発祭2026」参加レポート──参加者インタビュー【後編】</title>
-      <link>https://codezine.jp/article/detail/29714</link>
-      <description>OpenAI Japanは9月15日、大学生・大学院生を対象にしたハッカソン「OpenAI大学生向け 夏のCodex開発祭2026」を横浜で開催した。全国から学生が集い、朝9時から夜21時まで、アイデア出しから開発、デモ動画の提出、最終プレゼン、表彰までを1日で行う。審査基準の4分の1を「Codex…</description>
-      <pubDate>Mon, 28 Sep 2026 01:28:55 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29714</guid>
+      <title>AIが持たない「ドメイン知識」を武器に、お客様の要望の「先」を読む！ 期待を超えるシステムを作るメソッドとは</title>
+      <link>https://codezine.jp/article/detail/29054</link>
+      <description>30年にわたり機能を積み重ねてきた、統合人事システム「COMPANY」は、約1,200法人グループ・約570万人分［※1］のデータを支えている。本セッションでは、Works Human Intelligenceのプロダクトマネージャーとドメインエキスパートが登壇し、個社ごとに異なる要望を、全社のお客…</description>
+      <pubDate>Tue, 29 Sep 2026 02:31:50 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29054</guid>
       <category>バックエンド</category>
     </item>
   </channel>

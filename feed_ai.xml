@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 01:28:39 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:31:33 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「AIがSaaSを消す」は根本的な誤解　IDCが示す“本当に起こる変化”とは</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html</link>
-      <description>IDCは、AIエージェントの普及に伴う「SaaS終焉論」を分析したレポートを公開した。AIはSaaSを代替するのではなくデータモデルを拡張すると指摘。市場ごとの浸透格差や成果型課金の急増など、真の構造変化を解説した。</description>
-      <pubDate>Mon, 28 Sep 2026 01:28:39 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2609/28/news036.html</guid>
+      <title>AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/29/2000001826/</link>
+      <description>AMDは、フェイフェイ・リー博士が率いるAI企業World Labsを約82億ドル（約1.3兆円）の株式交換で買収することで合意した。空間知能や物理AIの知見を取り込み次世代インフラを強化する。買収完了後、リー氏はAMDのEVP兼チーフサイエンティストに就任し、同氏のチームとともにオープンなAIエコ…</description>
+      <pubDate>Tue, 29 Sep 2026 02:31:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/29/2000001826/</guid>
       <category>AI</category>
     </item>
   </channel>

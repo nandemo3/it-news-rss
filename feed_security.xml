@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 28 Sep 2026 01:28:57 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 02:31:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【特別企画】急激に進化する「AI」 - 見直すべき運用と変わらぬ防御原則</title>
-      <link>https://www.security-next.com/190251</link>
-      <description>2026年に入り、「AI」が従来の予想を超える急激な進化を遂げている。AIによる大量の脆弱性報告など、セキュリティ分野に与えたインパクトは大きい。AIエージェントの過剰権限やシャドーAIといったリスクにも直面しており、セキュリティの確保が組織にとって大きな課題となっている。</description>
-      <pubDate>Mon, 28 Sep 2026 01:28:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190251</guid>
+      <title>「iOS 26.7.1」公開、脆弱性を修正 - 特定個人への攻撃で悪用か</title>
+      <link>https://www.security-next.com/190781</link>
+      <description>Appleは現地時間2026年9月28日、同社スマートデバイス向けに「iOS 26.7.1」「iPadOS 26.7.1」をリリースした。悪用された可能性がある脆弱性に対処したという。</description>
+      <pubDate>Tue, 29 Sep 2026 02:31:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190781</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
