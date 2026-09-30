@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 02:31:51 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:55:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「iOS 26.7.1」公開、脆弱性を修正 - 特定個人への攻撃で悪用か</title>
-      <link>https://www.security-next.com/190781</link>
-      <description>Appleは現地時間2026年9月28日、同社スマートデバイス向けに「iOS 26.7.1」「iPadOS 26.7.1」をリリースした。悪用された可能性がある脆弱性に対処したという。</description>
-      <pubDate>Tue, 29 Sep 2026 02:31:51 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190781</guid>
+      <title>ブラウザ「Chrome」にセキュリティ更新 - 脆弱性32件を修正</title>
+      <link>https://www.security-next.com/190829</link>
+      <description>Googleは、ウェブブラウザ「Chrome」のセキュリティアップデートをリリースした。複数の脆弱性へ対応しており、「クリティカル（Critical）」とされる脆弱性にも対応している。</description>
+      <pubDate>Wed, 30 Sep 2026 01:55:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190829</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 02:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:54:45 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AMD、フェイフェイ・リー博士のWorld Labsを約82億ドルで買収へ　ハードとモデルを一体化したオープンAIエコシステム加速へ</title>
-      <link>https://www.itmedia.co.jp/news/article/2609/29/2000001826/</link>
-      <description>AMDは、フェイフェイ・リー博士が率いるAI企業World Labsを約82億ドル（約1.3兆円）の株式交換で買収することで合意した。空間知能や物理AIの知見を取り込み次世代インフラを強化する。買収完了後、リー氏はAMDのEVP兼チーフサイエンティストに就任し、同氏のチームとともにオープンなAIエコ…</description>
-      <pubDate>Tue, 29 Sep 2026 02:31:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/29/2000001826/</guid>
+      <title>AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名</title>
+      <link>https://www.itmedia.co.jp/news/article/2609/30/2000001871/</link>
+      <description>トランプ大統領はIT首脳らと昼食会を開き、行政機関で「人工知能（AI）」に代わり「超知能（SI）」の呼称使用を命じる大統領令に署名した。主要各社は自主的安全合意「White House Accord on Super Intelligence」に署名。米連邦政府は行政窓口サイト「America.go…</description>
+      <pubDate>Wed, 30 Sep 2026 01:54:45 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2609/30/2000001871/</guid>
       <category>AI</category>
     </item>
   </channel>

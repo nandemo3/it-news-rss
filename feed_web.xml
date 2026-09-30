@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 29 Sep 2026 02:31:33 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 01:54:45 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Playwright Test Agents × GitHub Actions：E2E テスト生成・修復の自動化</title>
-      <link>https://zenn.dev/sun_asterisk/articles/e9b50f09839def</link>
-      <description>はじめに Playwright 1.56 で追加された Playwright Test Agents は、E2E テストの計画・生成・修復を AI エージェントに任せる仕組みです。私たちは稼働中のプロジェクトで、このエージェントを GitHub Actions から無人で動かす仕組みを設計・実装し、…</description>
-      <pubDate>Tue, 29 Sep 2026 02:31:33 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/sun_asterisk/articles/e9b50f09839def</guid>
+      <title>Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました</title>
+      <link>https://zenn.dev/o8vm/articles/3934806424cd85</link>
+      <description>私が Rust で実装して公開している Unix-like OS「octox」が、サンフランシスコ大学（University of San Francisco）の授業で教材として使用されていることが分かりました。 octox 専用のガイドが用意されているだけでなく、講義で実装が解説され、ユーザープロ…</description>
+      <pubDate>Wed, 30 Sep 2026 01:54:45 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/o8vm/articles/3934806424cd85</guid>
       <category>Web</category>
     </item>
   </channel>
