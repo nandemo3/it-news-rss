@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 01:55:02 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:55:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>SnowflakeのAIエージェントが体現する「エージェンティック・エンタープライズ」</title>
-      <link>https://codezine.jp/article/detail/29697</link>
-      <description>9月10日、Snowflake World Tour Tokyoの基調講演でSnowflake EVPのクリスチャン・クライナマン氏は、「エージェンティック・エンタープライズ」という言葉で、あらゆる組織が目指すべき姿を語った。事業運営の中核にAIを組み込むこのビジョンの実現には、優れたデータ基盤とガ…</description>
-      <pubDate>Wed, 30 Sep 2026 01:55:02 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29697</guid>
+      <title>IBM Bobを誰でも試せる！限定ハンズオンを開催【デブクロ2026 注目セッション】</title>
+      <link>https://codezine.jp/article/detail/29866</link>
+      <description></description>
+      <pubDate>Thu, 01 Oct 2026 01:55:22 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29866</guid>
       <category>バックエンド</category>
     </item>
   </channel>

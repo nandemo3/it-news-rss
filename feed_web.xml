@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 30 Sep 2026 01:54:45 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 01:55:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Rustで作った自作OS「octox」がサンフランシスコ大学の教材になっていました</title>
-      <link>https://zenn.dev/o8vm/articles/3934806424cd85</link>
-      <description>私が Rust で実装して公開している Unix-like OS「octox」が、サンフランシスコ大学（University of San Francisco）の授業で教材として使用されていることが分かりました。 octox 専用のガイドが用意されているだけでなく、講義で実装が解説され、ユーザープロ…</description>
-      <pubDate>Wed, 30 Sep 2026 01:54:45 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/o8vm/articles/3934806424cd85</guid>
+      <title>Web 標準動向 2026年9月版</title>
+      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609</link>
+      <description>こんにちは！ サイボウズ株式会社 デザインテクノロジストの saku (@sakupi01) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることがで…</description>
+      <pubDate>Thu, 01 Oct 2026 01:55:06 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609</guid>
       <category>Web</category>
     </item>
   </channel>
