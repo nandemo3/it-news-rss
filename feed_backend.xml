@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 01:55:22 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:05:02 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>IBM Bobを誰でも試せる！限定ハンズオンを開催【デブクロ2026 注目セッション】</title>
-      <link>https://codezine.jp/article/detail/29866</link>
+      <title>Google Docs/Sheets/Slides、APIでのコメント追加、確認、返信が可能に</title>
+      <link>https://codezine.jp/article/detail/29882</link>
       <description></description>
-      <pubDate>Thu, 01 Oct 2026 01:55:22 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29866</guid>
+      <pubDate>Fri, 02 Oct 2026 02:05:02 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29882</guid>
       <category>バックエンド</category>
     </item>
   </channel>

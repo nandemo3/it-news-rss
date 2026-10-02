@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 01:55:23 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:05:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Catalyst SD-WAN Manager」にゼロデイ脆弱性 - 更新や侵害調査を</title>
-      <link>https://www.security-next.com/190883</link>
-      <description>Cisco Systemsは、「Cisco Catalyst SD-WAN Manager」に脆弱性が明らかになったとして、セキュリティアップデートをリリースした。すでに悪用も確認されている。</description>
-      <pubDate>Thu, 01 Oct 2026 01:55:23 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/190883</guid>
+      <title>「FortiMail」に深刻なゼロデイ脆弱性 - 悪用が報告、修正版は準備中</title>
+      <link>https://www.security-next.com/190943</link>
+      <description>Fortinetが提供するメールセキュリティ製品「FortiMail」に深刻な脆弱性が明らかとなった。ゼロデイ攻撃に悪用されており、同社では修正版の準備を進めるとともに、回避策をアナウンスしている。</description>
+      <pubDate>Fri, 02 Oct 2026 02:05:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/190943</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

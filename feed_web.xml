@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 01:55:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:04:38 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Web 標準動向 2026年9月版</title>
-      <link>https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609</link>
-      <description>こんにちは！ サイボウズ株式会社 デザインテクノロジストの saku (@sakupi01) です。 はじめに サイボウズは 2025 年 4 月より、W3C のメンバーに加入しました。 https://blog.cybozu.io/entry/joining-w3c 標準化プロセスに関わることがで…</description>
-      <pubDate>Thu, 01 Oct 2026 01:55:06 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/cybozu_frontend/articles/web_standards_trends_202609</guid>
+      <title>Claude Code の使用量はどう数えられているのか ── Max 20x で実測した重みは API 料金表と違った</title>
+      <link>https://zenn.dev/tksfjt1024/articles/25c0ab111c277c</link>
+      <description>Claude Code を Pro や Max のプランで使うと、使った分だけ「使用量制限」の枠を消費します。この制限には、5 時間ごとにリセットされる「5時間のセッション制限」と、週ごとにリセットされる「週間使用制限」の 2 つがあります[1]。この 5 時間枠と週間枠が何でどれだけ減るのかを、条…</description>
+      <pubDate>Fri, 02 Oct 2026 02:04:38 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tksfjt1024/articles/25c0ab111c277c</guid>
       <category>Web</category>
     </item>
   </channel>

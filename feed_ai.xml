@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 01 Oct 2026 01:55:06 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 02:04:38 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Autodesk、FusionなどのAI機能を発表　設計作業の自動化や設計資産の再利用を支援</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html</link>
-      <description>Autodeskは「Autodesk University 2026（AU 2026）」において、「Fusion」「Inventor」「Vault」およびPLMに関する新たなAI機能や取り組みを発表した。部品の編集や組み立て、製造工程の自動化に加え、製品情報の連携や既存の設計資産の再利用を支援する。</description>
-      <pubDate>Thu, 01 Oct 2026 01:55:06 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2610/01/news015.html</guid>
+      <title>SIE、PS5向けAI採用画質向上技術「QSSR」発表　AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/02/2000001946/</link>
+      <description>ソニー・インタラクティブエンタテインメントは、PS5向けのAIアップスケーリング技術「QSSR」を発表した。PS5 Pro向けのPSSRをAMDと共同で軽量化し、無印のPS5でもAIによる画質向上を実現する。「Marvel's Wolverine」などに先行導入され、今後全開発者へ提供を拡大する。</description>
+      <pubDate>Fri, 02 Oct 2026 02:04:38 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001946/</guid>
       <category>AI</category>
     </item>
   </channel>
