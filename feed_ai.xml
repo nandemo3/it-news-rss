@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 02 Oct 2026 02:04:38 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 03 Oct 2026 01:48:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>SIE、PS5向けAI採用画質向上技術「QSSR」発表　AMDと共同開発、「Marvel's Wolverine」と「Ghost of Yōtei」が初対応</title>
-      <link>https://www.itmedia.co.jp/news/article/2610/02/2000001946/</link>
-      <description>ソニー・インタラクティブエンタテインメントは、PS5向けのAIアップスケーリング技術「QSSR」を発表した。PS5 Pro向けのPSSRをAMDと共同で軽量化し、無印のPS5でもAIによる画質向上を実現する。「Marvel's Wolverine」などに先行導入され、今後全開発者へ提供を拡大する。</description>
-      <pubDate>Fri, 02 Oct 2026 02:04:38 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/02/2000001946/</guid>
+      <title>Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/03/2000001983/</link>
+      <description>Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。</description>
+      <pubDate>Sat, 03 Oct 2026 01:48:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/03/2000001983/</guid>
       <category>AI</category>
     </item>
   </channel>
