@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 01:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:28:45 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Strands Decider 2Bについて理解する</title>
-      <link>https://zenn.dev/fusic/articles/db6e62832a4a1f</link>
-      <description>はじめに Fusicのレオナです。 Strands Agentsは、AWSが開発し、オープンソースとして公開しているAIエージェント開発用SDKです。LLMに与える指示と利用可能なツールを定義することで、状況に応じてツールを選び、その実行結果を踏まえながら処理を進めるエージェントを構築できます。AW…</description>
-      <pubDate>Sat, 03 Oct 2026 01:48:51 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/fusic/articles/db6e62832a4a1f</guid>
+      <title>【Cursor pstack】AIエージェントに開発を任せる環境をつくる ―月2,500件のPRを支えた開発基盤とは？</title>
+      <link>https://zenn.dev/sc30gsw/books/080faba713547b</link>
+      <description>AIエージェントに開発を任せるための環境づくりを、Cursorのpstackから学ぶ実践ガイドです。月2,500件のPRを支えた考え方を手がかりに、成果物を検証する仕組みから、pstackに含まれるPlaybook・Principle・Skillといった全項目を解説。 さらに、自分のアプリに検証スキ…</description>
+      <pubDate>Sun, 04 Oct 2026 02:28:45 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/sc30gsw/books/080faba713547b</guid>
       <category>Web</category>
     </item>
   </channel>

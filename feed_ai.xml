@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 01:48:51 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:28:44 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Apple、macOSの「フルディスクアクセス」に追加の制御を導入へ　「AIエージェントの進化でリスクが大幅に増大」</title>
-      <link>https://www.itmedia.co.jp/news/article/2610/03/2000001983/</link>
-      <description>Appleは、macOSの「フルディスクアクセス」権限の付与手順を厳格化する方針を発表した。AIエージェントの自律化に伴うデータ流出リスクを抑えるため、明示的な操作や追加制御を導入する。背景にはMetaのAIエージェント「Muse」を巡るメッセージデータ監視の議論などがある。</description>
-      <pubDate>Sat, 03 Oct 2026 01:48:51 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/03/2000001983/</guid>
+      <title>「OpenAIの文化は壊れている」──安全性報告書を統括した従業員が退社し、寄稿</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/04/2000001986/</link>
+      <description>OpenAIで安全性報告の執筆を統括したデビッド・ロビンソン氏が退社し、企業文化の崩壊を訴える記事を寄稿した。現行の反復開発手法は失敗を前提としており、能力向上に伴いリスクが拡大すると指摘。原子力や航空分野の安全知見の導入や、未監視下の安全性を担保する新たな科学の確立を求めた。</description>
+      <pubDate>Sun, 04 Oct 2026 02:28:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/04/2000001986/</guid>
       <category>AI</category>
     </item>
   </channel>

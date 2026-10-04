@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 03 Oct 2026 01:49:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 04 Oct 2026 02:29:01 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>本人確認書類の画像流出、対象アカウントは約160万件 - タイムズカー</title>
       <link>https://www.security-next.com/190989</link>
       <description>パーク24グループのタイムズモビリティが運営するカーシェアリングサービス「タイムズカー」が外部から侵害され、会員の個人情報が流出した問題で、本人確認書類の流出状況を明らかにした。</description>
-      <pubDate>Sat, 03 Oct 2026 01:49:08 GMT</pubDate>
+      <pubDate>Sun, 04 Oct 2026 02:29:01 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/190989</guid>
       <category>セキュリティ</category>
     </item>
