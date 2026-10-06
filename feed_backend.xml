@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:46:05 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:48:31 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilot、CLIなどでエージェント処理をコードで定義する機能を提供</title>
-      <link>https://codezine.jp/article/detail/29903</link>
+      <title>GitHub Copilotコードレビュー、API経由の依頼に対応</title>
+      <link>https://codezine.jp/article/detail/29916</link>
       <description></description>
-      <pubDate>Mon, 05 Oct 2026 01:46:05 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29903</guid>
+      <pubDate>Tue, 06 Oct 2026 02:48:31 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29916</guid>
       <category>バックエンド</category>
     </item>
   </channel>

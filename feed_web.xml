@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 05 Oct 2026 01:45:49 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 02:48:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Claude Codeの「Claude Mods」とは？ 入れてみた3つのmodと、安全に入れる手順</title>
-      <link>https://zenn.dev/yoshihiko555/articles/ea2db6070058b3</link>
-      <description>Claude Modsは、Claude Codeの公式の拡張の仕組みだ。Claude Codeの中で動くTypeScript（またはJavaScript）の関数で、画面にペインを足したり、プロンプトやツール呼び出しを書き換えたりできる。2026年10月1日（米国時間）のv2.1.287で正式にリリー…</description>
-      <pubDate>Mon, 05 Oct 2026 01:45:49 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/yoshihiko555/articles/ea2db6070058b3</guid>
+      <title>こんな時代だから Seasar2 を構築してみようか</title>
+      <link>https://zenn.dev/tokium_dev/articles/4dbec90075dab0</link>
+      <description>Claude CodeやCodexに聞けば、知らない技術でもそれっぽいものが完成します。 課題はありつつも、基本的には便利な世の中になったものです。 便利になった反面、スキル習得のための学習の機会は奪われてしまったかもしれません。 それでも前に進み続け、気づけば『あれ？どうやって勉強すればいいんだ？…</description>
+      <pubDate>Tue, 06 Oct 2026 02:48:15 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/4dbec90075dab0</guid>
       <category>Web</category>
     </item>
   </channel>
