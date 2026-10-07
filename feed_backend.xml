@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:48:31 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:11:13 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilotコードレビュー、API経由の依頼に対応</title>
-      <link>https://codezine.jp/article/detail/29916</link>
+      <title>Google、出力上限100万トークンの最新モデル「Gemini 4 Argon」を発表</title>
+      <link>https://codezine.jp/article/detail/29927</link>
       <description></description>
-      <pubDate>Tue, 06 Oct 2026 02:48:31 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29916</guid>
+      <pubDate>Wed, 07 Oct 2026 02:11:13 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29927</guid>
       <category>バックエンド</category>
     </item>
   </channel>

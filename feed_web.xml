@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:48:15 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:10:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>こんな時代だから Seasar2 を構築してみようか</title>
-      <link>https://zenn.dev/tokium_dev/articles/4dbec90075dab0</link>
-      <description>Claude CodeやCodexに聞けば、知らない技術でもそれっぽいものが完成します。 課題はありつつも、基本的には便利な世の中になったものです。 便利になった反面、スキル習得のための学習の機会は奪われてしまったかもしれません。 それでも前に進み続け、気づけば『あれ？どうやって勉強すればいいんだ？…</description>
-      <pubDate>Tue, 06 Oct 2026 02:48:15 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/tokium_dev/articles/4dbec90075dab0</guid>
+      <title>Googleマップの埋め込みは3経路ある — どれが無料で、どれが従量課金なのか</title>
+      <link>https://zenn.dev/shunei/articles/google-maps-embed-billing</link>
+      <description>Google Maps Platform の公式ドキュメントに、こう書いてあります。 Setting a budget does not automatically cap Google Cloud or Google Maps Platform usage or spending. 予算を設定して…</description>
+      <pubDate>Wed, 07 Oct 2026 02:10:57 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/shunei/articles/google-maps-embed-billing</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 06 Oct 2026 02:48:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 02:11:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「FortiMail」のアップデートが提供開始 - ゼロデイ脆弱性を修正</title>
-      <link>https://www.security-next.com/191061</link>
-      <description>Fortinetのメールセキュリティ製品「FortiMail」に脆弱性「CVE-2026-104286」が存在し、ゼロデイ攻撃が発生している問題で、同社はアップデートの提供を開始した。</description>
-      <pubDate>Tue, 06 Oct 2026 02:48:32 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191061</guid>
+      <title>リモートアクセス製品「SonicWall SMA1000シリーズ」に深刻なSSRF脆弱性</title>
+      <link>https://www.security-next.com/191125</link>
+      <description>SonicWallのリモートアクセス製品「SMA1000シリーズ」に深刻な脆弱性が明らかとなった。アップデートが提供されている。</description>
+      <pubDate>Wed, 07 Oct 2026 02:11:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191125</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
