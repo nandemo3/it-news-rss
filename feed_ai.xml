@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 02:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:36:34 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Mistral、1兆パラメータの「Mistral Large 4」（通称「Le Chonk」）発表　10月末にオープンウェイトで公開へ</title>
-      <link>https://www.itmedia.co.jp/news/article/2610/07/2000002075/</link>
-      <description>Mistral AIは、最大モデル「Mistral Large 4」のプレビュー版を公開した。総パラメータ1兆500億のMoE型で、画像認識や推論・指示応答の切り替えに対応。特にサイバーセキュリティやコーディングで高い性能を示し、脆弱性再現テストでは全モデル中最高を記録。モデルの重みは月末に公開予定…</description>
-      <pubDate>Wed, 07 Oct 2026 02:10:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/07/2000002075/</guid>
+      <title>ChatGPT、無料版を含む全ユーザーに「GPT-6」　回答内に“操作できる画面”を生成する「Intelligent UI」搭載</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/08/2000002119/</link>
+      <description>OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開す…</description>
+      <pubDate>Thu, 08 Oct 2026 02:36:34 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002119/</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 02:10:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:36:34 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Googleマップの埋め込みは3経路ある — どれが無料で、どれが従量課金なのか</title>
-      <link>https://zenn.dev/shunei/articles/google-maps-embed-billing</link>
-      <description>Google Maps Platform の公式ドキュメントに、こう書いてあります。 Setting a budget does not automatically cap Google Cloud or Google Maps Platform usage or spending. 予算を設定して…</description>
-      <pubDate>Wed, 07 Oct 2026 02:10:57 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/shunei/articles/google-maps-embed-billing</guid>
+      <title>ホームラボの GPU ノードの監視環境を構築する</title>
+      <link>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</link>
+      <description>GPU ノードをホームラボで運用していたところ、トス証券の技術ブログ記事「トス証券が GPU-aware を超えて GPU-native クラスターを構築した方法」で紹介されている運用基準を目にしました。そこで、ホームラボの環境に合わせて規模を縮小し、GPU の状態を監視することにしました。 現在、…</description>
+      <pubDate>Thu, 08 Oct 2026 02:36:34 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/hyeonjae/articles/46d734a43c2c93</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 07 Oct 2026 02:11:14 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 02:36:51 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>リモートアクセス製品「SonicWall SMA1000シリーズ」に深刻なSSRF脆弱性</title>
-      <link>https://www.security-next.com/191125</link>
-      <description>SonicWallのリモートアクセス製品「SMA1000シリーズ」に深刻な脆弱性が明らかとなった。アップデートが提供されている。</description>
-      <pubDate>Wed, 07 Oct 2026 02:11:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191125</guid>
+      <title>Cisco「NX-OS」の脆弱性14件を修正 - 半数が「クリティカル」</title>
+      <link>https://www.security-next.com/191184</link>
+      <description>Cisco Systemsは、ネットワーク機器向けOS「Cisco NX-OS Software」に複数の脆弱性が見つかったとして、セキュリティアップデートをリリースした。深刻な脆弱性も含まれる。</description>
+      <pubDate>Thu, 08 Oct 2026 02:36:51 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191184</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
