@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:36:50 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:51:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>テクマトリックス、生成AI品質評価ツール「GENFLUX Evaluation」の販売を開始</title>
-      <link>https://codezine.jp/article/detail/29952</link>
+      <title>GitHub Copilotのローカルサンドボックス機能が一般提供開始</title>
+      <link>https://codezine.jp/article/detail/29962</link>
       <description></description>
-      <pubDate>Thu, 08 Oct 2026 02:36:50 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29952</guid>
+      <pubDate>Fri, 09 Oct 2026 02:51:53 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29962</guid>
       <category>バックエンド</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:51:36 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ChatGPT、無料版を含む全ユーザーに「GPT-6」　回答内に“操作できる画面”を生成する「Intelligent UI」搭載</title>
-      <link>https://www.itmedia.co.jp/news/article/2610/08/2000002119/</link>
-      <description>OpenAIは、ChatGPTに新モデル「GPT-6」を搭載し順次提供を開始した。テキストに加え図や操作可能なボタン、フォームなどを回答として生成する「Intelligent UI」を導入。思考しながら回答を出力する機能も備える。有料プランから順次提供を始め、無料プランやGoプランにも翌日から展開す…</description>
-      <pubDate>Thu, 08 Oct 2026 02:36:34 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/08/2000002119/</guid>
+      <title>トランプ米大統領、「AI」という言葉を使う者は「敵」　政府サイト「AI.gov」は「SI GOV」表記に</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/09/2000002157/</link>
+      <description>トランプ大統領は「Artificial Intelligence」（AI）という言葉を使う者を敵と見なすと投稿した。政府は代替呼称「Super Intelligence」（SI）への移行を進めており、政策サイト「AI.gov」のロゴ刷新や大統領令への署名、新組織「SIF」の創設など、公式文書での呼称…</description>
+      <pubDate>Fri, 09 Oct 2026 02:51:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/09/2000002157/</guid>
       <category>AI</category>
     </item>
   </channel>

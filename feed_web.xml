@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 08 Oct 2026 02:36:34 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 02:51:36 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ホームラボの GPU ノードの監視環境を構築する</title>
-      <link>https://zenn.dev/hyeonjae/articles/46d734a43c2c93</link>
-      <description>GPU ノードをホームラボで運用していたところ、トス証券の技術ブログ記事「トス証券が GPU-aware を超えて GPU-native クラスターを構築した方法」で紹介されている運用基準を目にしました。そこで、ホームラボの環境に合わせて規模を縮小し、GPU の状態を監視することにしました。 現在、…</description>
-      <pubDate>Thu, 08 Oct 2026 02:36:34 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/hyeonjae/articles/46d734a43c2c93</guid>
+      <title>半陽的微分代数方程式の解を微分する：VJP編</title>
+      <link>https://zenn.dev/wheatear11/articles/c293bb49ad3ae7</link>
+      <description>概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \in \mathbb{R}^{N_x}と y_1, \dot y_1 \in \mathbb…</description>
+      <pubDate>Fri, 09 Oct 2026 02:51:36 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/wheatear11/articles/c293bb49ad3ae7</guid>
       <category>Web</category>
     </item>
   </channel>
