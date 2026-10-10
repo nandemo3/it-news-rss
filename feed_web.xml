@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:11:55 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>半陽的微分代数方程式の解を微分する：VJP編</title>
-      <link>https://zenn.dev/wheatear11/articles/c293bb49ad3ae7</link>
-      <description>概要 この記事では、目的関数が指数1の半陽的微分代数方程式の解を通して初期値やパラメータに依存するとき、その勾配をAdjoint法により数値的に計算する方法を導出します。対象とするのは、目的関数が x_1 \in \mathbb{R}^{N_x}と y_1, \dot y_1 \in \mathbb…</description>
-      <pubDate>Fri, 09 Oct 2026 02:51:36 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/wheatear11/articles/c293bb49ad3ae7</guid>
+      <title>約 0.5 GiB のダウンロードで SSD に 6 GiB 書いていた — Steam のゲーム更新 1 件を実測し、減らせる場所を探した</title>
+      <link>https://zenn.dev/berobero/articles/steam-update-ssd-writes</link>
+      <description>! 3 行まとめ Steam の実際の更新 1 件（『Rust』の専用サーバー版、開発版ブランチ間の差分、steamcmd で測定）で、ダウンロードは約 0.5 GiB だったのに、SSD には約 6 GiB が書かれた。ゲームを入れ直す量より 1 割ほど多い。 主な原因は、大きなファイルの中身が少…</description>
+      <pubDate>Sat, 10 Oct 2026 02:11:55 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/berobero/articles/steam-update-ssd-writes</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 09 Oct 2026 02:51:36 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 10 Oct 2026 02:11:55 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>トランプ米大統領、「AI」という言葉を使う者は「敵」　政府サイト「AI.gov」は「SI GOV」表記に</title>
-      <link>https://www.itmedia.co.jp/news/article/2610/09/2000002157/</link>
-      <description>トランプ大統領は「Artificial Intelligence」（AI）という言葉を使う者を敵と見なすと投稿した。政府は代替呼称「Super Intelligence」（SI）への移行を進めており、政策サイト「AI.gov」のロゴ刷新や大統領令への署名、新組織「SIF」の創設など、公式文書での呼称…</description>
-      <pubDate>Fri, 09 Oct 2026 02:51:36 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/09/2000002157/</guid>
+      <title>OpenAI、安全性研究者3人を解雇　本人らは「安全性を優先したため」と主張、同社は「機密情報の扱いに関する規定違反」と説明</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/10/2000002189/</link>
+      <description>OpenAIで安全性研究に携わっていた研究者3人が、突然解雇されたと公表し、書面での理由開示や外部監査の受け入れ維持を求める書簡を公開した。これに対しOpenAIは、機密情報規定への重大な違反が社内調査で判明したためと説明し、安全性の懸念表明を理由とした解雇ではないと反論している。</description>
+      <pubDate>Sat, 10 Oct 2026 02:11:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/10/2000002189/</guid>
       <category>AI</category>
     </item>
   </channel>
