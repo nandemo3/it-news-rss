@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:11:55 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:43:54 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>約 0.5 GiB のダウンロードで SSD に 6 GiB 書いていた — Steam のゲーム更新 1 件を実測し、減らせる場所を探した</title>
-      <link>https://zenn.dev/berobero/articles/steam-update-ssd-writes</link>
-      <description>! 3 行まとめ Steam の実際の更新 1 件（『Rust』の専用サーバー版、開発版ブランチ間の差分、steamcmd で測定）で、ダウンロードは約 0.5 GiB だったのに、SSD には約 6 GiB が書かれた。ゲームを入れ直す量より 1 割ほど多い。 主な原因は、大きなファイルの中身が少…</description>
-      <pubDate>Sat, 10 Oct 2026 02:11:55 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/berobero/articles/steam-update-ssd-writes</guid>
+      <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
+      <link>https://zenn.dev/mattn/articles/6e9996319ac099</link>
+      <description>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into di…</description>
+      <pubDate>Sun, 11 Oct 2026 01:43:54 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/mattn/articles/6e9996319ac099</guid>
       <category>Web</category>
     </item>
   </channel>

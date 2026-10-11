@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 10 Oct 2026 02:12:11 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 01:44:12 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS MCPサーバー、東京など6つのリージョンで新たに利用可能に</title>
-      <link>https://codezine.jp/article/detail/29982</link>
+      <title>AWS、機能別・フィルタ対応のリージョン利用状況通知を発表</title>
+      <link>https://codezine.jp/article/detail/29984</link>
       <description></description>
-      <pubDate>Sat, 10 Oct 2026 02:12:11 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29982</guid>
+      <pubDate>Sun, 11 Oct 2026 01:44:12 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29984</guid>
       <category>バックエンド</category>
     </item>
   </channel>
