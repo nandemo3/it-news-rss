@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 11 Oct 2026 01:43:54 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 02:11:23 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>SQLite 本体にベクトル検索拡張 vec1 がやってきた</title>
-      <link>https://zenn.dev/mattn/articles/6e9996319ac099</link>
-      <description>はじめに 2026 年 9 月 30 日、SQLite のソースツリーに ext/vec1/ というディレクトリが追加されました。コミットしたのは FTS5 などでおなじみの Dan Kennedy 氏。コミットメッセージはたった 1 行です。 Import vec1 sources into di…</description>
-      <pubDate>Sun, 11 Oct 2026 01:43:54 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/mattn/articles/6e9996319ac099</guid>
+      <title>Besu ローカル環境構築ハンズオン</title>
+      <link>https://zenn.dev/komlock_lab/articles/besu-local-network-handson</link>
+      <description>こんにちは。ブロックチェーン×AI Agentで自律経済圏を創るKomlock lab（Pacific Meta Group）でCTOをしている山口夏生 @0x_natto です。 前編の「Besu（旧Hyperledger Besu）解説」では、バリデータの3分の2以上の署名で取引が確定し（4台な…</description>
+      <pubDate>Mon, 12 Oct 2026 02:11:23 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/komlock_lab/articles/besu-local-network-handson</guid>
       <category>Web</category>
     </item>
   </channel>
