@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:25:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:42:47 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「GitLab」が「クリティカル」脆弱性含む24件の修正を実施</title>
-      <link>https://www.security-next.com/191308</link>
-      <description>GitLabは2026年10月8日、ソフトウェア開発プラットフォーム「GitLab」のセキュリティアップデートをリリースした。「クリティカル」とされる脆弱性なども修正に含まれており、すみやかに更新するよう求めている。</description>
-      <pubDate>Tue, 13 Oct 2026 03:25:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191308</guid>
+      <title>IvantiのVPN製品に脆弱性 - 未修正ブランチでゼロデイ攻撃</title>
+      <link>https://www.security-next.com/191386</link>
+      <description>Ivantiのリモートアクセス製品「Ivanti Connect Secure（ICS）」に深刻な脆弱性が判明した。すでに悪用が確認されており、同社は修正版を提供している。</description>
+      <pubDate>Wed, 14 Oct 2026 01:42:47 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191386</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

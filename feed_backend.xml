@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:25:56 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:42:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「顧客に会っている」のに、なぜ何も見つからないのか──はてな米山氏が示した顧客理解の3段階</title>
-      <link>https://codezine.jp/article/detail/29715</link>
-      <description>「顧客に会うのが大事」に反対するプロダクトマネージャーはいない。それなのに実際にやってみると、1人が孤独に走り続けるか、組織で始めても続かずに立ち消えるか、どちらかになりがちだ。ProductZine Day 2026に登壇したはてなの米山弘恭氏は、この行き詰まりの原因を「顧客理解とは何かの輪郭がふ…</description>
-      <pubDate>Tue, 13 Oct 2026 03:25:56 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29715</guid>
+      <title>作る力を、利用者の成果につなげる──デジタル庁・岡田康豊氏が語る「使われる」サービスへの視点</title>
+      <link>https://codezine.jp/article/detail/29772</link>
+      <description>行政手続きをオンラインで利用できるようにすることと、利用者が必要なサービスに気づき、円滑に目的を果たせることは、同じではない。2026年9月5日に開催された「Product Engineering Conference 2026（PdE Conf 2026）」の招待講演で、デジタル庁の岡田康豊氏は、…</description>
+      <pubDate>Wed, 14 Oct 2026 01:42:46 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29772</guid>
       <category>バックエンド</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:42:30 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>dbt Docs v2で何ができるか、実際に触ってみた【dbt v2】</title>
-      <link>https://zenn.dev/ryatora/articles/dbt-docs-v2-guide</link>
-      <description>1. 概要 1.1 本記事の目的 dbt v2では、dbt Docsが新しくなり、dbt Docs v2になりました。本記事では、NBA（アメリカのプロバスケットボールリーグ）のデータで作ったdbtプロジェクトを使い、dbt Docs v2の画面を順に紹介します。 2章でdbt Docs v2を生成…</description>
-      <pubDate>Tue, 13 Oct 2026 03:25:40 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/ryatora/articles/dbt-docs-v2-guide</guid>
+      <title>画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証</title>
+      <link>https://zenn.dev/lube8163/articles/594bea1c0f8397</link>
+      <description>2026年10月14日 · lube8163-lab · 探索的なローカル実験 画像生成モデルの中間表現を送れば、画像を小さなデータに圧縮しつつ意味を伝えられるのではないか。これを出発点として、中間特徴を量子化して送る方式と、画像を文章にして受信側で描き直す方式を検証した。 今回の写真11枚では、数…</description>
+      <pubDate>Wed, 14 Oct 2026 01:42:30 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/lube8163/articles/594bea1c0f8397</guid>
       <category>Web</category>
     </item>
   </channel>

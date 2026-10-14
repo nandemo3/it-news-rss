@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 13 Oct 2026 03:25:40 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 01:42:29 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropic、自己複製AIの「兆し」を指摘　55ドルのTVボックス15台で26Bモデルが稼働</title>
-      <link>https://www.itmedia.co.jp/news/article/2610/13/2000002204/</link>
-      <description>Anthropicは、小型AIモデルがデータセンターを介さず安価な市販IoT機器上で自律的に自己複製する「重みベースの複製体」になるリスクを警告した。実験ではAndroid TVボックス上での分散推論や環境構築を確認。拡散ペースは遅いものの停止が難しいため、早期の防御策が必要と指摘した。</description>
-      <pubDate>Tue, 13 Oct 2026 03:25:40 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/13/2000002204/</guid>
+      <title>Googleの新モデル「Gemini 4 Argon」一般提供開始　使えるプラン、価格</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/</link>
+      <description>Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。</description>
+      <pubDate>Wed, 14 Oct 2026 01:42:29 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/</guid>
       <category>AI</category>
     </item>
   </channel>
