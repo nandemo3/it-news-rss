@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 01:42:30 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:18:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>画像は「言葉だけ」でどこまで送れるか――中間特徴とプロンプト再生成を比較した小規模検証</title>
-      <link>https://zenn.dev/lube8163/articles/594bea1c0f8397</link>
-      <description>2026年10月14日 · lube8163-lab · 探索的なローカル実験 画像生成モデルの中間表現を送れば、画像を小さなデータに圧縮しつつ意味を伝えられるのではないか。これを出発点として、中間特徴を量子化して送る方式と、画像を文章にして受信側で描き直す方式を検証した。 今回の写真11枚では、数…</description>
-      <pubDate>Wed, 14 Oct 2026 01:42:30 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/lube8163/articles/594bea1c0f8397</guid>
+      <title>【2026/10/8 アップデート】GuardDuty RDS Protectionのデータ流出・破壊の検出について調べた</title>
+      <link>https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity</link>
+      <description>はじめに 2026/10/8 に発表された「Amazon GuardDuty RDS Protection が Aurora および RDS データベースでのデータ流出とデータ破壊を検出可能に」について、調べたことをまとめます。 https://aws.amazon.com/about-aws/wh…</description>
+      <pubDate>Thu, 15 Oct 2026 01:18:57 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity</guid>
       <category>Web</category>
     </item>
   </channel>

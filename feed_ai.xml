@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 14 Oct 2026 01:42:29 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 01:18:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Googleの新モデル「Gemini 4 Argon」一般提供開始　使えるプラン、価格</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/</link>
-      <description>Googleは同社最先端のモデル「Gemini 4 Argon」の一般提供を開始した。Geminiアプリや検索のAIモード、Google Antigravity、APIなどで利用できる。</description>
-      <pubDate>Wed, 14 Oct 2026 01:42:29 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/14/2000002241/</guid>
+      <title>国内WebサイトへのAIエージェント攻撃を観測　「8時間弱」続いた攻撃の推移を公開　国内セキュリティベンダー</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/</link>
+      <description>ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。</description>
+      <pubDate>Thu, 15 Oct 2026 01:18:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/</guid>
       <category>AI</category>
     </item>
   </channel>
