@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:04:27 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【2026/10/8 アップデート】GuardDuty RDS Protectionのデータ流出・破壊の検出について調べた</title>
-      <link>https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity</link>
-      <description>はじめに 2026/10/8 に発表された「Amazon GuardDuty RDS Protection が Aurora および RDS データベースでのデータ流出とデータ破壊を検出可能に」について、調べたことをまとめます。 https://aws.amazon.com/about-aws/wh…</description>
-      <pubDate>Thu, 15 Oct 2026 01:18:57 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/aki42/articles/aws-20261008-guardduty-rds-data-activity</guid>
+      <title>ICFPC2026 参加記</title>
+      <link>https://zenn.dev/algoartis/articles/b5dd3c401d5dd4</link>
+      <description>ICFPCとは？ ICFPC（International Conference on Functional Programming Contest）は、国際会議 ICFP が主催するプログラミングコンテストです。毎年 7 月頃に開催されており、今年で 29 回目。前世紀から続く、非常に歴史のあるコン…</description>
+      <pubDate>Fri, 16 Oct 2026 01:04:27 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/algoartis/articles/b5dd3c401d5dd4</guid>
       <category>Web</category>
     </item>
   </channel>

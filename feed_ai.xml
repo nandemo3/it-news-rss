@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:18:57 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:04:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>国内WebサイトへのAIエージェント攻撃を観測　「8時間弱」続いた攻撃の推移を公開　国内セキュリティベンダー</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/</link>
-      <description>ビットフォレストが、日本企業のWebサイトへのAIエージェントによる攻撃を観測したと報告。10月14日までに3つのIPアドレスから確認し、うち1つは8時間弱にわたり10段階に攻撃を変化させたという。</description>
-      <pubDate>Thu, 15 Oct 2026 01:18:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/15/2000002284/</guid>
+      <title>日本に本当に勝ち筋はあるのか　ヒューマノイド「解剖」で見る中国の強さと課題</title>
+      <link>https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html</link>
+      <description>中国では現在、ヒューマノイドロボットの開発や量産、社会実装に向けた動きが加速している。しかし、完成品の動向を追うだけでは、その競争力の源泉や本格普及に向けた課題までは見えてこない。SUGENAのセミナー「フィジカルAI解体新書」では、ヒューマノイドをAIや関節、センサー、手などに“解体”し、中国勢の…</description>
+      <pubDate>Fri, 16 Oct 2026 01:04:26 GMT</pubDate>
+      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html</guid>
       <category>AI</category>
     </item>
   </channel>

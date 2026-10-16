@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 15 Oct 2026 01:19:14 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 01:04:44 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Palo Alto機器に搭載される「PAN-OS」に脆弱性 - 一部悪用を確認</title>
-      <link>https://www.security-next.com/191485</link>
-      <description>Palo Alto Networksは、同社のファイアウォール向けOS「PAN-OS」における複数の脆弱性を明らかにした。一部脆弱性は、すでに悪用が確認されている。</description>
-      <pubDate>Thu, 15 Oct 2026 01:19:14 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191485</guid>
+      <title>「Chrome」にセキュリティアップデート - 前回更新から2日</title>
+      <link>https://www.security-next.com/191540</link>
+      <description>Googleは、ウェブブラウザ「Chrome」のセキュリティアップデートを公開した。前回の更新からわずか2日で、「クリティカル（Critical）」とされる脆弱性の修正も含まれる。</description>
+      <pubDate>Fri, 16 Oct 2026 01:04:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191540</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
