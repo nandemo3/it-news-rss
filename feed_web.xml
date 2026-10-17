@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:04:27 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 01:11:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ICFPC2026 参加記</title>
-      <link>https://zenn.dev/algoartis/articles/b5dd3c401d5dd4</link>
-      <description>ICFPCとは？ ICFPC（International Conference on Functional Programming Contest）は、国際会議 ICFP が主催するプログラミングコンテストです。毎年 7 月頃に開催されており、今年で 29 回目。前世紀から続く、非常に歴史のあるコン…</description>
-      <pubDate>Fri, 16 Oct 2026 01:04:27 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/algoartis/articles/b5dd3c401d5dd4</guid>
+      <title>HTTP 402は29年「予約済み」のまま — x402をNext.jsで動かす</title>
+      <link>https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs</link>
+      <description>HTTP のステータスコードに 402 Payment Required がある。使ったことはあるか。 おそらくない。仕様に載ってから 29 年、標準としての使い方は決まらないままだ。Stripe のように決済失敗の合図として 402 を返す API はある（Stripe API のエラー一覧）。だ…</description>
+      <pubDate>Sat, 17 Oct 2026 01:11:05 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs</guid>
       <category>Web</category>
     </item>
   </channel>

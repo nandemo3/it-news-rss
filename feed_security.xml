@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:04:44 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 01:11:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome」にセキュリティアップデート - 前回更新から2日</title>
-      <link>https://www.security-next.com/191540</link>
-      <description>Googleは、ウェブブラウザ「Chrome」のセキュリティアップデートを公開した。前回の更新からわずか2日で、「クリティカル（Critical）」とされる脆弱性の修正も含まれる。</description>
-      <pubDate>Fri, 16 Oct 2026 01:04:44 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191540</guid>
+      <title>組織で相次ぐ情報流出、IPAが特別相談窓口 - 被害疑わしき段階でも相談可</title>
+      <link>https://www.security-next.com/191572</link>
+      <description>情報処理推進機構（IPA）は、サイバー攻撃に起因する情報流出の被害を受けた企業や組織を支援する「不正アクセス特別相談窓口」を開設した。被害が疑われる段階でも電話やメールで相談できる。</description>
+      <pubDate>Sat, 17 Oct 2026 01:11:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191572</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

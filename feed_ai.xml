@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 16 Oct 2026 01:04:26 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2026 01:11:05 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>日本に本当に勝ち筋はあるのか　ヒューマノイド「解剖」で見る中国の強さと課題</title>
-      <link>https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html</link>
-      <description>中国では現在、ヒューマノイドロボットの開発や量産、社会実装に向けた動きが加速している。しかし、完成品の動向を追うだけでは、その競争力の源泉や本格普及に向けた課題までは見えてこない。SUGENAのセミナー「フィジカルAI解体新書」では、ヒューマノイドをAIや関節、センサー、手などに“解体”し、中国勢の…</description>
-      <pubDate>Fri, 16 Oct 2026 01:04:26 GMT</pubDate>
-      <guid isPermaLink="true">https://monoist.itmedia.co.jp/mn/articles/2610/16/news017.html</guid>
+      <title>不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html</link>
+      <description>不正アクセスが相次ぐ中、日本企業が講じるべき対策とは。人間が数日から数週間かけていた攻撃の作業が、AIやエージェントの悪用によって、条件によっては数分に短縮される可能性がある中で、Gartnerが早急な実施を推奨する「7つのアクション」を紹介する。</description>
+      <pubDate>Sat, 17 Oct 2026 01:11:05 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html</guid>
       <category>AI</category>
     </item>
   </channel>
