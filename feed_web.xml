@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 01:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:45:28 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>HTTP 402は29年「予約済み」のまま — x402をNext.jsで動かす</title>
-      <link>https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs</link>
-      <description>HTTP のステータスコードに 402 Payment Required がある。使ったことはあるか。 おそらくない。仕様に載ってから 29 年、標準としての使い方は決まらないままだ。Stripe のように決済失敗の合図として 402 を返す API はある（Stripe API のエラー一覧）。だ…</description>
-      <pubDate>Sat, 17 Oct 2026 01:11:05 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/suzuki_tech/articles/x402-01-http-402-nextjs</guid>
+      <title>論文サマリ「随意運動の制御と学習のための階層的ニューラルネットワークモデル」川人ら</title>
+      <link>https://zenn.dev/zhidao/articles/63db6db6abe9c4</link>
+      <description>Mitsuo Kawato, Kazunori Furukawa, and Ryoji Suzuki, A Hierarchical Neural-Network Model for Control and Learning fo Voluntary Movement, Biologydal Cyb…</description>
+      <pubDate>Sun, 18 Oct 2026 00:45:28 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/zhidao/articles/63db6db6abe9c4</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 17 Oct 2026 01:11:05 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 18 Oct 2026 00:45:28 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>不正アクセス多発、Gartnerが日本企業に「7つのアクション」を緊急提言</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html</link>
-      <description>不正アクセスが相次ぐ中、日本企業が講じるべき対策とは。人間が数日から数週間かけていた攻撃の作業が、AIやエージェントの悪用によって、条件によっては数分に短縮される可能性がある中で、Gartnerが早急な実施を推奨する「7つのアクション」を紹介する。</description>
-      <pubDate>Sat, 17 Oct 2026 01:11:05 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/16/news048.html</guid>
+      <title>「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html</link>
+      <description>AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。</description>
+      <pubDate>Sun, 18 Oct 2026 00:45:28 GMT</pubDate>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html</guid>
       <category>AI</category>
     </item>
   </channel>
