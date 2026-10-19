@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:45:46 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:59:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>組織で相次ぐ情報流出、IPAが特別相談窓口 - 被害疑わしき段階でも相談可</title>
-      <link>https://www.security-next.com/191572</link>
-      <description>情報処理推進機構（IPA）は、サイバー攻撃に起因する情報流出の被害を受けた企業や組織を支援する「不正アクセス特別相談窓口」を開設した。被害が疑われる段階でも電話やメールで相談できる。</description>
-      <pubDate>Sun, 18 Oct 2026 00:45:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191572</guid>
+      <title>【特別企画】メッセージングセキュリティの最新動向がテーマ - JPAAWGが年次イベント</title>
+      <link>https://www.security-next.com/191246</link>
+      <description>2026年前半以降、予想を超えるAIの進化によってメールやメッセージングを取り巻くセキュリティ環境も目まぐるしく変化している。悪質化する攻撃に対し、グローバルではどのような対応が進められているのだろうか。</description>
+      <pubDate>Mon, 19 Oct 2026 00:59:04 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191246</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:58:47 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「11回止めたのに本番DBが消えた」　AIエージェント“6つの暴走”と、人間の承認を増やしても防げない理由</title>
-      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html</link>
-      <description>AIコーディングエージェントの自律性が高まる一方、本番データベースの削除といった事故も起こっています。では、「人間の承認」を増やせば事故は防げるのでしょうか。事例と対策から、事故を起こさないAIエージェントの設計について考えます。</description>
-      <pubDate>Sun, 18 Oct 2026 00:45:28 GMT</pubDate>
-      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2610/18/news004.html</guid>
+      <title>Anthropic、社内でAIエージェントの稼働時間が人間の6倍に　技術系初級職の採用比率は27％→9％に激減</title>
+      <link>https://www.itmedia.co.jp/news/article/2610/19/2000002353/</link>
+      <description>Anthropicは、社内雇用の変化と一般市民とのAI予測格差に関する調査を公開した。AnthropicではAI稼働時間が人間を上回り、技術系初級職の採用比率が急減した。自身の業務の自動化予測は、Anthropic従業員の75％に対し、米労働者は28％と大きな開きが出たが、自動化と失業率上昇を結びつ…</description>
+      <pubDate>Mon, 19 Oct 2026 00:58:47 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2610/19/2000002353/</guid>
       <category>AI</category>
     </item>
   </channel>

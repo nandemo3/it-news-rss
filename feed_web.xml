@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 18 Oct 2026 00:45:28 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 00:58:47 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>論文サマリ「随意運動の制御と学習のための階層的ニューラルネットワークモデル」川人ら</title>
-      <link>https://zenn.dev/zhidao/articles/63db6db6abe9c4</link>
-      <description>Mitsuo Kawato, Kazunori Furukawa, and Ryoji Suzuki, A Hierarchical Neural-Network Model for Control and Learning fo Voluntary Movement, Biologydal Cyb…</description>
-      <pubDate>Sun, 18 Oct 2026 00:45:28 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/zhidao/articles/63db6db6abe9c4</guid>
+      <title>インライン編集UIを拡張性が高い形で実装した</title>
+      <link>https://zenn.dev/numa_san/articles/50b847c58f0854</link>
+      <description>始めに 編集を気軽に行えるように、対象のフィールドのみ編集ボタンを押すことでその場で編集状態になって編集ができる、いわゆるインライン編集と呼ばれるものがあります。 具体的には以下のようなGifアニメのようなもので、編集アイコンを押してテキストフィールドが出て、入力後保存を押すことで編集結果が表示され…</description>
+      <pubDate>Mon, 19 Oct 2026 00:58:47 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/numa_san/articles/50b847c58f0854</guid>
       <category>Web</category>
     </item>
   </channel>
