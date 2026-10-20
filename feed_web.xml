@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 19 Oct 2026 00:58:47 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 01:39:06 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>インライン編集UIを拡張性が高い形で実装した</title>
-      <link>https://zenn.dev/numa_san/articles/50b847c58f0854</link>
-      <description>始めに 編集を気軽に行えるように、対象のフィールドのみ編集ボタンを押すことでその場で編集状態になって編集ができる、いわゆるインライン編集と呼ばれるものがあります。 具体的には以下のようなGifアニメのようなもので、編集アイコンを押してテキストフィールドが出て、入力後保存を押すことで編集結果が表示され…</description>
-      <pubDate>Mon, 19 Oct 2026 00:58:47 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/numa_san/articles/50b847c58f0854</guid>
+      <title>対象が広い事業・プロダクトが刺さる気がしない</title>
+      <link>https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one</link>
+      <description>対象が広いと、課題が「なんとなく困っている」レベルのまま止まってしまい、効果的な解決策にたどり着けないからだと考えています。逆に言えば、具体的なペルソナとは、課題を深掘りした先にいる人の姿なのだと思います。 きっかけ 先日、友人と事業の方向性について話していました。もともとは、ある習い事を始めた初心…</description>
+      <pubDate>Tue, 20 Oct 2026 01:39:06 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one</guid>
       <category>Web</category>
     </item>
   </channel>
