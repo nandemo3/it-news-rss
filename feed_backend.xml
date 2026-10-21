@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:39:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:24:52 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Vercelがエージェント向けの永続ストレージを提供、ファイルの引継ぎが可能に</title>
-      <link>https://codezine.jp/article/detail/30061</link>
+      <title>GitHub Copilot、GPT-5.5など6モデルを非推奨に</title>
+      <link>https://codezine.jp/article/detail/30074</link>
       <description></description>
-      <pubDate>Tue, 20 Oct 2026 01:39:22 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30061</guid>
+      <pubDate>Wed, 21 Oct 2026 01:24:52 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30074</guid>
       <category>バックエンド</category>
     </item>
   </channel>

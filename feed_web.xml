@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:24:36 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>対象が広い事業・プロダクトが刺さる気がしない</title>
-      <link>https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one</link>
-      <description>対象が広いと、課題が「なんとなく困っている」レベルのまま止まってしまい、効果的な解決策にたどり着けないからだと考えています。逆に言えば、具体的なペルソナとは、課題を深掘りした先にいる人の姿なのだと思います。 きっかけ 先日、友人と事業の方向性について話していました。もともとは、ある習い事を始めた初心…</description>
-      <pubDate>Tue, 20 Oct 2026 01:39:06 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/fusa_bp/articles/broad-target-reaches-no-one</guid>
+      <title>LINEに送った写真と音声メモを、自宅のPCが文字にしてくれるようにした</title>
+      <link>https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture</link>
+      <description>会議のホワイトボードを写真に撮る。帰り道に「来週までに見積り」と声で残す。ここまでは誰でもやっています。問題はそのあとで、撮った写真も録った声も、二度と開かない。私のスマホには、読み返されたことのない音声メモが何十本も眠っています。 そこで、LINEに写真か音声を送るだけで、自宅のPCが文字に起こし…</description>
+      <pubDate>Wed, 21 Oct 2026 01:24:36 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/hilopon/articles/line-local-ai-photo-voice-capture</guid>
       <category>Web</category>
     </item>
   </channel>

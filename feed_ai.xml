@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 20 Oct 2026 01:39:06 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 01:24:35 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Grok BotがiPhoneのアクションボタンに対応　音声会話などを起動可能</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2610/20/2000002411/</link>
-      <description>常時稼働エージェントツール「Grok Bot」がiPhoneのアクションボタンに対応。「15 Pro」以降のiPhoneでGrok Botのバージョンを「1.16」にアップデートすると割り当てられるようになる。</description>
-      <pubDate>Tue, 20 Oct 2026 01:39:06 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/20/2000002411/</guid>
+      <title>「AI活用でIT部門の人員が増える」は本当か？　人材構成の「二重の変化」をGartnerが解説</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/21/news030.html</link>
+      <description>AIを使えばIT部門の人員は減る――。多くのリーダーがそう想定する中、Gartnerの調査では回答者の40％が2027年にIT部門の人員を増やすと見込んだ。AIで成果を上げるCIOが見据える、人材構成の二重の変化とは。</description>
+      <pubDate>Wed, 21 Oct 2026 01:24:35 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/21/news030.html</guid>
       <category>AI</category>
     </item>
   </channel>
