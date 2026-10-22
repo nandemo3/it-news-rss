@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:24:35 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:22:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「AI活用でIT部門の人員が増える」は本当か？　人材構成の「二重の変化」をGartnerが解説</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2610/21/news030.html</link>
-      <description>AIを使えばIT部門の人員は減る――。多くのリーダーがそう想定する中、Gartnerの調査では回答者の40％が2027年にIT部門の人員を増やすと見込んだ。AIで成果を上げるCIOが見据える、人材構成の二重の変化とは。</description>
-      <pubDate>Wed, 21 Oct 2026 01:24:35 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/21/news030.html</guid>
+      <title>Google Cloudに「Astra」含むOpenAIのモデルが追加　「主要3社のクローズドモデル使える唯一のハイパースケーラー」に</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/</link>
+      <description>Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。</description>
+      <pubDate>Thu, 22 Oct 2026 01:22:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/</guid>
       <category>AI</category>
     </item>
   </channel>

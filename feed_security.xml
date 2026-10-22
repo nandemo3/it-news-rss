@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:24:53 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:23:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Chrome 156」公開、脆弱性353件を修正 - 「クリティカル」6件</title>
-      <link>https://www.security-next.com/191702</link>
-      <description>Googleは、ウェブブラウザ「Chrome」の最新版となる「Chrome 156」をリリースした。多数の脆弱性に対処しており、重要度がもっとも高い「クリティカル（Critical）」とされる脆弱性も6件含まれる。</description>
-      <pubDate>Wed, 21 Oct 2026 01:24:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191702</guid>
+      <title>Microsoftが社内AIエージェントを「内部脅威」と呼ぶ理由は？　「3つの封じ込め策」とともに紹介</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/21/news070.html</link>
+      <description>「フロンティアモデルは提供元にかかわらず信用できない」――Microsoftのセキュリティ責任者はこう断じる。攻撃者によるAIの悪用に注目が集まる一方、自社で展開したAIエージェントは暗黙のうちに信用されがちだ。Microsoftがこうしたエージェントを過剰な権限を持つ「内部脅威」と位置付ける理由と…</description>
+      <pubDate>Thu, 22 Oct 2026 01:23:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/21/news070.html</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 21 Oct 2026 01:24:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 01:22:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilot、GPT-5.5など6モデルを非推奨に</title>
-      <link>https://codezine.jp/article/detail/30074</link>
+      <title>Amazon RDS Proxy、SQL Server 2022のサポートを開始</title>
+      <link>https://codezine.jp/article/detail/30090</link>
       <description></description>
-      <pubDate>Wed, 21 Oct 2026 01:24:52 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30074</guid>
+      <pubDate>Thu, 22 Oct 2026 01:22:42 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30090</guid>
       <category>バックエンド</category>
     </item>
   </channel>
