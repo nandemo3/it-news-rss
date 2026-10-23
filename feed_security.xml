@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:23:00 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:21:14 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Microsoftが社内AIエージェントを「内部脅威」と呼ぶ理由は？　「3つの封じ込め策」とともに紹介</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2610/21/news070.html</link>
-      <description>「フロンティアモデルは提供元にかかわらず信用できない」――Microsoftのセキュリティ責任者はこう断じる。攻撃者によるAIの悪用に注目が集まる一方、自社で展開したAIエージェントは暗黙のうちに信用されがちだ。Microsoftがこうしたエージェントを過剰な権限を持つ「内部脅威」と位置付ける理由と…</description>
-      <pubDate>Thu, 22 Oct 2026 01:23:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/21/news070.html</guid>
+      <title>HPEの無線LAN向けOSに多数の脆弱性 - クリティカルが33件</title>
+      <link>https://www.security-next.com/191821</link>
+      <description>Hewlett Packard Enterprise（HPE）は、無線LAN関連機器向けOS「AOS-10」「AOS-8」に関する複数の脆弱性を明らかにした。</description>
+      <pubDate>Fri, 23 Oct 2026 01:21:14 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191821</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

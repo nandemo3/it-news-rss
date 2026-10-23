@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:20:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Cloudに「Astra」含むOpenAIのモデルが追加　「主要3社のクローズドモデル使える唯一のハイパースケーラー」に</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/</link>
-      <description>Google CloudのModel GardenにOpenAIの「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」が追加された。</description>
-      <pubDate>Thu, 22 Oct 2026 01:22:26 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/22/2000002487/</guid>
+      <title>なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html</link>
+      <description>生成AIが東大の入試問題で合格者最高点を上回った今、その能力はサイバー攻撃でも威力を発揮している。攻撃からシステムを守り切れない前提に立つとき、その被害を最小化するためにどうすべきか。</description>
+      <pubDate>Fri, 23 Oct 2026 01:20:57 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html</guid>
       <category>AI</category>
     </item>
   </channel>

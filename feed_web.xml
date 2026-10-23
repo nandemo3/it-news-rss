@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 22 Oct 2026 01:22:26 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 01:20:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話</title>
-      <link>https://zenn.dev/56drich/articles/f52bd4a1dae988</link>
-      <description>「PHPのドカ脆弱性」=「今すぐDynmap止めろ」ではなかった話 1. はじめに 2026/10/21、PHPに関してCVSS v4.0で9.2の重大な脆弱性（CVE-2026-109618・CVE-2026-109619）が2件出たと大騒ぎになった。日本時間21日23時に修正版（8.5.12 /…</description>
-      <pubDate>Thu, 22 Oct 2026 01:22:26 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/56drich/articles/f52bd4a1dae988</guid>
+      <title>Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した</title>
+      <link>https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</link>
+      <description>! 受託案件を含むため、リポジトリ名・プロジェクト名・チーム名・URL は伏せています。数字は、実際に数えた値と測った値です。 2026年10月21日に Node.js のセキュリティリリースが出ました。修正は10件で、Brotli デコーダの範囲外書き込み（CVE-2026-111497、RCE …</description>
+      <pubDate>Fri, 23 Oct 2026 01:20:57 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</guid>
       <category>Web</category>
     </item>
   </channel>
