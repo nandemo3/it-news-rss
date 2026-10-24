@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:25:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>なぜ、重要システムは“分割”すべきなのか？　AI攻撃から守り切れない時代、IT部門が考えるべき「備え」とは</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html</link>
-      <description>生成AIが東大の入試問題で合格者最高点を上回った今、その能力はサイバー攻撃でも威力を発揮している。攻撃からシステムを守り切れない前提に立つとき、その被害を最小化するためにどうすべきか。</description>
-      <pubDate>Fri, 23 Oct 2026 01:20:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/23/news010.html</guid>
+      <title>「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点</title>
+      <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</link>
+      <description>Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。</description>
+      <pubDate>Sat, 24 Oct 2026 01:25:53 GMT</pubDate>
+      <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</guid>
       <category>AI</category>
     </item>
   </channel>

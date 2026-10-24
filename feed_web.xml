@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:20:57 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:25:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Node.jsの2026年10月セキュリティリリースに、手元の50リポジトリとVercel・Cloud Runで対応した</title>
-      <link>https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</link>
-      <description>! 受託案件を含むため、リポジトリ名・プロジェクト名・チーム名・URL は伏せています。数字は、実際に数えた値と測った値です。 2026年10月21日に Node.js のセキュリティリリースが出ました。修正は10件で、Brotli デコーダの範囲外書き込み（CVE-2026-111497、RCE …</description>
-      <pubDate>Fri, 23 Oct 2026 01:20:57 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/yoshinani_dev/articles/0e6513a56eb629</guid>
+      <title>「分担を見直したい」では動かなかった。チーム間の議論を変えた1枚の図</title>
+      <link>https://zenn.dev/shun0530/articles/32946ce85a536d</link>
+      <description>要件は書ける。でも「実現できるか」は自分たちでは判断できない 他チームとの受け渡しで、案件が止まっている。それは分かっている。会議で「分担を見直したい」と言うと、いつも「でも現実的には難しいよね」で終わる。 私も、同じところにいました。取り込んだデータを加工して集計指標にする側のチームのマネージャー…</description>
+      <pubDate>Sat, 24 Oct 2026 01:25:53 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/shun0530/articles/32946ce85a536d</guid>
       <category>Web</category>
     </item>
   </channel>

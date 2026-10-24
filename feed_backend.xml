@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 23 Oct 2026 01:21:13 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 24 Oct 2026 01:26:09 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>dotsの特徴は「委任可能な射程の長さ」──OpenAI CTOが語るChatGPTの進化</title>
-      <link>https://codezine.jp/article/detail/30082</link>
-      <description>OpenAIが東京で開いた開発者向けイベント「DevDay Exchange Tokyo」。複数の講演を貫くテーマとなったのは、エージェントをどう働かせ続けるかという問いだった。OpenAIが現時点で示す答えは、常時稼働するエージェント「dots」と、人とエージェントが同じページで働く「ChatGP…</description>
-      <pubDate>Fri, 23 Oct 2026 01:21:13 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30082</guid>
+      <title>GitHub Copilo、Visual Studio向けの9月アップデートまとめ</title>
+      <link>https://codezine.jp/article/detail/30122</link>
+      <description></description>
+      <pubDate>Sat, 24 Oct 2026 01:26:09 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30122</guid>
       <category>バックエンド</category>
     </item>
   </channel>
