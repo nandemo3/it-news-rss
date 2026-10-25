@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:26:09 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:55:56 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub Copilo、Visual Studio向けの9月アップデートまとめ</title>
-      <link>https://codezine.jp/article/detail/30122</link>
+      <title>Chrome 155/156のDevTools新機能を公開、エージェント向けのCSSスタイル検査など</title>
+      <link>https://codezine.jp/article/detail/30124</link>
       <description></description>
-      <pubDate>Sat, 24 Oct 2026 01:26:09 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30122</guid>
+      <pubDate>Sun, 25 Oct 2026 00:55:56 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30124</guid>
       <category>バックエンド</category>
     </item>
   </channel>

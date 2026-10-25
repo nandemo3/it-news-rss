@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 24 Oct 2026 01:25:53 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 00:55:39 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点</title>
       <link>https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</link>
       <description>Gartnerは、FDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の7割が放棄するとの予測を発表した。どういうことか。</description>
-      <pubDate>Sat, 24 Oct 2026 01:25:53 GMT</pubDate>
+      <pubDate>Sun, 25 Oct 2026 00:55:39 GMT</pubDate>
       <guid isPermaLink="true">https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</guid>
       <category>AI</category>
     </item>
