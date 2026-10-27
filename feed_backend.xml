@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:03:52 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:55:32 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS、コード脆弱性を検証し修正PRを作成する「AWS Continuum」を一般提供</title>
-      <link>https://codezine.jp/article/detail/30129</link>
-      <description></description>
-      <pubDate>Mon, 26 Oct 2026 01:03:52 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30129</guid>
+      <title>「やらないこと」はどう決めるのか──射幸心を煽らない、作り込まない、デザイナーだけでデザインしない【Newbee Conf】</title>
+      <link>https://codezine.jp/article/detail/29956</link>
+      <description>「言葉尻を捉えるようで申し訳ないのですが、プロダクトを作ることは簡単になっていないと思います」。プロダクトを作るのが簡単になった今、何で差別化すればよいのか──そう尋ねた馬瓜エブリン氏に、及川卓也氏はまず前提を正した。2026年9月9日に開かれた「Newbee Conference 2026」は、答…</description>
+      <pubDate>Tue, 27 Oct 2026 01:55:32 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29956</guid>
       <category>バックエンド</category>
     </item>
   </channel>

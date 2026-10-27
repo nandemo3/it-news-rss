@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:03:53 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:55:33 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ネットワーク統合管理製品「Arista VCO」に深刻な脆弱性 - すでに悪用も</title>
-      <link>https://www.security-next.com/191919</link>
-      <description>SD-WAN環境向けネットワーク統合管理製品「VeloCloud Orchestrator（VCO）」に深刻な脆弱性が判明した。すでに悪用されていることが確認されており、注意が必要だ。</description>
-      <pubDate>Mon, 26 Oct 2026 01:03:53 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/191919</guid>
+      <title>脆弱性「PHP2Shell」の悪用を確認 - 米当局が注意喚起</title>
+      <link>https://www.security-next.com/191976</link>
+      <description>プログラミング言語「PHP」で判明した脆弱性「PHP2Shell」について、実際に悪用されていることが確認されているとし、米当局は注意を呼びかけた。</description>
+      <pubDate>Tue, 27 Oct 2026 01:55:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/191976</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

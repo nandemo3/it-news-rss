@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 26 Oct 2026 01:03:37 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 27 Oct 2026 01:55:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>PHPを更新するつもりが環境移行に【後編】WordPress移行の問題とSlackアプリの実装</title>
-      <link>https://zenn.dev/hotaka_noda/articles/74a3b28185af5c</link>
-      <description>はじめに PHPの脆弱性対応をきっかけに、Lightsail上のBitnami版WordPressからLightsail提供版へ移行しました。移行に合わせてCloudFrontとWAFを導入し、キャッシュ削除をSlackから実行できるようにしています。 前編で説明した構成へ移す際には、固定ページが4…</description>
-      <pubDate>Mon, 26 Oct 2026 01:03:37 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/hotaka_noda/articles/74a3b28185af5c</guid>
+      <title>昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】</title>
+      <link>https://zenn.dev/microsoft/articles/112ff28ccc30e3</link>
+      <description>以前、AI-300の受験記とAI-103の受験記を書きました。 https://zenn.dev/microsoft/articles/9af0e38b6ae763 https://zenn.dev/microsoft/articles/b8014fa8da044d 今回はクラウドとAIのセキュリテ…</description>
+      <pubDate>Tue, 27 Oct 2026 01:55:16 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/112ff28ccc30e3</guid>
       <category>Web</category>
     </item>
   </channel>
