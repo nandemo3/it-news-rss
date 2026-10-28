@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:55:32 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:04:56 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「やらないこと」はどう決めるのか──射幸心を煽らない、作り込まない、デザイナーだけでデザインしない【Newbee Conf】</title>
-      <link>https://codezine.jp/article/detail/29956</link>
-      <description>「言葉尻を捉えるようで申し訳ないのですが、プロダクトを作ることは簡単になっていないと思います」。プロダクトを作るのが簡単になった今、何で差別化すればよいのか──そう尋ねた馬瓜エブリン氏に、及川卓也氏はまず前提を正した。2026年9月9日に開かれた「Newbee Conference 2026」は、答…</description>
-      <pubDate>Tue, 27 Oct 2026 01:55:32 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29956</guid>
+      <title>トークンは福利厚生か人件費か──全員に配る会社、成果で渡す会社、5社のリーダーの線引き【Newbee Conf】</title>
+      <link>https://codezine.jp/article/detail/29957</link>
+      <description>「AIに関する情報が、最近コモディティ化してきたように感じています」。9月9日に初開催された「Newbee Conference 2026」の最終セッションで、SmartHRの芹澤雅人氏はこう切り出した。ところが同じ日、立場の違う登壇者たちが職種を越えてそろって口にした悩みがある。社員に配るAIのト…</description>
+      <pubDate>Wed, 28 Oct 2026 02:04:56 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/29957</guid>
       <category>バックエンド</category>
     </item>
   </channel>

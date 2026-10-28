@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:04:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>大企業はAIコストを管理できていない　サイボウズ調査で浮かび上がった「3割の壁」</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html</link>
-      <description>サイボウズの調査によると、今後3年間でAI投資を増やす大企業が7割に上る一方で、AIコストを全社で把握できている企業は3割に届かないという。“AIコスト激増時代”における実態に迫る。</description>
-      <pubDate>Tue, 27 Oct 2026 01:55:16 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2610/26/news032.html</guid>
+      <title>PFNの国産フラッグシップモデル「PLaMo 3.1 Prime」発表　オンプレでDeep Research対応　API無料プランも開始</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/</link>
+      <description>Preferred Networksが国産の生成AI基盤モデル「PLaMo 3.1 Prime」を提供開始。オンプレミスでも使える「Deep Research」を搭載し、ハルシネーションも抑えたという。API無料プランで試せる。</description>
+      <pubDate>Wed, 28 Oct 2026 02:04:40 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2610/28/2000002652/</guid>
       <category>AI</category>
     </item>
   </channel>

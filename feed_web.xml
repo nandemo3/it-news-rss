@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 27 Oct 2026 01:55:16 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 02:04:40 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>昨今のセキュリティ情勢を踏まえて、Azure のセキュリティ系新資格 SC-500 を受けてみた【合格体験記】</title>
-      <link>https://zenn.dev/microsoft/articles/112ff28ccc30e3</link>
-      <description>以前、AI-300の受験記とAI-103の受験記を書きました。 https://zenn.dev/microsoft/articles/9af0e38b6ae763 https://zenn.dev/microsoft/articles/b8014fa8da044d 今回はクラウドとAIのセキュリテ…</description>
-      <pubDate>Tue, 27 Oct 2026 01:55:16 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/microsoft/articles/112ff28ccc30e3</guid>
+      <title>コードを読まずにマージするために必要なこと</title>
+      <link>https://zenn.dev/nrs/articles/c777388530aa84</link>
+      <description>AI に実装を任せると PR が次々にできあがります。 その差分を開発者がひとつずつ読み、指摘を返して修正を待ち、修正後のコードをまた読む。 実装が速くなった分だけレビュー待ちの PR がたまっていきます。 人がコードを読まずに PR をマージする「no look merge」を実現するには何が必要…</description>
+      <pubDate>Wed, 28 Oct 2026 02:04:40 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nrs/articles/c777388530aa84</guid>
       <category>Web</category>
     </item>
   </channel>
