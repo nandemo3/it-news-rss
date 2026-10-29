@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 28 Oct 2026 02:04:57 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 29 Oct 2026 02:14:36 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Brotli」や「Adobe Commerce」「Magento」の脆弱性悪用を確認 - 米当局が注意喚起</title>
-      <link>https://www.security-next.com/192044</link>
-      <description>Googleのデータ圧縮ライブラリ「Brotli」に関する脆弱性やAdobeが提供するeコマースサイト関連製品「Adobe Commerce」「Magento」の脆弱性が悪用されている。米当局が注意を呼びかけた。</description>
-      <pubDate>Wed, 28 Oct 2026 02:04:57 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192044</guid>
+      <title>「Sophos UTM」に深刻なRCE脆弱性 - EOLで手動パッチ必要</title>
+      <link>https://www.security-next.com/192142</link>
+      <description>Sophosのセキュリティゲートウェイ製品「Sophos UTM」に深刻な脆弱性が判明した。同製品のサポートはすでに終了しているが、同社では修正パッチを用意しており、急いで適用するよう求めている。</description>
+      <pubDate>Thu, 29 Oct 2026 02:14:36 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192142</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
