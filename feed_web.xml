@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:14:19 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 02:28:04 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと</title>
-      <link>https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</link>
-      <description>2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリティへの関心も高まっています。でも、セキュリティに関わる人は…</description>
-      <pubDate>Thu, 29 Oct 2026 02:14:19 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</guid>
+      <title>元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年</title>
+      <link>https://zenn.dev/dress_code/articles/bbc5159fefbd2c</link>
+      <description>はじめに こんにちは、プロダクトエンジニアをしているもず（@mozu1206）です。 2025年10月に Dress Codeに入社して、1年が経ちました。 せっかくなので、この1年を振り返った記事を書いてみます！ 入社3ヶ月のときに、フロントエンド専任からプロダクトエンジニアになって「強制成長」し…</description>
+      <pubDate>Fri, 30 Oct 2026 02:28:04 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/bbc5159fefbd2c</guid>
       <category>Web</category>
     </item>
   </channel>

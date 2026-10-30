@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 29 Oct 2026 02:14:35 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 02:28:20 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>作るものが変わっても、構造は変わらない──人とAIの共通言語としてのOOUX</title>
-      <link>https://codezine.jp/article/detail/30033</link>
-      <description>「AIは、あなたのあいまいさも速くする」──そう題して始まった本連載も、今回が最終回です。前回までは、オブジェクトを見つけ、関係性・アクション・属性から構造を具体化する方法を紹介してきました。では、描いた構造は実際の開発でどう使えばよいのでしょうか。ORCAの16ステップを状況に合わせて選ぶ考え方、…</description>
-      <pubDate>Thu, 29 Oct 2026 02:14:35 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30033</guid>
+      <title>GitHub、Issueに成果物を添付する「Issue artifacts」をプレビュー公開</title>
+      <link>https://codezine.jp/article/detail/30174</link>
+      <description></description>
+      <pubDate>Fri, 30 Oct 2026 02:28:20 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30174</guid>
       <category>バックエンド</category>
     </item>
   </channel>
