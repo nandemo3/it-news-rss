@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 30 Oct 2026 02:28:04 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2026 02:09:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>元フロントエンドエンジニアがプロダクトエンジニアとして強制成長した1年</title>
-      <link>https://zenn.dev/dress_code/articles/bbc5159fefbd2c</link>
-      <description>はじめに こんにちは、プロダクトエンジニアをしているもず（@mozu1206）です。 2025年10月に Dress Codeに入社して、1年が経ちました。 せっかくなので、この1年を振り返った記事を書いてみます！ 入社3ヶ月のときに、フロントエンド専任からプロダクトエンジニアになって「強制成長」し…</description>
-      <pubDate>Fri, 30 Oct 2026 02:28:04 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/bbc5159fefbd2c</guid>
+      <title>今後のセキュリティの考え方</title>
+      <link>https://zenn.dev/cscloud_blog/articles/a987163efae5d8</link>
+      <description>どうもサイバーセキュリティクラウド 脅威インテリジェンスグループの西川です。 本日のウェビナー（【緊急開催セミナー】重大脆弱性を狙うサイバー攻撃への備え ～パッチ適用までのリスクを低減する「仮想パッチ」とは～）にお越しくださった皆様ありがとうございます。 当日は時間の関係でお伝えしきれなかった、今後…</description>
+      <pubDate>Sat, 31 Oct 2026 02:09:57 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/cscloud_blog/articles/a987163efae5d8</guid>
       <category>Web</category>
     </item>
   </channel>
