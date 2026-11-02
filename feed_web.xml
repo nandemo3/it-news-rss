@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 01 Nov 2026 01:59:59 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 02:13:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）</title>
-      <link>https://zenn.dev/kauche/articles/f3736c660aab77</link>
-      <description>この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026 に参加しました。最終スコアは 207…</description>
-      <pubDate>Sun, 01 Nov 2026 01:59:59 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/kauche/articles/f3736c660aab77</guid>
+      <title>ISUCON 2026 Writeup / チーム nicklegr</title>
+      <link>https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3</link>
+      <description>ISUCON2026 に参加しました。初参加です。 暫定結果は19890点で497位でした。 プロの方のブログが多数出てるので高度な話を読みたい方はそちらをどうぞ。 初心者の立場の記事もあるといいかなと思って書いてみます。 筆者のスキル VPSや自宅サーバをSSHでいじったことはある でもほぼDoc…</description>
+      <pubDate>Mon, 02 Nov 2026 02:13:58 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3</guid>
       <category>Web</category>
     </item>
   </channel>
