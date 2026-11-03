@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:14:14 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:52:41 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「Ivanti Connect Secure」の脆弱性悪用で注意喚起 - 米当局</title>
       <link>https://www.security-next.com/192266</link>
       <description>Ivantiのリモートアクセス製品「Ivanti Connect Secure（ICS）」に存在する2件の脆弱性に関し、悪用が確認されたことを受けて米当局が注意喚起を行った。3件の脆弱性を組み合わせた攻撃も確認されている。</description>
-      <pubDate>Mon, 02 Nov 2026 02:14:14 GMT</pubDate>
+      <pubDate>Tue, 03 Nov 2026 03:52:41 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/192266</guid>
       <category>セキュリティ</category>
     </item>

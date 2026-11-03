@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 02 Nov 2026 02:13:58 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 03:52:25 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ISUCON 2026 Writeup / チーム nicklegr</title>
-      <link>https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3</link>
-      <description>ISUCON2026 に参加しました。初参加です。 暫定結果は19890点で497位でした。 プロの方のブログが多数出てるので高度な話を読みたい方はそちらをどうぞ。 初心者の立場の記事もあるといいかなと思って書いてみます。 筆者のスキル VPSや自宅サーバをSSHでいじったことはある でもほぼDoc…</description>
-      <pubDate>Mon, 02 Nov 2026 02:13:58 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nicklegr/articles/de0a6fd86b6ce3</guid>
+      <title>ISUCON2026 で優勝しました（当日編）</title>
+      <link>https://zenn.dev/luvtechno/articles/isucon2026-competition-day</link>
+      <description>はじめに こんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。 ISUCON2026 にチーム…</description>
+      <pubDate>Tue, 03 Nov 2026 03:52:25 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/luvtechno/articles/isucon2026-competition-day</guid>
       <category>Web</category>
     </item>
   </channel>
