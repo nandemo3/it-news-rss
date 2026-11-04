@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Nov 2026 03:52:41 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:57:27 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Cursorの拡張機能マーケットプレイスで悪意あるClaude Code拡張機能を確認</title>
-      <link>https://codezine.jp/article/detail/30201</link>
+      <title>Google Cloud、金融・法務向けGemini活用の無料動画講座をGoogle Skillsで公開</title>
+      <link>https://codezine.jp/article/detail/30211</link>
       <description></description>
-      <pubDate>Tue, 03 Nov 2026 03:52:41 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30201</guid>
+      <pubDate>Wed, 04 Nov 2026 02:57:27 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30211</guid>
       <category>バックエンド</category>
     </item>
   </channel>

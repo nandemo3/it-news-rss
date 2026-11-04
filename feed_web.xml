@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 03 Nov 2026 03:52:25 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 02:57:10 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ISUCON2026 で優勝しました（当日編）</title>
-      <link>https://zenn.dev/luvtechno/articles/isucon2026-competition-day</link>
-      <description>はじめに こんにちは！ @kawasy です。普段は Typing Bears という人間1人の会社で個人開発・研究をしながら、スタートアップを中心に経営課題の解決を支援しています。活動の主なテーマは、ソフトウェアプロダクト開発企業に必要なCTO機能の提供と育成です。 ISUCON2026 にチーム…</description>
-      <pubDate>Tue, 03 Nov 2026 03:52:25 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/luvtechno/articles/isucon2026-competition-day</guid>
+      <title>Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ</title>
+      <link>https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode</link>
+      <description>5年ほど前に組んだデスクトップがある。当時、GPUにはすでに型落ちだったRadeon VIIを5万円くらいで入手して載せた。Stable Diffusionで遊んでいた時期もあったが、飽きてからはすっかり出番がなくなっていた。 最近はローカルLLMが盛り上がっている。とはいえ、パソコンもGPUもクソ…</description>
+      <pubDate>Wed, 04 Nov 2026 02:57:10 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode</guid>
       <category>Web</category>
     </item>
   </channel>
