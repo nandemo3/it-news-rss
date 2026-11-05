@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:57:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:20:17 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「WordPress」更新機能のRCE脆弱性 - 悪用に米当局が注意喚起</title>
-      <link>https://www.security-next.com/192310</link>
-      <description>コンテンツマネジメントシステムである「WordPress」の脆弱性が、実際の攻撃に悪用されていることがわかった。米当局が注意を呼びかけている。</description>
-      <pubDate>Wed, 04 Nov 2026 02:57:27 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192310</guid>
+      <title>「Ruby on Rails」にアップデート - 脆弱性21件を修正</title>
+      <link>https://www.security-next.com/192381</link>
+      <description>ウェブアプリケーションフレームワーク「Ruby on Rails」に複数の脆弱性が明らかとなった。深刻な脆弱性も含まれており、セキュリティアップデートが提供されている。</description>
+      <pubDate>Thu, 05 Nov 2026 03:20:17 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192381</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:20:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Radeon VIIとUbuntu 26.04でROCmを動かし、Flash-NextをOpenCodeにつないだ</title>
-      <link>https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode</link>
-      <description>5年ほど前に組んだデスクトップがある。当時、GPUにはすでに型落ちだったRadeon VIIを5万円くらいで入手して載せた。Stable Diffusionで遊んでいた時期もあったが、飽きてからはすっかり出番がなくなっていた。 最近はローカルLLMが盛り上がっている。とはいえ、パソコンもGPUもクソ…</description>
-      <pubDate>Wed, 04 Nov 2026 02:57:10 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/masanork/articles/radeon-vii-rocm-strata-opencode</guid>
+      <title>C/Rust/Julia/Go/Java/JS/PyPy/LuaJIT 実行速度ベンチマーク ― 競プロと科学計算のあいだ</title>
+      <link>https://zenn.dev/trbx304/articles/34fec79781e39c</link>
+      <description>! 休日の暇つぶしでやった、ゆるい比較です。計測は各 1 回だけで、厳密なベンチマークではありません。数字は「だいたいこのくらい」くらいの気持ちで見てください。 はじめに 休日に暇だったので、同じアルゴリズムをいろんな言語で素直に書いて、どれくらい速さが違うのかを比べてみた。 最初は「C が速くて …</description>
+      <pubDate>Thu, 05 Nov 2026 03:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/trbx304/articles/34fec79781e39c</guid>
       <category>Web</category>
     </item>
   </channel>

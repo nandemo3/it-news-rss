@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:57:27 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:20:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Cloud、金融・法務向けGemini活用の無料動画講座をGoogle Skillsで公開</title>
-      <link>https://codezine.jp/article/detail/30211</link>
+      <title>AWS、Amazon Bedrock AgentCore CLI バージョン1.0の一般提供を開始</title>
+      <link>https://codezine.jp/article/detail/30243</link>
       <description></description>
-      <pubDate>Wed, 04 Nov 2026 02:57:27 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30211</guid>
+      <pubDate>Thu, 05 Nov 2026 03:20:16 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30243</guid>
       <category>バックエンド</category>
     </item>
   </channel>

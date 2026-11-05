@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 04 Nov 2026 02:57:10 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 03:20:00 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropic、AIの応答が「本当にそのモデルによるものか」を暗号技術で証明する「FlashProve」を公開</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/</link>
-      <description>Anthropicは、AIモデルの応答が指定したモデルによるものかを暗号技術で証明するシステム「FlashProve」を発表した。ユーザーが応答の改ざんやモデルのすり替えを検知できるようにする。中身を明かさず計算の正しさを証明する暗号技術「zkSNARK」を活用しており、研究用プロトタイプとして関連…</description>
-      <pubDate>Wed, 04 Nov 2026 02:57:10 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/04/2000002863/</guid>
+      <title>OpenAI、「Images 2.6」発表　生成速度50％向上、GIFアニメの生成も可能に</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/05/2000002894/</link>
+      <description>OpenAIは、画像生成AIの新版「ChatGPT Images 2.6」を発表した。画像生成速度の向上や編集精度の改善に加え、新たにGIFアニメーション作成機能や、保存した写真を別チャットで再利用できる機能を追加した。開発者向けには2種類のAPIモデルを提供し、電子透かし技術の導入など安全対策も強…</description>
+      <pubDate>Thu, 05 Nov 2026 03:20:00 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/05/2000002894/</guid>
       <category>AI</category>
     </item>
   </channel>
