@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:20:17 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:18:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Ruby on Rails」にアップデート - 脆弱性21件を修正</title>
-      <link>https://www.security-next.com/192381</link>
-      <description>ウェブアプリケーションフレームワーク「Ruby on Rails」に複数の脆弱性が明らかとなった。深刻な脆弱性も含まれており、セキュリティアップデートが提供されている。</description>
-      <pubDate>Thu, 05 Nov 2026 03:20:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192381</guid>
+      <title>WatchGuardの多要素認証製品に脆弱性 - 「クリティカル」も</title>
+      <link>https://www.security-next.com/192434</link>
+      <description>WatchGuardの多要素認証ソリューション「WatchGuard AuthPoint」で利用する一部コンポーネントに複数の脆弱性が明らかとなった。同社は修正版を提供している。</description>
+      <pubDate>Fri, 06 Nov 2026 03:18:16 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192434</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

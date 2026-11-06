@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 05 Nov 2026 03:20:16 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 06 Nov 2026 03:18:16 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AWS、Amazon Bedrock AgentCore CLI バージョン1.0の一般提供を開始</title>
-      <link>https://codezine.jp/article/detail/30243</link>
+      <title>Microsoftが「Intelligent Terminal 0.3」公開、タブとエージェントを管理するサイドバーを導入</title>
+      <link>https://codezine.jp/article/detail/30255</link>
       <description></description>
-      <pubDate>Thu, 05 Nov 2026 03:20:16 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30243</guid>
+      <pubDate>Fri, 06 Nov 2026 03:18:16 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30255</guid>
       <category>バックエンド</category>
     </item>
   </channel>
