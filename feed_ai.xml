@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 06 Nov 2026 03:18:00 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 07 Nov 2026 02:38:10 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ピザーラ、アニメ「Dr.STONE」のコラボCMに関して謝罪　許諾なく“AI広告”配信</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/</link>
-      <description>宅配ピザチェーン「ピザーラ」を運営するフォーシーズが、TVアニメ「Dr.STONE」のコラボCMについて謝罪した。「TikTok」上でAIを活用した広告の自動生成機能が有効になっていた結果、同アニメ製作委員会の事前監修・許諾を得ていない動画を配信していたという。</description>
-      <pubDate>Fri, 06 Nov 2026 03:18:00 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/06/2000002937/</guid>
+      <title>AI面接を導入したのに、応募者情報は手入力？　採用現場の「二度手間」を解消へ</title>
+      <link>https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/</link>
+      <description>AI面接の導入で面接業務を効率化できても、応募者情報の登録や選考結果の転記など、採用担当者の手作業は残りがちだ。</description>
+      <pubDate>Sat, 07 Nov 2026 02:38:10 GMT</pubDate>
+      <guid isPermaLink="true">https://kn.itmedia.co.jp/kn/article/2611/07/2000002951/</guid>
       <category>AI</category>
     </item>
   </channel>
