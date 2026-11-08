@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:11:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>WatchGuardの多要素認証製品に脆弱性 - 「クリティカル」も</title>
       <link>https://www.security-next.com/192434</link>
       <description>WatchGuardの多要素認証ソリューション「WatchGuard AuthPoint」で利用する一部コンポーネントに複数の脆弱性が明らかとなった。同社は修正版を提供している。</description>
-      <pubDate>Sat, 07 Nov 2026 02:38:27 GMT</pubDate>
+      <pubDate>Sun, 08 Nov 2026 02:11:58 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/192434</guid>
       <category>セキュリティ</category>
     </item>

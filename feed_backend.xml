@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 07 Nov 2026 02:38:27 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2026 02:11:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub、プルリクエストの新しい「Overview」ページをパブリックプレビューとして公開</title>
-      <link>https://codezine.jp/article/detail/30277</link>
+      <title>Google Workspace、機密ファイルへのクライアントサイド暗号化の自動適用をベータ提供</title>
+      <link>https://codezine.jp/article/detail/30279</link>
       <description></description>
-      <pubDate>Sat, 07 Nov 2026 02:38:27 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30277</guid>
+      <pubDate>Sun, 08 Nov 2026 02:11:57 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30279</guid>
       <category>バックエンド</category>
     </item>
   </channel>
