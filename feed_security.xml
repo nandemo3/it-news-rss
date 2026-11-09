@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 02:11:58 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:29:59 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>WatchGuardの多要素認証製品に脆弱性 - 「クリティカル」も</title>
-      <link>https://www.security-next.com/192434</link>
-      <description>WatchGuardの多要素認証ソリューション「WatchGuard AuthPoint」で利用する一部コンポーネントに複数の脆弱性が明らかとなった。同社は修正版を提供している。</description>
-      <pubDate>Sun, 08 Nov 2026 02:11:58 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192434</guid>
+      <title>「SonicOS」のSSL VPNに認証回避の脆弱性 - 悪用報告も</title>
+      <link>https://www.security-next.com/192500</link>
+      <description>SonicWallのファイアウォール向けOS「SonicOS」に複数の脆弱性が明らかとなった。すでに一部の脆弱性については悪用の報告があり、同社はアップデートを呼びかけている。</description>
+      <pubDate>Mon, 09 Nov 2026 02:29:59 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192500</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 08 Nov 2026 02:11:41 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 02:29:43 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Cloudflare Zero Wire × GitHub Actions × Claude で公開サーバーの脆弱性チェックを自動化</title>
-      <link>https://zenn.dev/tomipetit/articles/zero-wire-github-actions</link>
-      <description>はじめに 2026年11月、Cloudflare Radar に Zero Wire という脆弱性インテリジェンスのフィードが公開されました。全 CVE を網羅するのではなく、Web アプリやランタイム、インターネットに公開されたサービスなど「外向きのソフトウェアの重大な CVE」に絞って、ニュース…</description>
-      <pubDate>Sun, 08 Nov 2026 02:11:41 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/tomipetit/articles/zero-wire-github-actions</guid>
+      <title>古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた</title>
+      <link>https://zenn.dev/koheidisney/articles/729394f8be42c5</link>
+      <description>古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた はじめに ローカルでドラえもんは実現できるのか？ 今回はローカルLLMで、ドラえもんの道具を選択するタスクが実現可能かを考察してみました。 私のおうちには古代のグラボ(GTX 1080)があるので、古代のグラボでもエッジでドラえも…</description>
+      <pubDate>Mon, 09 Nov 2026 02:29:43 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/koheidisney/articles/729394f8be42c5</guid>
       <category>Web</category>
     </item>
   </channel>
