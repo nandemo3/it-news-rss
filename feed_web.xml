@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:31:37 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた</title>
-      <link>https://zenn.dev/koheidisney/articles/729394f8be42c5</link>
-      <description>古代のグラボ（GTX 1080）でも動くローカルLLMを動かしてみた はじめに ローカルでドラえもんは実現できるのか？ 今回はローカルLLMで、ドラえもんの道具を選択するタスクが実現可能かを考察してみました。 私のおうちには古代のグラボ(GTX 1080)があるので、古代のグラボでもエッジでドラえも…</description>
-      <pubDate>Mon, 09 Nov 2026 02:29:43 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/koheidisney/articles/729394f8be42c5</guid>
+      <title>少年団の役員向けRAGを作った — 条文単位に切り直しただけで正答52%→72%、ハイブリッド検索は効かなかった</title>
+      <link>https://zenn.dev/mappy55/articles/rulebook-rag-01</link>
+      <description>会則の質問に答えるボットを作る 私は地域の少年スポーツ団体で会計を担当しています。保護者や役員から来る問い合わせは、だいたい決まっています。「年度の途中で入会したら会費はいくらか」「退会したら返金はあるのか」「振込先はどこか」「雨の日の練習はどうなるのか」。答えは会則、入会案内、過去に役員グループへ…</description>
+      <pubDate>Tue, 10 Nov 2026 04:31:37 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/mappy55/articles/rulebook-rag-01</guid>
       <category>Web</category>
     </item>
   </channel>

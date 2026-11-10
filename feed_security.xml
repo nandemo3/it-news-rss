@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:31:54 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「SonicOS」のSSL VPNに認証回避の脆弱性 - 悪用報告も</title>
-      <link>https://www.security-next.com/192500</link>
-      <description>SonicWallのファイアウォール向けOS「SonicOS」に複数の脆弱性が明らかとなった。すでに一部の脆弱性については悪用の報告があり、同社はアップデートを呼びかけている。</description>
-      <pubDate>Mon, 09 Nov 2026 02:29:59 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192500</guid>
+      <title>「Chrome」にセキュリティアップデート - ゼロデイ脆弱性に対応</title>
+      <link>https://www.security-next.com/192553</link>
+      <description>Googleは、ブラウザ「Chrome」のセキュリティアップデートを公開した。複数の脆弱性を修正したが、一部ですでに悪用が確認されているという。</description>
+      <pubDate>Tue, 10 Nov 2026 04:31:54 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192553</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

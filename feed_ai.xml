@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:29:43 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:31:37 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ローカルLLM利用のクリニックを受診してみた　PCマニアの院長が自力で構築、その導入効果は？</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/</link>
-      <description>院内のローカルLLMで診療情報を処理していると話題になった本郷真砂ハートクリニック。院長が「Claude Code」で自作したシステムは、受付から次回予約までの流れをどう変えたのか。患者役として模擬受診し、導入効果を聞いた。</description>
-      <pubDate>Mon, 09 Nov 2026 02:29:43 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/09/2000002916/</guid>
+      <title>dotsが「複数台のローカルコンピュータ接続」に対応　各マシンでタスクを分担可能に</title>
+      <link>https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/</link>
+      <description>OpenAIは常時稼働型エージェントツール「dots」が複数台のローカルコンピュータに接続できるようになったと発表した。</description>
+      <pubDate>Tue, 10 Nov 2026 04:31:37 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/10/2000003058/</guid>
       <category>AI</category>
     </item>
   </channel>

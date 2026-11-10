@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 09 Nov 2026 02:29:59 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 04:31:53 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Devin導入を全社に広げるには？ 小さく始めて組織の力に育てるための、個人→チーム→全社の3ステップロードマップ</title>
-      <link>https://codezine.jp/article/detail/29222</link>
-      <description>第3回では、Devinの使いどころを「任せ方」で3つのタイプに整理しました。個々のタスクをうまく任せられるようになったら、次の問いは「では、これを組織全体にどう広げるか」です。本稿では、導入を個人からチーム、全社へと育てる「個人→チーム→全社」の3ステップロードマップを示し、各段階の進み具合を測るK…</description>
-      <pubDate>Mon, 09 Nov 2026 02:29:59 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/29222</guid>
+      <title>GitHub、SlackとTeamsで使える「@GitHub」を一般提供開始</title>
+      <link>https://codezine.jp/article/detail/30300</link>
+      <description></description>
+      <pubDate>Tue, 10 Nov 2026 04:31:53 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30300</guid>
       <category>バックエンド</category>
     </item>
   </channel>
