@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:31:37 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:38:17 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>少年団の役員向けRAGを作った — 条文単位に切り直しただけで正答52%→72%、ハイブリッド検索は効かなかった</title>
-      <link>https://zenn.dev/mappy55/articles/rulebook-rag-01</link>
-      <description>会則の質問に答えるボットを作る 私は地域の少年スポーツ団体で会計を担当しています。保護者や役員から来る問い合わせは、だいたい決まっています。「年度の途中で入会したら会費はいくらか」「退会したら返金はあるのか」「振込先はどこか」「雨の日の練習はどうなるのか」。答えは会則、入会案内、過去に役員グループへ…</description>
-      <pubDate>Tue, 10 Nov 2026 04:31:37 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/mappy55/articles/rulebook-rag-01</guid>
+      <title>HAC125DX 用の無線カメラを Pi Zero 2 W で作って、ライブスタックしてみた</title>
+      <link>https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera</link>
+      <description>はじめに 撮影専用の天体望遠鏡である Sky-Watcher の HAC125DX（口径 125mm、焦点距離 250mm、F2）のプライムフォーカスに載せる 無線カメラ を作りました。Raspberry Pi Zero 2 W に IMX585 というイメージセンサを取り付け、バッテリーで動かし、…</description>
+      <pubDate>Wed, 11 Nov 2026 02:38:17 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera</guid>
       <category>Web</category>
     </item>
   </channel>

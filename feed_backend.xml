@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 10 Nov 2026 04:31:53 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 02:38:33 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub、SlackとTeamsで使える「@GitHub」を一般提供開始</title>
-      <link>https://codezine.jp/article/detail/30300</link>
+      <title>Google Workspace、自動適用された分類ラベルをバナーからワンクリックで確定可能に</title>
+      <link>https://codezine.jp/article/detail/30314</link>
       <description></description>
-      <pubDate>Tue, 10 Nov 2026 04:31:53 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30300</guid>
+      <pubDate>Wed, 11 Nov 2026 02:38:33 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30314</guid>
       <category>バックエンド</category>
     </item>
   </channel>
