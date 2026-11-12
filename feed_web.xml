@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:41:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>HAC125DX 用の無線カメラを Pi Zero 2 W で作って、ライブスタックしてみた</title>
-      <link>https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera</link>
-      <description>はじめに 撮影専用の天体望遠鏡である Sky-Watcher の HAC125DX（口径 125mm、焦点距離 250mm、F2）のプライムフォーカスに載せる 無線カメラ を作りました。Raspberry Pi Zero 2 W に IMX585 というイメージセンサを取り付け、バッテリーで動かし、…</description>
-      <pubDate>Wed, 11 Nov 2026 02:38:17 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/tsukitsukiss/articles/livestack-hac125dx-wireless-camera</guid>
+      <title>OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った</title>
+      <link>https://zenn.dev/theoj/articles/opencode-development-log</link>
+      <description>はじめに 背景と構想 AIに調査や資料作成を依頼していると、用途ごとに会話が増えていきます。その結果、「どの会話に依頼したか」「どこまで進んだか」「次の依頼をどこへ送るか」を、利用者が会話を行き来しながら覚えておくことになります。毎朝同じ依頼をしたい場合も、利用者が毎朝送り直すしかありません。 いち…</description>
+      <pubDate>Thu, 12 Nov 2026 03:41:15 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/theoj/articles/opencode-development-log</guid>
       <category>Web</category>
     </item>
   </channel>

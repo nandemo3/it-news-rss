@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:38:33 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:41:31 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Workspace、自動適用された分類ラベルをバナーからワンクリックで確定可能に</title>
-      <link>https://codezine.jp/article/detail/30314</link>
+      <title>Git、6件のセキュリティ脆弱性を修正した「Git 2.56.1」をリリース</title>
+      <link>https://codezine.jp/article/detail/30338</link>
       <description></description>
-      <pubDate>Wed, 11 Nov 2026 02:38:33 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30314</guid>
+      <pubDate>Thu, 12 Nov 2026 03:41:31 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30338</guid>
       <category>バックエンド</category>
     </item>
   </channel>

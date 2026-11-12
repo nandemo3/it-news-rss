@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 11 Nov 2026 02:38:17 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 03:41:15 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Googleの「最強」モデル「Gemini 4 Carbon」一般提供開始　Antigravityでのマルチエージェントチーム編成機能も</title>
-      <link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/</link>
-      <description>Googleは同社最先端のAIモデル「Gemini 4 Carbon」の一般提供を開始。同時に、大規模な開発プロジェクトを効率的に遂行するためのマルチエージェントチーム編成機能「/swarm」も発表した。</description>
-      <pubDate>Wed, 11 Nov 2026 02:38:17 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/aiplus/article/2611/11/2000003093/</guid>
+      <title>Google DeepMind、「AlphaGenome 2」発表　細胞の種類ごとにDNA変異の影響を予測するAI</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/12/2000003132/</link>
+      <description>Google DeepMindは、DNA配列が特定の細胞種に与える影響を予測する次世代AIモデル「AlphaGenome 2」を発表した。1億超の細胞データで学習し、細胞の種類や状態を条件指定して予測できる。疾患に関わる遺伝子変異の特定精度を前モデルから大幅に向上させており、非営利目的ならAPI経由…</description>
+      <pubDate>Thu, 12 Nov 2026 03:41:15 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/12/2000003132/</guid>
       <category>AI</category>
     </item>
   </channel>
