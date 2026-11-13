@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:41:31 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:18:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Git、6件のセキュリティ脆弱性を修正した「Git 2.56.1」をリリース</title>
-      <link>https://codezine.jp/article/detail/30338</link>
+      <title>Microsoft、.NET 11ベースの「PowerShell 7.7」を一般提供開始</title>
+      <link>https://codezine.jp/article/detail/30343</link>
       <description></description>
-      <pubDate>Thu, 12 Nov 2026 03:41:31 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30338</guid>
+      <pubDate>Fri, 13 Nov 2026 03:18:58 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30343</guid>
       <category>バックエンド</category>
     </item>
   </channel>

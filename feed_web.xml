@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 12 Nov 2026 03:41:15 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2026 03:18:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenCodeを拡張して、複数の担当と定期実行をひとつのチャットにまとめる「いちょまる」を作った</title>
-      <link>https://zenn.dev/theoj/articles/opencode-development-log</link>
-      <description>はじめに 背景と構想 AIに調査や資料作成を依頼していると、用途ごとに会話が増えていきます。その結果、「どの会話に依頼したか」「どこまで進んだか」「次の依頼をどこへ送るか」を、利用者が会話を行き来しながら覚えておくことになります。毎朝同じ依頼をしたい場合も、利用者が毎朝送り直すしかありません。 いち…</description>
-      <pubDate>Thu, 12 Nov 2026 03:41:15 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/theoj/articles/opencode-development-log</guid>
+      <title>【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）</title>
+      <link>https://zenn.dev/matsu8/articles/a01ba3fc713e03</link>
+      <description>はじめに 前回の記事（①Forward Propagation編）では、Transformerの各部品をnumpyだけで実装し、Forward Propagationが最後まで通ることを確認しました。今回はその続きとして、各部品のBack Propagation（誤差逆伝播法）を実装し、損失から全て…</description>
+      <pubDate>Fri, 13 Nov 2026 03:18:42 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/matsu8/articles/a01ba3fc713e03</guid>
       <category>Web</category>
     </item>
   </channel>
