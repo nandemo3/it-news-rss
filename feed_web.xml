@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 13 Nov 2026 03:18:42 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 14 Nov 2026 02:57:23 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【備忘録】Transformerを数式レベルからnumpyのみで実装して理解する（②Backward Propagation編）</title>
-      <link>https://zenn.dev/matsu8/articles/a01ba3fc713e03</link>
-      <description>はじめに 前回の記事（①Forward Propagation編）では、Transformerの各部品をnumpyだけで実装し、Forward Propagationが最後まで通ることを確認しました。今回はその続きとして、各部品のBack Propagation（誤差逆伝播法）を実装し、損失から全て…</description>
-      <pubDate>Fri, 13 Nov 2026 03:18:42 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/matsu8/articles/a01ba3fc713e03</guid>
+      <title>ng: Neovim のためのシンプルな GUI</title>
+      <link>https://zenn.dev/shougo/articles/ng-nvim-simple-gui</link>
+      <description>はじめに 私は今回 Linux 向けの Neovim GUIとして「ng」を作りました。Go で書いた、最小限の GUI クライアントです。 https://github.com/Shougo/ng ng は Neovim の上に新しいエディタを作るものではありません。Neovim のための、ただの…</description>
+      <pubDate>Sat, 14 Nov 2026 02:57:23 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/shougo/articles/ng-nvim-simple-gui</guid>
       <category>Web</category>
     </item>
   </channel>
