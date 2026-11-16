@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:28:36 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:38:45 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【2026/11/13時点】Claude Duet を Team プランで触ってみた（組織で使うときの注意点つき）</title>
-      <link>https://zenn.dev/canly/articles/e2bd67c9a4c18b</link>
-      <description>はじめに 2026/11/13、Claude Duet が Claude の Team プランの管理画面に出てきました。 筆者が見た範囲でも、X で「Team の管理画面に出た」という報告がいくつもあり、カンリーの管理画面にも 2026/11/13 の午前に「Claude Duet（ベータ）」のペー…</description>
-      <pubDate>Sun, 15 Nov 2026 02:28:36 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/canly/articles/e2bd67c9a4c18b</guid>
+      <title>Lightdashで作れるグラフを試してみた【dbt v2】</title>
+      <link>https://zenn.dev/ryatora/articles/lightdash-chart-catalog</link>
+      <description>1. 概要 1.1 本記事の目的 NBA（アメリカのプロバスケットボールリーグ）のデータを使って、Lightdash[1]で様々なグラフを作成してみました。各グラフのYAMLも載せています。 2章で準備をして、3章でグラフを種類ごとに作ります。4章では、組み込みにないグラフを作る方法に触れます。 1…</description>
+      <pubDate>Mon, 16 Nov 2026 02:38:45 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/ryatora/articles/lightdash-chart-catalog</guid>
       <category>Web</category>
     </item>
   </channel>

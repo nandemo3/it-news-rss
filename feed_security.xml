@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 15 Nov 2026 02:28:52 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 02:39:01 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「NetScaler ADC/Gateway」に複数の「クリティカル」脆弱性</title>
-      <link>https://www.security-next.com/192789</link>
-      <description>Cloud Software Groupは、「Citrix NetScaler ADC（旧Citrix ADC）」「Citrix NetScaler Gateway（旧Citrix Gateway）」のセキュリティアップデートを公開し、深刻な脆弱性に対処した。また「Citrix NetScaler …</description>
-      <pubDate>Sun, 15 Nov 2026 02:28:52 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192789</guid>
+      <title>Check Point製品に脆弱性 - 「PHP2Shell」連鎖での悪用も</title>
+      <link>https://www.security-next.com/192877</link>
+      <description>Check Point Software Technologiesのセキュリティ製品に、管理者権限を奪取されるおそれがある脆弱性が明らかとなった。サイバー攻撃で悪用されたことが確認されている。</description>
+      <pubDate>Mon, 16 Nov 2026 02:39:01 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192877</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
