@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:38:45 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:59:22 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAI、AIエージェントが代わりに支払う「ChatGPT Wallet」　カード番号は渡さず、購入ごとに生体認証</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/16/2000003208/</link>
-      <description>OpenAIは、AIエージェント「dot」による決済機能「ChatGPT Wallet」を発表した。実際のカード情報を店舗に渡さず、購入ごとに生体認証を求める仕組みで安全性を確保する。米国のChatGPT Pro加入者向けに提供を開始した。将来は事前承認に基づく自律決済にも対応する計画。</description>
-      <pubDate>Mon, 16 Nov 2026 02:38:45 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/16/2000003208/</guid>
+      <title>AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/17/2000003241/</link>
+      <description>米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&amp;P 2027採択）は、AIチャット…</description>
+      <pubDate>Tue, 17 Nov 2026 04:59:22 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/17/2000003241/</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 16 Nov 2026 02:39:01 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 04:59:39 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Check Point製品に脆弱性 - 「PHP2Shell」連鎖での悪用も</title>
-      <link>https://www.security-next.com/192877</link>
-      <description>Check Point Software Technologiesのセキュリティ製品に、管理者権限を奪取されるおそれがある脆弱性が明らかとなった。サイバー攻撃で悪用されたことが確認されている。</description>
-      <pubDate>Mon, 16 Nov 2026 02:39:01 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192877</guid>
+      <title>「Apache TomEE」が脆弱性38件に対処 - 対象モジュールの削除も</title>
+      <link>https://www.security-next.com/192927</link>
+      <description>ウェブアプリケーションサーバ「Apache TomEE」の開発チームは、複数の脆弱性が確認されたとして修正版を公開した。一部の脆弱な機能については関連モジュールを削除することで対処している。</description>
+      <pubDate>Tue, 17 Nov 2026 04:59:39 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192927</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
