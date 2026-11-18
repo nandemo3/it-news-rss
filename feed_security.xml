@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:59:39 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:05:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Apache TomEE」が脆弱性38件に対処 - 対象モジュールの削除も</title>
-      <link>https://www.security-next.com/192927</link>
-      <description>ウェブアプリケーションサーバ「Apache TomEE」の開発チームは、複数の脆弱性が確認されたとして修正版を公開した。一部の脆弱な機能については関連モジュールを削除することで対処している。</description>
-      <pubDate>Tue, 17 Nov 2026 04:59:39 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192927</guid>
+      <title>「Firefox 160.0.1」公開 - 動画再生関連など脆弱性2件を修正</title>
+      <link>https://www.security-next.com/192996</link>
+      <description>Mozilla Foundationは、ウェブブラウザ「Firefox」で2件の脆弱性が判明したとして、セキュリティアップデート「Firefox 160.0.1」を公開した。</description>
+      <pubDate>Wed, 18 Nov 2026 04:05:26 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/192996</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

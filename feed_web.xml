@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:59:23 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:05:09 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>実践パスキー認証設計</title>
-      <link>https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9</link>
-      <description>この記事の想定読者 これからパスキーを自分のサービスに入れたいが、まず全体像と勘所をつかみたい開発エンジニア パスキーがなぜ有効かを、ビジネス側 (事業責任者、営業、サポート) に説明する立場のテックリード library の使い方の解説ではありません。「何を決めておけば、後から困らないか」を、実際…</description>
-      <pubDate>Tue, 17 Nov 2026 04:59:23 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/yasuakiomokawa/articles/89f5c46e8effe9</guid>
+      <title>L40S 1台で社内RAGは何人まで使えるか</title>
+      <link>https://zenn.dev/epicai_techblog/articles/29b509117755af</link>
+      <description>はじめに 社内にLLMを導入する際に、「このGPUで何人まで利用できるのか」とよく尋ねられます。答えはモデルや設定によって変わり、検索用の埋め込みモデルを同じGPUで動かすかどうかにも左右されます。そこで、実際の利用に近い条件で計測することにしました。 利用人数を示した資料はすでにいくつか公開されて…</description>
+      <pubDate>Wed, 18 Nov 2026 04:05:09 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/29b509117755af</guid>
       <category>Web</category>
     </item>
   </channel>

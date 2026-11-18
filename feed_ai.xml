@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 17 Nov 2026 04:59:22 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 04:05:09 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIに打ち明けた相談は“広告トラッカー”に筒抜け？　ChatGPT、Claude、Gemini含む42サービスを米大が調査</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/17/2000003241/</link>
-      <description>米ニューヨーク州立大学ストーニーブルック校に所属する研究者らが発表した論文「Penny for Your Prompts: A Measurement Study of Contextual Leakage in AI Chat Platforms」（IEEE S&amp;P 2027採択）は、AIチャット…</description>
-      <pubDate>Tue, 17 Nov 2026 04:59:22 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/17/2000003241/</guid>
+      <title>わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html</link>
+      <description>ChatGPTがユーザーに向けて、自社をどのように紹介しているのかを把握したいと考える企業は多いだろう。OpenAIは、その把握に役立つ機能を企業向けにβ版で公開した。米国の対象企業であれば、自社のAIエージェントをChatGPT広告のリンク先に設定することもできる。</description>
+      <pubDate>Wed, 18 Nov 2026 04:05:09 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html</guid>
       <category>AI</category>
     </item>
   </channel>
