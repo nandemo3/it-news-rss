@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:01:27 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>L40S 1台で社内RAGは何人まで使えるか</title>
-      <link>https://zenn.dev/epicai_techblog/articles/29b509117755af</link>
-      <description>はじめに 社内にLLMを導入する際に、「このGPUで何人まで利用できるのか」とよく尋ねられます。答えはモデルや設定によって変わり、検索用の埋め込みモデルを同じGPUで動かすかどうかにも左右されます。そこで、実際の利用に近い条件で計測することにしました。 利用人数を示した資料はすでにいくつか公開されて…</description>
-      <pubDate>Wed, 18 Nov 2026 04:05:09 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/epicai_techblog/articles/29b509117755af</guid>
+      <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
+      <link>https://zenn.dev/dress_code/articles/6c179ae5129131</link>
+      <description>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware …</description>
+      <pubDate>Thu, 19 Nov 2026 04:01:27 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/6c179ae5129131</guid>
       <category>Web</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:05:25 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:01:43 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>異分野の実践者からUXデザインの知見を学ぶ「Learning UX Design Conference 2026」のプログラムが公開</title>
-      <link>https://codezine.jp/article/detail/30402</link>
+      <title>AI時代、コードを書かなくなって気づいたこととは？ エンジニアの成長と専門性を考える！</title>
+      <link>https://codezine.jp/article/detail/30349</link>
       <description></description>
-      <pubDate>Wed, 18 Nov 2026 04:05:25 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30402</guid>
+      <pubDate>Thu, 19 Nov 2026 04:01:43 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30349</guid>
       <category>バックエンド</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:05:26 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:01:44 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Firefox 160.0.1」公開 - 動画再生関連など脆弱性2件を修正</title>
-      <link>https://www.security-next.com/192996</link>
-      <description>Mozilla Foundationは、ウェブブラウザ「Firefox」で2件の脆弱性が判明したとして、セキュリティアップデート「Firefox 160.0.1」を公開した。</description>
-      <pubDate>Wed, 18 Nov 2026 04:05:26 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/192996</guid>
+      <title>米当局、脆弱性の悪用リストに4件を追加</title>
+      <link>https://www.security-next.com/193071</link>
+      <description>米当局は、「Apache Axis」「REDCap」「Synology DSM」「LiteLLM」に関する脆弱性が実際の攻撃で悪用されているとして注意を呼びかけた。</description>
+      <pubDate>Thu, 19 Nov 2026 04:01:44 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/193071</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 18 Nov 2026 04:05:09 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 04:01:27 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>わが社はChatGPTでどう紹介されている？　OpenAIが企業向けの確認機能を提供開始</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html</link>
-      <description>ChatGPTがユーザーに向けて、自社をどのように紹介しているのかを把握したいと考える企業は多いだろう。OpenAIは、その把握に役立つ機能を企業向けにβ版で公開した。米国の対象企業であれば、自社のAIエージェントをChatGPT広告のリンク先に設定することもできる。</description>
-      <pubDate>Wed, 18 Nov 2026 04:05:09 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2611/18/news022.html</guid>
+      <title>ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/19/2000003309/</link>
+      <description>ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実…</description>
+      <pubDate>Thu, 19 Nov 2026 04:01:27 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003309/</guid>
       <category>AI</category>
     </item>
   </channel>
