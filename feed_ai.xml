@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:54:33 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>ちまたの“格安GPT”、中身は偽物？　非公式APIのモデル偽装を調査した結果……</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/19/2000003309/</link>
-      <description>ドイツのCISPAとカナダのウォータールー大学に所属する研究者らが発表した論文「Real Money, Fake Models: Deceptive Model Claims in Shadow APIs」は、LLM（大規模言語モデル）の公式APIを安価に仲介する非公式サービス「シャドーAPI」の実…</description>
-      <pubDate>Thu, 19 Nov 2026 04:01:27 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/19/2000003309/</guid>
+      <title>日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？</title>
+      <link>https://www.itmedia.co.jp/business/articles/2611/20/news024.html</link>
+      <description>日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる。CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見据える戦略を語った。現場に入る精鋭チーム「FDE」を1年で3…</description>
+      <pubDate>Fri, 20 Nov 2026 03:54:33 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2611/20/news024.html</guid>
       <category>AI</category>
     </item>
   </channel>

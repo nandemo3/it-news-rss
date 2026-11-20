@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:01:43 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:54:49 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI時代、コードを書かなくなって気づいたこととは？ エンジニアの成長と専門性を考える！</title>
-      <link>https://codezine.jp/article/detail/30349</link>
+      <title>Google Docs、インラインキャプション・相互参照・キャプション一覧の3機能を追加</title>
+      <link>https://codezine.jp/article/detail/30421</link>
       <description></description>
-      <pubDate>Thu, 19 Nov 2026 04:01:43 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30349</guid>
+      <pubDate>Fri, 20 Nov 2026 03:54:49 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30421</guid>
       <category>バックエンド</category>
     </item>
   </channel>

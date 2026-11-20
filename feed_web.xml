@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 19 Nov 2026 04:01:27 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2026 03:54:33 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>tsrs を導入したら oxlint の type-aware linting と typecheck が爆速になった話</title>
-      <link>https://zenn.dev/dress_code/articles/6c179ae5129131</link>
-      <description>はじめに こんにちは。ぷーじ（@yug1224）です。 以前の記事で、フロントエンドとバックエンドに oxlint、oxfmt、tsgo を入れた話を書きました。 https://zenn.dev/dress_code/articles/d655cd7a43b936 その後も type-aware …</description>
-      <pubDate>Thu, 19 Nov 2026 04:01:27 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/dress_code/articles/6c179ae5129131</guid>
+      <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
+      <link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link>
+      <description>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのよう…</description>
+      <pubDate>Fri, 20 Nov 2026 03:54:33 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/9562962cc181a1</guid>
       <category>Web</category>
     </item>
   </channel>
