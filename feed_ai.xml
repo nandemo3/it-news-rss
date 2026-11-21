@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:54:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:51:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>日立が「フィジカルAI」で狙う“5年で事業規模2倍”の勝算　3.5万人の新会社トップが語る「戦略の2本柱」とは？</title>
-      <link>https://www.itmedia.co.jp/business/articles/2611/20/news024.html</link>
-      <description>日立製作所は2027年4月、米国子会社2社を統合し、27カ国・約3万5000人規模のデジタル新会社「Hitachi Digital」を発足させる。CEO兼Chairmanに就任するアナンド・ビルジェ氏が取材に応じ、今後5年で事業規模2倍を見据える戦略を語った。現場に入る精鋭チーム「FDE」を1年で3…</description>
-      <pubDate>Fri, 20 Nov 2026 03:54:33 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/business/articles/2611/20/news024.html</guid>
+      <title>AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html</link>
+      <description>「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。</description>
+      <pubDate>Sat, 21 Nov 2026 03:51:08 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html</guid>
       <category>AI</category>
     </item>
   </channel>

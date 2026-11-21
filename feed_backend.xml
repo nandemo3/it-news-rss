@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:54:49 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:51:24 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google Docs、インラインキャプション・相互参照・キャプション一覧の3機能を追加</title>
-      <link>https://codezine.jp/article/detail/30421</link>
+      <title>マイクロソフトの牛尾剛氏、リアル登壇決定！ AI時代に世界ではエンジニアの価値がどのように移り変わっているかを語る！</title>
+      <link>https://codezine.jp/article/detail/30347</link>
       <description></description>
-      <pubDate>Fri, 20 Nov 2026 03:54:49 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30421</guid>
+      <pubDate>Sat, 21 Nov 2026 03:51:24 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30347</guid>
       <category>バックエンド</category>
     </item>
   </channel>

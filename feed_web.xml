@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 20 Nov 2026 03:54:33 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 21 Nov 2026 03:51:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title>
-      <link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link>
-      <description>自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのよう…</description>
-      <pubDate>Fri, 20 Nov 2026 03:54:33 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nttdata_tech/articles/9562962cc181a1</guid>
+      <title>RTKの走行データ収集でAndroidの記録アプリを外から監視する</title>
+      <link>https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</link>
+      <description>こんにちは。ナウア株式会社の柳です。 私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。 研究・開発に使うため、車両で走行データを集めることもあります。 走行中の位置の記録に使うのは、RTK…</description>
+      <pubDate>Sat, 21 Nov 2026 03:51:08 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</guid>
       <category>Web</category>
     </item>
   </channel>
