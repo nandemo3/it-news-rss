@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:51:24 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:55:13 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「VMware vCenter」に認証回避の脆弱性 - ゼロデイ攻撃も</title>
       <link>https://www.security-next.com/193141</link>
       <description>Broadcomが提供する仮想化環境の管理ソフトウェア「VMware vCenter」に深刻な認証回避の脆弱性が明らかとなった。すでに攻撃で悪用されている。</description>
-      <pubDate>Sat, 21 Nov 2026 03:51:24 GMT</pubDate>
+      <pubDate>Sun, 22 Nov 2026 02:55:13 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/193141</guid>
       <category>セキュリティ</category>
     </item>

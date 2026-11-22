@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:54:56 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AIで成果を出す企業ほど「人を増やす」？　“通説”を否定する調査結果をIDCが発表</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html</link>
-      <description>「AIが普及すれば企業の人員は減る」という通説と食い違う調査結果を、IDCが発表した。AI投資で高いROIを得ている組織ほど、今後の増員を見込む割合が高い。AIで成果を出す企業が人員を増やすのはなぜか。</description>
-      <pubDate>Sat, 21 Nov 2026 03:51:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2611/21/news003.html</guid>
+      <title>Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/22/2000003388/</link>
+      <description>Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。</description>
+      <pubDate>Sun, 22 Nov 2026 02:54:56 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/22/2000003388/</guid>
       <category>AI</category>
     </item>
   </channel>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sat, 21 Nov 2026 03:51:08 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 22 Nov 2026 02:54:56 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>RTKの走行データ収集でAndroidの記録アプリを外から監視する</title>
-      <link>https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</link>
-      <description>こんにちは。ナウア株式会社の柳です。 私たちは、測定装置とエッジAI端末を組み合わせた調査機器を運用しています。 機器の状態を確かめたり設定を変えたりする管理画面は、自社で開発したWebアプリです。 研究・開発に使うため、車両で走行データを集めることもあります。 走行中の位置の記録に使うのは、RTK…</description>
-      <pubDate>Sat, 21 Nov 2026 03:51:08 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/nauh_blog/articles/b60cd6973c8a3f</guid>
+      <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
+      <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
+      <description>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いた…</description>
+      <pubDate>Sun, 22 Nov 2026 02:54:56 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/karamage/articles/73027ee36796dc</guid>
       <category>Web</category>
     </item>
   </channel>
