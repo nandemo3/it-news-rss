@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 02:55:12 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:37:03 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Google、Workspace Studioのフローの共同作業ステップを制御する管理者設定を追加</title>
-      <link>https://codezine.jp/article/detail/30437</link>
+      <title>【年収300万アップも夢じゃない？】AI時代を生き抜く、エンジニアの生き残り戦略</title>
+      <link>https://codezine.jp/article/detail/30352</link>
       <description></description>
-      <pubDate>Sun, 22 Nov 2026 02:55:12 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30437</guid>
+      <pubDate>Mon, 23 Nov 2026 03:37:03 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30352</guid>
       <category>バックエンド</category>
     </item>
   </channel>

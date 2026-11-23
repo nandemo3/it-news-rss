@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 02:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:36:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title>
-      <link>https://zenn.dev/karamage/articles/73027ee36796dc</link>
-      <description>「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いた…</description>
-      <pubDate>Sun, 22 Nov 2026 02:54:56 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/karamage/articles/73027ee36796dc</guid>
+      <title>SideLoadをしよう！〜SideStoreをiPhone単体で入れる〜(SideInstaller編)</title>
+      <link>https://zenn.dev/l_port8000/articles/7550549e6e9970</link>
+      <description>⚠注意書き ・非公式アプリを助長するものではありません。 ・iOS27以上じゃないと単体は無理らしい。 ・アプリの出どころをしっかり確認してください。通常GitHubやdecrypt.download, ipatoolからのインストールのみに限定してください。 ・わからないところがあったらTwitt…</description>
+      <pubDate>Mon, 23 Nov 2026 03:36:46 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/l_port8000/articles/7550549e6e9970</guid>
       <category>Web</category>
     </item>
   </channel>

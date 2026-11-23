@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Sun, 22 Nov 2026 02:54:56 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 03:36:46 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/22/2000003388/</link>
-      <description>Anthropicの数学者レベント・アルポーゲ氏は、「Claude」と共同で未解決問題「リーマン予想」の証明を発見したと発表した。証明支援系「Lean」で記述された1700万行の形式証明を公開しており、Leanコミュニティは複数の検証を経て「証明は正しい」と認定する共同声明を出した。</description>
-      <pubDate>Sun, 22 Nov 2026 02:54:56 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/22/2000003388/</guid>
+      <title>OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/23/2000003394/</link>
+      <description>OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。</description>
+      <pubDate>Mon, 23 Nov 2026 03:36:46 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/23/2000003394/</guid>
       <category>AI</category>
     </item>
   </channel>
