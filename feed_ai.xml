@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:51:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>OpenAIのチーフサイエンティスト、AI開発に業界共通の「上限」を提案　指標は「パープレキシティ」</title>
-      <link>https://www.itmedia.co.jp/news/article/2611/23/2000003394/</link>
-      <description>OpenAIのチーフサイエンティストが、AIの予測精度を示す「パープレキシティ」を共通指標とし、開発の上限を業界で設けるよう提案する論考を公開した。GPT-3.5以降の社内モデルの推移も開示し、早ければ2027年にも事前学習が急加速する恐れがあるとして、監視技術が追いつくまでの歯止めを訴えている。</description>
-      <pubDate>Mon, 23 Nov 2026 03:36:46 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/23/2000003394/</guid>
+      <title>「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える</title>
+      <link>https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html</link>
+      <description>AI時代の業務システムは、どのような姿になるのか。人とAIが役割を分担して働く時代に業務システムの中枢を担うのは何か。サイボウズ「kintone」の進化を見ながら考察する。</description>
+      <pubDate>Tue, 24 Nov 2026 06:51:42 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html</guid>
       <category>AI</category>
     </item>
   </channel>

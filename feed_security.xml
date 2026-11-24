@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:37:04 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:51:58 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「VMware vCenter」に認証回避の脆弱性 - ゼロデイ攻撃も</title>
-      <link>https://www.security-next.com/193141</link>
-      <description>Broadcomが提供する仮想化環境の管理ソフトウェア「VMware vCenter」に深刻な認証回避の脆弱性が明らかとなった。すでに攻撃で悪用されている。</description>
-      <pubDate>Mon, 23 Nov 2026 03:37:04 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/193141</guid>
+      <title>「Roundcube」にセキュリティ修正 - 「1.6」系は今回が最後</title>
+      <link>https://www.security-next.com/193210</link>
+      <description>ウェブメールソフトウェア「Roundcube Webmail」の開発チームは、セキュリティに関する複数の問題へ対処した「同1.7.7」「同1.6.22」を公開した。「同1.6」系については今回が最後のリリースとしている。</description>
+      <pubDate>Tue, 24 Nov 2026 06:51:58 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/193210</guid>
       <category>セキュリティ</category>
     </item>
   </channel>

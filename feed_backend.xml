@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:37:03 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:51:57 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>【年収300万アップも夢じゃない？】AI時代を生き抜く、エンジニアの生き残り戦略</title>
-      <link>https://codezine.jp/article/detail/30352</link>
+      <title>楽天インサイト、企画職のAI活用実態調査を発表。実務での活用は63.1％、30代が最多に</title>
+      <link>https://codezine.jp/article/detail/30456</link>
       <description></description>
-      <pubDate>Mon, 23 Nov 2026 03:37:03 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30352</guid>
+      <pubDate>Tue, 24 Nov 2026 06:51:57 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30456</guid>
       <category>バックエンド</category>
     </item>
   </channel>

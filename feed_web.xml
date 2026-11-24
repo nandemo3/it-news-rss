@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Mon, 23 Nov 2026 03:36:46 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 06:51:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>SideLoadをしよう！〜SideStoreをiPhone単体で入れる〜(SideInstaller編)</title>
-      <link>https://zenn.dev/l_port8000/articles/7550549e6e9970</link>
-      <description>⚠注意書き ・非公式アプリを助長するものではありません。 ・iOS27以上じゃないと単体は無理らしい。 ・アプリの出どころをしっかり確認してください。通常GitHubやdecrypt.download, ipatoolからのインストールのみに限定してください。 ・わからないところがあったらTwitt…</description>
-      <pubDate>Mon, 23 Nov 2026 03:36:46 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/l_port8000/articles/7550549e6e9970</guid>
+      <title>Alpamayo は Jetson でリアルタイム推論できるか？ R1 から 2 Edge まで、H100 プロファイルからの実行時間推定</title>
+      <link>https://zenn.dev/fixstars/articles/alpamayo-h100</link>
+      <description>概要 本記事では、自動運転向けの VLA モデル Alpamayo R1 / 1.5 と Alpamayo 2 Edge、そして R1 / 1.5 の推論を高速化するフレームワーク FlashDrive を H100 SXM5 (以下 H100) で実際に実行し、そのプロファイリング結果をもとに R…</description>
+      <pubDate>Tue, 24 Nov 2026 06:51:42 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/fixstars/articles/alpamayo-h100</guid>
       <category>Web</category>
     </item>
   </channel>
