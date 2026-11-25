@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:17:52 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>Alpamayo は Jetson でリアルタイム推論できるか？ R1 から 2 Edge まで、H100 プロファイルからの実行時間推定</title>
-      <link>https://zenn.dev/fixstars/articles/alpamayo-h100</link>
-      <description>概要 本記事では、自動運転向けの VLA モデル Alpamayo R1 / 1.5 と Alpamayo 2 Edge、そして R1 / 1.5 の推論を高速化するフレームワーク FlashDrive を H100 SXM5 (以下 H100) で実際に実行し、そのプロファイリング結果をもとに R…</description>
-      <pubDate>Tue, 24 Nov 2026 06:51:42 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/fixstars/articles/alpamayo-h100</guid>
+      <title>MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える</title>
+      <link>https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</link>
+      <description>家の記録を、Claude Codeに書かせている。その日にやったことの時間、休肝日、一言日記、外食、子どもの記録など、Googleスプレッドシートに書き込むMCPのツールが7つある（家の用事をClaude Codeに任せている話は、個人ブログにまとめている）。 作ってから気づいたのは、7つのうち6つ…</description>
+      <pubDate>Wed, 25 Nov 2026 05:17:52 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</guid>
       <category>Web</category>
     </item>
   </channel>

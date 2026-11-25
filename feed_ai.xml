@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_ai.xml</link>
     <description>AI・機械学習の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:51:42 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:17:52 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_ai.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「ノーコード」の次は何か？　AIを組み込むkintoneの“新しい呼び名”を考える</title>
-      <link>https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html</link>
-      <description>AI時代の業務システムは、どのような姿になるのか。人とAIが役割を分担して働く時代に業務システムの中枢を担うのは何か。サイボウズ「kintone」の進化を見ながら考察する。</description>
-      <pubDate>Tue, 24 Nov 2026 06:51:42 GMT</pubDate>
-      <guid isPermaLink="true">https://www.itmedia.co.jp/enterprise/articles/2611/24/news045.html</guid>
+      <title>AIでドーピングしたコンサルの実力は　使わない人材との能力差、BCG約500人で検証　Nature系列誌</title>
+      <link>https://www.itmedia.co.jp/news/article/2611/25/2000003421/</link>
+      <description>米ボストン大学、米BCGのヘンダーソン研究所、米OpenAIに所属する研究者らがNature Human Behaviourで発表した論文「Generative AI and the temporary upskilling of knowledge workers」は、生成AIによる一時的なスキル…</description>
+      <pubDate>Wed, 25 Nov 2026 05:17:52 GMT</pubDate>
+      <guid isPermaLink="true">https://www.itmedia.co.jp/news/article/2611/25/2000003421/</guid>
       <category>AI</category>
     </item>
   </channel>

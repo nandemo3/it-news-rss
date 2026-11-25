@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Tue, 24 Nov 2026 06:51:57 GMT</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 05:18:08 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>楽天インサイト、企画職のAI活用実態調査を発表。実務での活用は63.1％、30代が最多に</title>
-      <link>https://codezine.jp/article/detail/30456</link>
+      <title>AI時代のプロダクトロードマップとの向き合い方を議論、「SaaSがこの先生きのこるには #3」が12月2日開催</title>
+      <link>https://codezine.jp/article/detail/30479</link>
       <description></description>
-      <pubDate>Tue, 24 Nov 2026 06:51:57 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30456</guid>
+      <pubDate>Wed, 25 Nov 2026 05:18:08 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30479</guid>
       <category>バックエンド</category>
     </item>
   </channel>
