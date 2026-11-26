@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:48:55 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>AI時代のプロダクトロードマップとの向き合い方を議論、「SaaSがこの先生きのこるには #3」が12月2日開催</title>
-      <link>https://codezine.jp/article/detail/30479</link>
+      <title>Google、Gemini Notebookのフラッシュカードに画像やストップウォッチなどを追加</title>
+      <link>https://codezine.jp/article/detail/30470</link>
       <description></description>
-      <pubDate>Wed, 25 Nov 2026 05:18:08 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30479</guid>
+      <pubDate>Thu, 26 Nov 2026 04:48:55 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30470</guid>
       <category>バックエンド</category>
     </item>
   </channel>

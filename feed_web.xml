@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:17:52 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:48:39 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>MCPの記録ツールを追記だけで作ると、訂正のたびに重複が残る。AIは「消せない」と正直に言うが、集計は間違える</title>
-      <link>https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</link>
-      <description>家の記録を、Claude Codeに書かせている。その日にやったことの時間、休肝日、一言日記、外食、子どもの記録など、Googleスプレッドシートに書き込むMCPのツールが7つある（家の用事をClaude Codeに任せている話は、個人ブログにまとめている）。 作ってから気づいたのは、7つのうち6つ…</description>
-      <pubDate>Wed, 25 Nov 2026 05:17:52 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/kentaro_tak/articles/mcp-logger-append-only-corrections</guid>
+      <title>specは実装後に8割削除しよう</title>
+      <link>https://zenn.dev/ruri/articles/distill-specs-after-implementation</link>
+      <description>参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義 参照日: 2026-10-18 TL;DR spec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいもの…</description>
+      <pubDate>Thu, 26 Nov 2026 04:48:39 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/ruri/articles/distill-specs-after-implementation</guid>
       <category>Web</category>
     </item>
   </channel>

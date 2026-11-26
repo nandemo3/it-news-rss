@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Wed, 25 Nov 2026 05:18:08 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 04:48:55 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>「Drupal」脆弱性、サイト乗っ取りのおそれ - すでに悪用も</title>
-      <link>https://www.security-next.com/193298</link>
-      <description>コンテンツ管理システム「Drupal」に深刻な脆弱性が明らかとなった。認証を必要とすることなくウェブサイトを乗っ取ることができ、すでに悪用の報告もある。</description>
-      <pubDate>Wed, 25 Nov 2026 05:18:08 GMT</pubDate>
-      <guid isPermaLink="true">https://www.security-next.com/193298</guid>
+      <title>「Joomla」に58件の脆弱性 - 「クリティカル」は4件</title>
+      <link>https://www.security-next.com/193353</link>
+      <description>コンテンツ管理システム「Joomla」に複数の脆弱性が明らかとなった。開発チームでは、脆弱性へ対処したアップデートを提供している。</description>
+      <pubDate>Thu, 26 Nov 2026 04:48:55 GMT</pubDate>
+      <guid isPermaLink="true">https://www.security-next.com/193353</guid>
       <category>セキュリティ</category>
     </item>
   </channel>
