@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Thu, 26 Nov 2026 04:48:39 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 04:52:29 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>specは実装後に8割削除しよう</title>
-      <link>https://zenn.dev/ruri/articles/distill-specs-after-implementation</link>
-      <description>参考にした仕組み: GitHub Spec Kit / OpenSpec のテンプレートとコマンド定義 参照日: 2026-10-18 TL;DR spec は、実装の前に考えるための文書です。実装が終わったら、そのまま残さずに仕分けます。実際の spec 7 本で数えると、8 割強は消してよいもの…</description>
-      <pubDate>Thu, 26 Nov 2026 04:48:39 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/ruri/articles/distill-specs-after-implementation</guid>
+      <title>迷惑メール対策をしているのに、なぜ詐欺メールは届くのか</title>
+      <link>https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars</link>
+      <description>つい先日、知り合いがメールの受け取りを「キャッチオール」にしてみたそうです。 キャッチオールとは？ 特定の宛先（ローカル部）を決めず、ドメイン全体に届いたメールをまるごと受け取る設定のこと。 すると、1 時間も経たないうちに迷惑メールが数十通届き、しかもそのすべてが詐欺メールだったとのこと。 「キャ…</description>
+      <pubDate>Fri, 27 Nov 2026 04:52:29 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars</guid>
       <category>Web</category>
     </item>
   </channel>
