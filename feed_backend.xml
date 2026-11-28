@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_backend.xml</link>
     <description>バックエンド・インフラの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:52:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:37:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_backend.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>GitHub、Copilot code reviewの課金先が未選択なら12月30日から組織課金に</title>
-      <link>https://codezine.jp/article/detail/30487</link>
+      <title>llama.cppのAMD Ryzen／Radeon向けベンチマークダッシュボードが公開</title>
+      <link>https://codezine.jp/article/detail/30503</link>
       <description></description>
-      <pubDate>Fri, 27 Nov 2026 04:52:45 GMT</pubDate>
-      <guid isPermaLink="true">https://codezine.jp/article/detail/30487</guid>
+      <pubDate>Sat, 28 Nov 2026 04:37:42 GMT</pubDate>
+      <guid isPermaLink="true">https://codezine.jp/article/detail/30503</guid>
       <category>バックエンド</category>
     </item>
   </channel>

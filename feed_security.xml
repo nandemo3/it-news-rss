@@ -5,7 +5,7 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_security.xml</link>
     <description>セキュリティの最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:52:45 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:37:42 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_security.xml" rel="self" type="application/rss+xml"/>
 
@@ -13,7 +13,7 @@
       <title>「ESX」「vCenter」などVMware製品に23件の脆弱性</title>
       <link>https://www.security-next.com/193422</link>
       <description>Broadcomは、「VMware ESX」や「VMware vCenter」など複数製品に関するセキュリティアドバイザリを公開した。「クリティカル」とされる脆弱性も複数含まれる。</description>
-      <pubDate>Fri, 27 Nov 2026 04:52:45 GMT</pubDate>
+      <pubDate>Sat, 28 Nov 2026 04:37:42 GMT</pubDate>
       <guid isPermaLink="true">https://www.security-next.com/193422</guid>
       <category>セキュリティ</category>
     </item>

@@ -5,16 +5,16 @@
     <link>https://nandemo3.github.io/it-news-rss/feed_web.xml</link>
     <description>Web・フロントエンド開発の最新ニュース（自動生成）</description>
     <language>ja</language>
-    <lastBuildDate>Fri, 27 Nov 2026 04:52:29 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 28 Nov 2026 04:37:26 GMT</lastBuildDate>
     <ttl>720</ttl>
     <atom:link href="https://nandemo3.github.io/it-news-rss/feed_web.xml" rel="self" type="application/rss+xml"/>
 
     <item>
-      <title>迷惑メール対策をしているのに、なぜ詐欺メールは届くのか</title>
-      <link>https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars</link>
-      <description>つい先日、知り合いがメールの受け取りを「キャッチオール」にしてみたそうです。 キャッチオールとは？ 特定の宛先（ローカル部）を決めず、ドメイン全体に届いたメールをまるごと受け取る設定のこと。 すると、1 時間も経たないうちに迷惑メールが数十通届き、しかもそのすべてが詐欺メールだったとのこと。 「キャ…</description>
-      <pubDate>Fri, 27 Nov 2026 04:52:29 GMT</pubDate>
-      <guid isPermaLink="true">https://zenn.dev/akagumi/articles/catch-all-phishing-invisible-chars</guid>
+      <title>Leanで安全制約を書くと、ハザード候補がビルドエラーとして見つかる</title>
+      <link>https://zenn.dev/kokeshim0chi/articles/lean-safety-constraint-build-error</link>
+      <description>Google の『Site Reliability Engineering』第2版に、「Safety Engineering for SRE with STPA and CAST」という章が加わりました。STAMP/STPA はシステム安全工学から生まれた考え方と分析手法で、Google では202…</description>
+      <pubDate>Sat, 28 Nov 2026 04:37:26 GMT</pubDate>
+      <guid isPermaLink="true">https://zenn.dev/kokeshim0chi/articles/lean-safety-constraint-build-error</guid>
       <category>Web</category>
     </item>
   </channel>
